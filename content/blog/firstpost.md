@@ -1,25 +1,31 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-tags: another tag
+title: The other
+description: Words that mean "everyone else"
+date: 2023-05-11
+# tags: another tag
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+First committed to version control
+[in 2013](https://github.com/jhannah/jays.net/commits/main/the_other.txt),
+I'm fascinated when any group of people has a word that means "everyone else."
+So I've been collecting them. Additions welcome.
 
-## Section Header
+```
+no cryptocurrency:  normie (ignorant)
+                    nocoiner (aware rejection)
+non-academia:       industry
+non-Amish:          English
+non-Catholic:       protestant
+non-gun-owner:      sheeple
+non-Jewish:         gentile, goy
+non-LGBTQI:         cisgender
+non-military:       civilian
+non-Mormon:         gentile
+non-Muslim:         infidel
+non-Scientologist:  SP (suppressive person)
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
+From fiction:
+non-Grisha:         Otkazat'sya (Shadow & Bone)
+non-wizard:         muggle (Harry Potter)
+non-witch:          fain (Half Bad)
 ```

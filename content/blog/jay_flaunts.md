@@ -17,3 +17,24 @@ Why do I hve two feeds? Because I'm a huge fan of
 and the promise of "the Fediverse is more than just Mastodon!"
 So I launched up on Castopod too.
 [But it's not yet everything I hoped it would be?](/blog/castopod/)
+
+I also use [a tiny OpenAI Whisper script](https://github.com/jhannah/sandbox/blob/main/OpenAI/whisper.py)
+to kick out transcripts and copy/paste those into the show notes (GitHub).
+I find the errors very entertaining.
+Way better than typing it all out manually.
+It wouldn't be so bad to clean up that output. I haven't bothered.
+
+I'm sure better transcript services are available.
+Some of them identify multiple speakers and label them! Wowzers!
+
+And Apple Podcasts.app has *excellent* transcripts generated automatically,
+but you can only see those from inside their apps.
+
+I'm not aware of any transcript services that work as well as OpenAI
+Whisper does for the pennies those transcripts cost me.
+(On top of the $20/month I throw at OpenAI.)
+
+I also pay [s3stat.com](https://www.s3stat.com) $10/month to parse my S3
+logs, because I've been too lazy to automate that myself.
+And they have pretty graphs.
+[Castopod](/blog/castopod/) includes pretty graphs of downloads.

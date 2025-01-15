@@ -59,3 +59,8 @@ If only their hosted server offering (podcast.audio) wasn't insanely slow /
 down fairly often on the rare occasions I try to use it?
 
 So close to being so awesome??
+
+Which is NOT to say that Castopod might not be exactly what *you* want in
+a podcast hosting platform: [castopod.com](https://castopod.com/en)
+
+Maybe I'm just a weirdo. 🙂

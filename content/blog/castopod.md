@@ -56,9 +56,21 @@ seriously.)
 Maybe Castopod is getting super close to being what I want?
 
 If only their hosted server offering (podcast.audio) wasn't insanely slow /
-down fairly often on the rare occasions I try to use it?
+broken ~half the time I try to use it. I only use it a few times a year for a
+few minutes, to upload a new episode.
 
 So close to being so awesome??
+
+For example, Castopod is WAY better than my S3 hosting at "scrubbing" --
+if people want to listen to your podcast in a browser and instantly jump
+30 minutes into the episode by dragging their mouse around, Castopod 
+handles that well, while my S3 storage backend just breaks half the time.
+
+(Why would people do that? "Obviously" the right way to listen to podcasts
+is to download the entire audio file onto their device in advance
+(I love [Pocket Casts](https://pocketcasts.com/) so much), so the
+scrubbing happens on their device, not the hosting side. But I have weird
+friends in their 20s (gross) who do that nonsense for some reason.)
 
 Which is NOT to say that Castopod might not be exactly what *you* want in
 a podcast hosting platform: [castopod.com](https://castopod.com/en)

@@ -6,4 +6,6 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+Jay Hannah lives in Omaha, Nebraska, USA.
+You can read more about him on [jays.net](http://jays.net), and
+stalk him ~daily on [Mastodon](https://flyovercountry.social/@deafferret).

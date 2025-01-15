@@ -12,7 +12,7 @@ I host my podcast two different ways:
 1. [via GitHub Pages + AWS S3](https://jhannah.github.io/jayflaunts). Costs me pennies a month.
 1. [via Castopod](https://jayflaunts.podcast.audio/@JayFlaunts). Fancier ("podcasting 2.0!"), costs $8/month or something. I pay them to host that feed.
 
-Why do I hve two feeds? Because I'm a huge fan of
+Why do I have two feeds? Because I'm a huge fan of
 [Mastodon](/blog/mastodon/)
 and the promise of "the Fediverse is more than just Mastodon!"
 So I launched up on Castopod too.
@@ -37,4 +37,5 @@ Whisper does for the pennies those transcripts cost me.
 I also pay [s3stat.com](https://www.s3stat.com) $10/month to parse my S3
 logs, because I've been too lazy to automate that myself.
 And they have pretty graphs.
-[Castopod](/blog/castopod/) includes pretty graphs of downloads.
+([Castopod](/blog/castopod/) has pretty graphs of downloads and other metrics
+built in for free.)

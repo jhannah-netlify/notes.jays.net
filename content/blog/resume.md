@@ -11,7 +11,7 @@ Aug 2024 update: Woot! Started a new gig! Thanks, everyone, for all the help!
 managing large scale data systems. Diagram, TDD, and CI/CD addict. Love
 untangling epic git disasters. Perl / Python / Golang / DBs / APIs / cloud.
 
-A year ago in a fit of hubris and optimism decided to add a "Dream Job" section
+A year ago, in a fit of hubris and optimism, I decided to add a "Dream Job" section
 to my resume:
 
 **Dream Job:** Using my backend / database / programming skills to help with

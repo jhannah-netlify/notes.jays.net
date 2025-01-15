@@ -5,10 +5,6 @@ date: 2024-08-05
 tags: ["work", "mastodon"]
 ---
 
-(This post got 490 boosts, 378 favorites on [octodon.social](/blog/rip_octodon_social/),
-which is the most "viral" I've ever gone on Mastodon. (Or anywhere? I'd have to re-check
-Twitter.))
-
 Horror story, but apparently it's true.
 
 I'm sitting in an AWS meetup, and a dude is telling a story about how 50 people
@@ -27,3 +23,6 @@ numbers, everything you hand over to a new employer to accept a job offer.
 Obviously, devastating for these 50 people. Not only has their TOTAL identity
 been stolen, they're still unemployed.
 
+(This post got 490 boosts, 378 favorites on [octodon.social](/blog/rip_octodon_social/),
+which is the most "viral" I've ever gone on Mastodon. (Or anywhere? I'd have to re-check
+Twitter.))

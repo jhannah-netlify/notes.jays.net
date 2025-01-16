@@ -1,6 +1,6 @@
 ---
-title: Weeds escalation
-description: Does the TV show Weeds escalate faster than Breaking Bad?
+title: "TV: Weeds escalation"
+description: Does Weeds escalate faster than Breaking Bad?
 date: 2023-05-15
 # tags: number 2
 ---

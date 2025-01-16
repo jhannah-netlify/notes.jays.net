@@ -7,6 +7,13 @@ tags: "work"
 
 For my current goals see my [resume](/blog/resume) I guess?
 
+Reading "circa 2000" now I laugh. Because that was shortly before I
+realized I didn't want my boss' job. My boss' job sucked. I wanted
+to build things and I was already at the pinnacle of building stuff
+at that org. Everything "above me" was people management: Telling
+people to build stuff, not building stuff.
+Not mastering a trade/craft.
+
 ## circa 2022
 
 12 years later, nothing has changed. The same questions are still

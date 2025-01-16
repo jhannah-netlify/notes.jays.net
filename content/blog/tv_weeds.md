@@ -2,7 +2,7 @@
 title: "TV: Weeds escalation"
 description: Does Weeds escalate faster than Breaking Bad?
 date: 2023-05-15
-# tags: number 2
+tags: "tv"
 ---
 
 Timeline of [Weeds](https://www.imdb.com/title/tt0439100/?ref_=tt_ov_inf) (Hulu) criminal escalations.

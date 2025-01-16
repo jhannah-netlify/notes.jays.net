@@ -7,12 +7,13 @@ tags: "work"
 
 For my current goals see my [resume](/blog/resume) I guess?
 
-Reading "circa 2000" now I laugh. Because that was shortly before I
+Reading "circa 2000" now I laugh. That was ~shortly before I
 realized I didn't want my boss' job. My boss' job sucked. I wanted
-to build things and I was already at the pinnacle of building stuff
+to build things and I was already at the pinnacle of building
 at that org. Everything "above me" was people management: Telling
-people to build stuff, not building stuff.
+people to build, not building.
 Not mastering a trade/craft.
+I didn't, and don't, want to sit in meetings all day every day.
 
 ## circa 2022
 

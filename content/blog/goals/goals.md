@@ -5,8 +5,23 @@ date: 2025-01-16
 tags: "work"
 ---
 
-For my current goals see my [resume](/blog/resume) and [motivators](/blog/motivators)
-I guess?
+For my current goals see my [resume](/blog/resume) I guess?
+
+## circa 2022
+
+12 years later, nothing has changed. The same questions are still
+rattling around in my head.
+
+## circa 2010
+
+Motivators: Mapping my Brain
+
+I was trying to noodle through what I wanted to do with
+my working life and probable / potential incomes and helping people.
+
+<img src="./Motivators.png" alt="multi-bar chart roughly trying to break down my guesses regarding income vs. helping people, potential vs. probable, for 4 career paths">
+
+(Original 2010 post [on blogspot.com](https://headrattle.blogspot.com/2010/06/motivators-mapping-my-brain.html).)
 
 ## circa 2000 (exact date unknown)
 
@@ -24,8 +39,6 @@ meager 40-60 hours of weekly manpower.
 If I can thrive in this environment for 3-5 years it's off to some
 suit-and-tie VP position on my way to retiring as CIO somewhere.
 Things are looking pretty good. Wish me luck.
-
-(Found in an old jays.net archive.)
 
 Statement of goals in [jays.net in 2000](http://jays.net/archives/2000/retired2/oldindex.html).
 

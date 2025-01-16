@@ -23,7 +23,7 @@ my working life and probable / potential incomes and helping people.
 
 (Original 2010 post [on blogspot.com](https://headrattle.blogspot.com/2010/06/motivators-mapping-my-brain.html).)
 
-## circa 2000 (exact date unknown)
+## circa 2000
 
 I have to admit I'm feeling more fulfilled now than I have been
 since my early college days. For me happiness lies in feeling that

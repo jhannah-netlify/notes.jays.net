@@ -33,8 +33,8 @@ I give zero shits about following celebrities / mass market accounts.
 
 Less important to me, but very cool things Bluesky does that Mastodon doesn't:
 
-* I'm [@jays.net](https://bsky.app/profile/jays.net) on Bluesky.
-  Domain handles are slick!
+* Domain handles are slick!
+  e.g. I'm [@jays.net](https://bsky.app/profile/jays.net) on Bluesky.
 * Starter Packs are neat!
   e.g. [OMA/LNK Tech & Tech-Adjacent](https://bsky.app/starter-pack-short/LYPECZh).
   Great way to on-board communities. The Mastodon versions of this are less good?:

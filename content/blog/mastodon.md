@@ -62,7 +62,7 @@ way I can help.
 
 If, on average, you post 15+ times a day I don't follow you. I might love you
 to death and check in every once in a while, but you're drowning out the other
-(~200, apparently) people I'm trying to follow.
+(~350, apparently) people I'm trying to follow.
 
 Again, I don't recommend giving a shit whether I follow you or not. But this
 helps me understand how my mind is working(?), so this post is helpful to me?

@@ -19,6 +19,7 @@ Here's a little grid of the features I care about:
 | Alt text for images      | ✅ | ✅ |
 | Post editing             | ✅ | ❌ |
 | Content warnings         | ✅ | ❌ |
+| Hide boosts from follow  | ✅ | ❌ |
 | I can pick my moderators | ✅ | ❌ |
 | Migrate elsewhere        | ✅ | ❌ |
 

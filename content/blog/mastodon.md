@@ -37,8 +37,9 @@ Less important to me, but very cool things Bluesky does that Mastodon doesn't:
   Domain handles are slick!
 * Starter Packs are neat!
   e.g. [OMA/LNK Tech & Tech-Adjacent](https://bsky.app/starter-pack-short/LYPECZh).
-  Great way to on-board communities.
-  The Mastodon version of this (run an instance) is far more cumbersome?
+  Great way to on-board communities. The Mastodon versions of this are less good?:
+  * Running an instance is ... a lot.
+  * Lists can't be shared publicly?
 
 *Footnotes:*
 

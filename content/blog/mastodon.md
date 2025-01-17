@@ -31,6 +31,15 @@ fascinating people on Mastodon, that's enough for me. Way more than I
 could ever read.
 I give zero shits about following celebrities / mass market accounts.
 
+Less important to me, but very cool things Bluesky does that Mastodon doesn't:
+
+* I'm [@jays.net](https://bsky.app/profile/jays.net) on Bluesky.
+  Domain handles are slick!
+* Starter Packs are neat!
+  e.g. [OMA/LNK Tech & Tech-Adjacent](https://bsky.app/starter-pack-short/LYPECZh).
+  Great way to on-board communities.
+  The Mastodon version of this (run an instance) is far more cumbersome?
+
 *Footnotes:*
 
 **[1]** I never actually delete my account anywhere. Because I always have

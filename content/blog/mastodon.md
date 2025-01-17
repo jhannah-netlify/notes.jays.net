@@ -1,11 +1,12 @@
 ---
 title: Mastodon
 description: My thoughts on which social media is Best(tm)
-date: 2025-01-14
+date: 2025-01-17
 tags: "mastodon"
 ---
 
-I live [here](https://flyovercountry.social/@deafferret) on Mastodon.
+You'll find me [here on Mastodon](https://flyovercountry.social/@deafferret),
+micro-blogging ~daily. I love it.
 
 ## Mastodon vs. Bluesky, etc.
 
@@ -13,15 +14,16 @@ You do you. People like different things. I got sick of Nazis on Twitter in
 2017, so I left<sup>[1]</sup>. Some of my friends prefer Bluesky. 
 Here's a little grid of the features I care about:
 
-|                          | Mastodon | Bluesky |
-| ------------------------ | -------- | ------- |
-| Clean feed of follows    | ✅ | ✅ |
-| Alt text for images      | ✅ | ✅ |
-| Post editing             | ✅ | ❌ |
-| Content warnings         | ✅ | ❌ |
-| Hide boosts from follow  | ✅ | ❌ |
-| I can pick my moderators | ✅ | ❌ |
-| Migrate elsewhere        | ✅ | ❌ |
+|                            | Mastodon | Bluesky |
+| -------------------------- | -------- | ------- |
+| Clean feed of follows      | ✅ | ✅ |
+| Alt text for images        | ✅ | ✅ |
+| Edit posts                 | ✅ | ❌ |
+| Content warnings           | ✅ | ❌ |
+| Hide boosts from a follow  | ✅ | ❌ |
+| Pick your moderators       | ✅ | ❌ |
+| Migrate elsewhere          | ✅ | ❌ |
+| Discoverability            | 🟡 | ✅ |
 
 If the main thing you care about is discoverability, then Mastodon can
 be a pain in the butt. I don't care about that. There are thousands of
@@ -31,7 +33,7 @@ I give zero shits about following celebrities / mass market accounts.
 
 *Footnotes:*
 
-[1] I never actually delete my account anywhere. Because I always have
+**[1]** I never actually delete my account anywhere. Because I always have
 a specific cousin who only uses FaceBook, a specific friend that only
 uses Twitter, I get fired so need LinkedIn again, etc.
 I just ignore those networks completely until I *need* them.

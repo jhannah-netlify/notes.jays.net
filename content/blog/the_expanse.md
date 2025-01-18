@@ -23,3 +23,17 @@ What game?
 The only game. Survival. When the jungle tears itself down and builds itself
 into something new. Guys like you and me, we end up dead. Doesn’t really
 mean anything. Or, if we happen to live through it, well that doesn’t mean anything either.
+
+## 2023-08-08
+
+[Toot thread](https://fosstodon.org/users/ovid/statuses/110853937880255238) w/ @Ovid about
+the books and show.
+
+## 2019-12-28
+
+Ha! The Expanse Season 4 is amazing. And wraps up with Klaes Ashford doing 2
+super powerful (floating baby! OMG!) artistic readings of the lyrics of Captain Kidd
+that I know from the Kansas City pirate shanty band The Jolly Rogers, Googling of which
+led me to this new to me podcast
+[feed where he interviews the band](https://www.underthecrossbones.com/utc-188-the-jolly-rogers/).
+Squeal!

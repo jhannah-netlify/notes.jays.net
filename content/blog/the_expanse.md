@@ -5,6 +5,8 @@ date: 2025-01-18
 tags: "tv"
 ---
 
+Ah, man was $58 literally yesterday! [US Blu-Ray $80](https://amzn.to/42mPo55)
+
 ## S1 E7
 
 Kenzo: It must be nice, having everything figured out like that.
@@ -13,7 +15,8 @@ Amos: Ain’t nothing to do with me: we’re just caught in the Churn, that’s 
 
 I have no idea what you just said.
 
-This boss I used to work for in Baltimore, he called it the Churn. When the rules of the game change.
+This boss I used to work for in Baltimore, he called it the Churn.
+When the rules of the game change.
 
 What game?
 

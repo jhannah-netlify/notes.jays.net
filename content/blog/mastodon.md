@@ -116,3 +116,12 @@ See Footnote [1] above.
 **Q: What is your level of tech expertise? Were/are you already a tech expert?**
 
 Decades of computer programming.
+
+---
+
+Sagaliciouzzz [asked](https://fribygda.no/@Sagaliciouzzz/113843153123784750):
+**How do you recruit people into the Fediverse?**
+
+"Federation is the right thing to do. But it’s confusing. Join us! You’ll hate it! 😉"
+
+(Which I originally [wrote on Twitter in 2017](https://x.com/deafferret/status/855451067978567682).)

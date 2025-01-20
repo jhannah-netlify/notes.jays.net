@@ -1,7 +1,7 @@
 ---
 title: Mastodon
 description: My thoughts on which social media is Best(tm)
-date: 2025-01-17
+date: 2025-01-20
 tags: "mastodon"
 ---
 
@@ -82,3 +82,37 @@ helps me understand how my mind is working(?), so this post is helpful to me?
 Maybe?
 
 Be safe out there, friends. Be kind to one another, if you can.
+
+## Q&A
+
+Cleo [asked research questions](https://eldritch.cafe/@toplesstopics/113856397652645027):
+
+**Q: What was the final straw that finally got you to make an account here?**
+
+I was a semi-early adopter of Twitter. It was good, fun, for years.
+In 2017 I couldn't put up with their timeline fuckery anymore.
+I just wanted a clean list of tweets from the people I chose to follow.
+
+And assholes kept leeching into my Twitter experience via replies on my follows' tweets.
+I couldn't block them all, the space felt more and more hostile.
+
+And Twitter kept sending me notifications I didn't want or opt into.
+
+**Q: Did it take you a while to figure out how the fediverse works, or did you take to it right away?**
+
+Federation is complicated, it takes a while to wrap your head around.
+If you join a big server you might find life easier as a beginner?
+It didn't seem too hard to me, but it is/was buggy, frustrating sometimes.
+Presumably, lots of people just want it to work, have no interest in how.
+
+I'm a weirdo ("engineer") who enjoys understanding how things work.
+
+**Q: Do you still use mainstream social media? How often do you post there vs here?**
+
+I might check in on other social networks once every month or two to check
+on specific people. I almost never post on them.
+See Footnote [1] above.
+
+**Q: What is your level of tech expertise? Were/are you already a tech expert?**
+
+Decades of computer programming.

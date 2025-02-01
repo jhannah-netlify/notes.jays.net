@@ -158,6 +158,7 @@ export const config = {
 
 // Author: Seramis
 // https://github.com/11ty/eleventy-img/issues/278
+import path from 'node:path';
 async function contentImgUrlFilter(src) {
 	const inputDir = path.dirname(this.page.inputPath);
 	const imagePath = path.resolve(inputDir, src);

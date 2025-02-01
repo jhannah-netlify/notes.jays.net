@@ -2,6 +2,7 @@
 title: Goals
 description: What I think I want.
 date: 2025-01-16
+image: Motivators.png
 tags: "work"
 ---
 

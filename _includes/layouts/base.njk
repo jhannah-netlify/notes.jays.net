@@ -15,8 +15,9 @@
 		<meta property="og:title" content="{{ title }}" />
 		<meta property="og:description" content="{{ description or metadata.description }}" />
 		{% if image %}
-			<meta property="og:image" content="{{ metadata.url }}/blog/{{ image }}" />
-			<!-- <meta property="og:image" content="{{ image | contentImgUrlFilter | absoluteUrl(metadata.url) }}" /> -->
+			<!-- <meta property="og:image" content="{{ metadata.url }}/blog/{{ image }}" /> -->
+			<!-- <meta property="og:image" content="{{ image | uglyHackContentImgUrlFilter | absoluteUrl(metadata.url) }}" /> -->
+		  <meta property="og:image" content="{{ image | uglyHackContentImgUrlFilter }}" />
 			<!-- yikes... the actual image is http://localhost:8080/.11ty/image/?src=content%2Fblog%2Ftrees%2F2021_tree_plan.jpg&width=2067&format=avif&via=transform -->
 		{% endif %}
 

@@ -177,6 +177,6 @@ async function contentImgUrlFilter(src) {
 		// transformOnRequest: true
 	});
 	//console.error(stats);
-	console.error(stats.jpeg[0].url);
+	//console.error(stats.jpeg[0].url);
 	return stats.jpeg[0].url; // Return the URL of the processed image
 }

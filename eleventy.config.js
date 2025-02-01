@@ -159,6 +159,7 @@ export const config = {
 // Author: Seramis
 // https://github.com/11ty/eleventy-img/issues/278
 import path from 'node:path';
+import Image from '@11ty/eleventy-img';
 async function contentImgUrlFilter(src) {
 	const inputDir = path.dirname(this.page.inputPath);
 	const imagePath = path.resolve(inputDir, src);
@@ -167,13 +168,13 @@ async function contentImgUrlFilter(src) {
 
 	const stats = await Image(imagePath, {
 		widths: [1200], // Width for Open Graph image
-		formats: ["png"],
+		formats: ["jpg", "png"],
 		outputDir: outputDir, // Output directory
 		urlPath: urlPath, // Public URL path
 		filenameFormat: function (hash, src, width, format) {
 			return `${hash}-${width}.${format}`;
 		}
 	});
-
-	return stats.png[0].url; // Return the URL of the processed image
+	// console.error(stats);
+	return stats.jpeg[0].url; // Return the URL of the processed image
 }

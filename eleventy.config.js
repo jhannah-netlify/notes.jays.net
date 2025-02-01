@@ -114,8 +114,8 @@ export default async function(eleventyConfig) {
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
-	// eleventyConfig.addFilter("contentImgUrlFilter", contentImgUrlFilter);
-	eleventyConfig.addFilter("uglyHackContentImgUrlFilter", uglyHackContentImgUrlFilter);
+	eleventyConfig.addFilter("contentImgUrlFilter", contentImgUrlFilter);
+	//eleventyConfig.addFilter("uglyHackContentImgUrlFilter", uglyHackContentImgUrlFilter);
 };
 
 export const config = {
@@ -175,23 +175,20 @@ async function contentImgUrlFilter(src) {
 		filenameFormat: function (hash, src, width, format) {
 			return `${hash}-${width}.${format}`;
 		},
-		transformOnRequest: true
+		// transformOnRequest: true
 	});
-	console.error(src);
-	console.error(this.page.inputPath);
-	console.error(this.page.outputPath);
 	//console.error(stats);
-	//console.error(stats.jpeg[0].url);
+	console.error(stats.jpeg[0].url);
 	return stats.jpeg[0].url; // Return the URL of the processed image
 }
 
 // gah... since I can't get the above working, super duper ugly hack time?
-async function uglyHackContentImgUrlFilter(src) {
-	let myPath = this.page.inputPath.replace(/^\.\/content\//, "");
-	myPath = myPath.replace(/[\w\.]+$/, "");
-	let myImg = src;
-	console.log(myPath);
-	console.log(myImg);
-	console.log(myPath + myImg);
-	return myPath + myImg;
-}
+//async function uglyHackContentImgUrlFilter(src) {
+//	let myPath = this.page.inputPath.replace(/^\.\/content/, "");
+//	myPath = myPath.replace(/[\w\.]+$/, "");
+//	let myImg = src;
+//	console.log(myPath);
+//	console.log(myImg);
+//	console.log(myPath + myImg);
+//	return myPath + myImg;
+//}

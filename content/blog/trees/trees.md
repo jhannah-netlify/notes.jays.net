@@ -2,6 +2,7 @@
 title: '"My" trees'
 description: 'Life "in the woods."'
 date: 2025-02-01
+image: 2021_tree_plan.jpg
 # tags: "work"
 ---
 

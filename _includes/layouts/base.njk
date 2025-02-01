@@ -8,7 +8,13 @@
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+		<meta name="generator" content="{{ eleventy.generator }}">
+
+		<!-- <meta property="og:url" content="{{ url }}" /> -->
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="{{ title }}" />
+		<meta property="og:description" content="{{ description or metadata.description }}" />
+		<meta property="og:image" content="{{ image }}" />
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:

@@ -40,6 +40,7 @@ Less important to me, but very cool things Bluesky does that Mastodon doesn't:
   Great way to on-board communities. The Mastodon versions of this are less good?:
   * Running an instance is ... a lot.
   * Lists can't be shared publicly?
+  * Some Mastodon devs (fedidevs.com) have hacked “[starter packs](https://mastodon.social/@geoff_eg/113906854163225531)” into their instance.
 
 *Footnotes:*
 

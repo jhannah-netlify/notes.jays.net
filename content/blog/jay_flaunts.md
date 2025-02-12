@@ -39,3 +39,9 @@ logs, because I've been too lazy to automate that myself.
 And they have pretty graphs.
 ([Castopod](/blog/castopod/) has pretty graphs of downloads and other metrics
 built in for free.)
+
+## Shorts ideas
+
+* Grandpa bought Zach "donuts".
+* The house was full of food, "there's nothing to eat."
+* Land acknowledgements. 1st Sky Omaha vs...

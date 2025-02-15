@@ -1,7 +1,7 @@
 ---
 title: Mastodon
 description: My thoughts on which social media is Best(tm)
-date: 2025-01-20
+date: 2025-02-15
 tags: "mastodon"
 ---
 
@@ -126,3 +126,29 @@ Sagaliciouzzz [asked](https://fribygda.no/@Sagaliciouzzz/113843153123784750):
 "Federation is the right thing to do. But it’s confusing. Join us! You’ll hate it! 😉"
 
 (Which I originally [wrote on Twitter in 2017](https://x.com/deafferret/status/855451067978567682).)
+
+## Whose Boosts have you disabled?
+
+Go to /settings/export, click the CSV file to download your Follows.
+
+That file looks like this:
+
+```csv
+$ head following_accounts.csv
+Account address,Show boosts,Notify on new posts,Languages
+reffpixels@mastodon.art,true,false,
+skrishna@wandering.shop,true,false,
+...
+```
+
+Then use `awk` to filter on the second column being "false":
+
+```csv
+$ awk -F, '$2 == "false"' following_accounts.csv
+kristiedegaris@mastodon.scot,false,false,
+xenophora@mastodon.art,false,false,
+...
+```
+
+Apparently I do that for 28 of my 363 Follows.
+Usually I use Perl for this sort of thing, but in this case awk is super convenient. 🙂

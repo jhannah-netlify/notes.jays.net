@@ -152,3 +152,6 @@ xenophora@mastodon.art,false,false,
 
 Apparently I do that for 28 of my 363 Follows.
 Usually I use Perl for this sort of thing, but in this case awk is super convenient. 🙂
+
+[Oriel pointed out](https://infosec.exchange/@barubary/114008643000951400) that the Perl
+version isn't much longer: `perl -F, -ne 'print if $F[1] eq "false"'`

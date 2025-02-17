@@ -12,7 +12,7 @@ In Omaha, they demolished the old central library and are building the
 <img src="2024-04-07.14.39.51.jpg" alt="Apr 7 2024 in the series">
 
 Since I'm down there every weekend for Food Not Bombs I've been taking one picture
-every week of the construction process. All the photos are
+of the construction process ~every week since 2023. All the photos are
 [in my Dropbox](https://www.dropbox.com/scl/fo/wr3g1nhcb1pugpkk4t5gh/ACxhuwoZ9S78a4gvytMNVqE?rlkey=l05n32hheu8c9oehixwvo9ys0&dl=0).
 
 I want to align them, and turn them into a time-lapse GIF and/or video.

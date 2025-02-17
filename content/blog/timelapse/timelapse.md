@@ -9,7 +9,7 @@ image: 2024-04-07.14.39.51.jpg
 In Omaha, they demolished the old central library and are building the
 [Mutual of Omaha HQ Tower](https://en.wikipedia.org/wiki/Mutual_of_Omaha_Headquarters_Tower).
 
-<img src="2024-04-07.14.39.51.jpg" alt="One photo in the series">
+<img src="2024-04-07.14.39.51.jpg" alt="Apr 7 2024 in the series">
 
 Since I'm down there every weekend for Food Not Bombs I've been taking one picture
 every week of the construction process. All the photos are

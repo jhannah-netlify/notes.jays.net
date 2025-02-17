@@ -67,7 +67,7 @@ at full retail price.
 I had heard rumors of De-DRMing Kindle books, but had never looked into it.
 
 This announcement felt like a violation of the peace agreement I had with Amazon.
-I can't trust them. I must escape with my library.
+I can't trust them. I must escape with my library before it's too late.
 
 Thanks to [Calibre](https://calibre-ebook.com/) and the 
 [DeDRM](https://github.com/noDRM/DeDRM_tools) plugin I got out. All my books are now `.epub`

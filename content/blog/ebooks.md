@@ -150,3 +150,6 @@ Recommendations I've received:
 * [Me on StoryGraph](https://app.thestorygraph.com/profile/deafferret)
   * I apparently can't write a blurb there (e.g. who recommended) until after I flag the book as owned?
   * Next to buy: [Apocalypse Moi](https://www.tiltedwindmillpress.com/product/apocalypse-moi/), whose ISBN StoryGraph refuses to load?
+* [Me on BookWyrm](https://bookwyrm.social/user/deafferret). Federate all the things, apparently.
+  * Next to buy: [Apocalypse Moi](https://bookwyrm.social/book/1890499/s/apocalypse-moi). Neat, it let me
+  add an image, description, and link to his store. Can't flag it as "want to read" or "up next" though?

@@ -121,3 +121,19 @@ for which I'm still paying $25/year.
 isn't cool anymore, they want everyone in "Apple Music" nowadays.
 I guess... I should stop buying music in iTunes store and jailbreak my library?
 But I'm so lazy, and clouds are so convenient. That'll be another blog entry someday?
+
+## My local library, eReaders
+
+I want my eReader lit for night reading, with physical page turn buttons.
+I don't care about color or stylus,
+I use my iPad + Apple Pencil for comics / taking notes / drawing.
+
+* Omaha Public Library [supports OverDrive and Libby](https://omahalibrary.org/ebooks-downloads/)
+borrowing, and magazines, audio books, etc., etc.
+* $150 [NOOK GlowLight 4](https://www.barnesandnoble.com/w/nook-glowlight-4-barnes-noble/1145507276). Lit, buttons, B&W. Ugh: You have to go through Adobe Digital Editions (ADE)
+on a separate computer to use Libby?
+* $230 [Rakuten Kobo Libra Colour](https://us.kobobooks.com/products/kobo-libra-colour?variant=41267371376710). Lit, buttons, color. $70 more for a stylus.
+"Borrow eBooks directly from your local library with OverDrive and Libby integration⁶."
+* $580 [reMarkable Paper Pro](https://remarkable.com/store/remarkable-paper/pro) is super
+fancy, but I already have an iPad for super fancy. I enjoy e-Ink for reading, not for trying
+to compete with my OLED iPad + Apple Pencil.

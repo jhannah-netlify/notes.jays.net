@@ -156,3 +156,9 @@ Recommendations I've received:
     I really like [StoryGraph](https://www.thestorygraph.com/) - it's simple, clean and refreshingly clutter-free.
     And behind it all? [The brilliant Nadia Odunayo](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph).
 
+## Audiobooks
+
+On Discord squirrelcanoe wrote: I really like [Libro.fm](https://libro.fm/).
+You can select a local bookstore to support with your purchases and they are
+[DRM-free](https://blog.libro.fm/cage-free-audiobooks/).
+I do have a [referral link](https://libro.fm/referral?rf_code=lfm506344) if you end up wanting to join :)

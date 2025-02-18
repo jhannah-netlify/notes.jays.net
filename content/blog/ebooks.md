@@ -106,11 +106,6 @@ So in practice that means:
 
 * 2023-12-08 Cory Doctorow: ["If buying isn't owning, piracy isn't stealing."](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
 
-* 2025-02-16 [Athena wrote](https://mastodon.social/@Climatehistories/114014864707839102):
-I ditched Goodreads (now owned by Amazon) four years ago and never once looked back. 
-I really like [StoryGraph](https://www.thestorygraph.com/) - it's simple, clean and refreshingly clutter-free.
-And behind it all? [The brilliant Nadia Odunayo](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph).
-
 * My friends who have had all their music, books, and movies on their own hard drives for years
 laugh at me for being so late to the game. They tried to warn me decades ago.
 I am young, foolish, naive.
@@ -147,9 +142,17 @@ eReaders I own:
 
 Recommendations I've received:
 * Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
+* [Me on BookWyrm](https://bookwyrm.social/user/deafferret). Federate all the things, apparently.
+  * To Read: [Apocalypse Moi](https://bookwyrm.social/book/1890499/s/apocalypse-moi). Neat, it let me
+  add an image, description, and link to his store.
 * [Me on StoryGraph](https://app.thestorygraph.com/profile/deafferret)
   * I apparently can't write a blurb there (e.g. who recommended) until after I flag the book as owned?
-  * Next to buy: [Apocalypse Moi](https://www.tiltedwindmillpress.com/product/apocalypse-moi/), whose ISBN StoryGraph refuses to load?
-* [Me on BookWyrm](https://bookwyrm.social/user/deafferret). Federate all the things, apparently.
-  * Next to buy: [Apocalypse Moi](https://bookwyrm.social/book/1890499/s/apocalypse-moi). Neat, it let me
-  add an image, description, and link to his store. Can't flag it as "want to read" or "up next" though?
+  * To-Read: [Apocalypse Moi](https://www.tiltedwindmillpress.com/product/apocalypse-moi/), whose ISBN StoryGraph refuses to load?
+  * Ugh. But don't buy eBooks here, apparently:
+    **Q:** Can I read my ebooks on my Kindle, Kobo, Nook, etc.?
+    **A:** Ebooks from Bookshop.org **must be read on either our Apple or Android app**...
+  * 2025-02-16 [Athena wrote](https://mastodon.social/@Climatehistories/114014864707839102):
+    I ditched Goodreads (now owned by Amazon) four years ago and never once looked back. 
+    I really like [StoryGraph](https://www.thestorygraph.com/) - it's simple, clean and refreshingly clutter-free.
+    And behind it all? [The brilliant Nadia Odunayo](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph).
+

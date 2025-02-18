@@ -33,7 +33,7 @@ I paid+donated $100 total to Humble Bundle + Harper Collins + a charity for a co
 of Terry Pratchett eBooks.
 
 I'm on macOS. To read them I had to:
-* Install Adobe Digital Editions 👎 and [Calibre](https://calibre-ebook.com/) 👍.
+* Install Adobe Digital Editions (ADE) 👎 and [Calibre](https://calibre-ebook.com/) 👍.
 * Install [DeDRM](https://github.com/noDRM/DeDRM_tools) 👍 plugin for Calibre.
 (All of that can be done via the UIs, no need to drop to command line stuff for any of this.)
 * With all of those installed, I then had to click in Kobo.com, one book at a time, to "download each book" into Adobe Digital Editions.

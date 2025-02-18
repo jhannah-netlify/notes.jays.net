@@ -149,3 +149,4 @@ Recommendations I've received:
 * Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
 * [Me on StoryGraph](https://app.thestorygraph.com/profile/deafferret)
   * I apparently can't write a blurb there (e.g. who recommended) until after I flag the book as owned?
+  * Next to buy: [Apocalypse Moi](https://www.tiltedwindmillpress.com/product/apocalypse-moi/), whose ISBN StoryGraph refuses to load?

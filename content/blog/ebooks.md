@@ -144,3 +144,8 @@ eReaders I own:
 * v4.1.4 Kindle 4th gen (2011) - battery is bricked.
 * v3.4.3 Kindle Keyboard 3rd gen (2010) - Steve's, abandoned. Battery super short.
 * [Kindle end-of-life](https://endoflife.date/kindle) dates.
+
+Recommended I've received:
+* Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
+* [Me on StoryGraph](https://app.thestorygraph.com/profile/deafferret)
+  * I apparently can't write a blurb there (e.g. who recommended) until after I flag the book as owned?

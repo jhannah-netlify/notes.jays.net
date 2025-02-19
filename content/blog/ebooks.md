@@ -157,7 +157,10 @@ eReaders I own:
     I ditched Goodreads (now owned by Amazon) four years ago and never once looked back. 
     I really like [StoryGraph](https://www.thestorygraph.com/) - it's simple, clean and refreshingly clutter-free.
     And behind it all? [The brilliant Nadia Odunayo](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph).
-* Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
+* Todd Tyrtle
+  [prefers](https://zirk.us/@toddtyrtle/114031648338280317)
+  [Hardcover.app](https://hardcover.app/@toddtyrtle).
+* Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755).
 
 Attempts to buy EPUBs:
 

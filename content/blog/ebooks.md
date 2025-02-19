@@ -108,7 +108,7 @@ So in practice that means:
 
 * My friends who have had all their music, books, and movies on their own hard drives for years
 laugh at me for being so late to the game. They tried to warn me decades ago.
-I am young, foolish, naive.
+I am young, foolish, naïve.
 
 * Meanwhile, my 4K songs I've purchased since high school are still in the Apple cloud,
 for which I'm still paying $25/year.

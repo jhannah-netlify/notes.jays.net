@@ -142,7 +142,6 @@ eReaders I own:
 
 ## What I'm currently reading, recommendations
 
-* Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
 * [Me on BookWyrm](https://bookwyrm.social/user/deafferret). Federate all the things! Slick!
   * To Read: [Apocalypse Moi](https://bookwyrm.social/book/1890499/s/apocalypse-moi). Neat, it let me
   add an image, description, and link to his store.
@@ -158,6 +157,7 @@ eReaders I own:
     I ditched Goodreads (now owned by Amazon) four years ago and never once looked back. 
     I really like [StoryGraph](https://www.thestorygraph.com/) - it's simple, clean and refreshingly clutter-free.
     And behind it all? [The brilliant Nadia Odunayo](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph).
+* Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755)
 
 Attempts to buy EPUBs:
 

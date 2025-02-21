@@ -40,6 +40,15 @@ How could you do that to another person?
 
 Amos: I think you and I had very different childhoods.
 
+## S5 E10
+
+Amos: Making a choice to hold your ground to save your family. As far as last stands go,
+that's the one I'd pick. He picked it too.
+
+Naomi: I called him a brave idiot.
+
+Amos: There's worse things to be.
+
 [Tons more good quotes](https://www.reddit.com/r/TheExpanse/comments/cj9h5v/quotescatchphrases/)
 
 ## 2023-08-08

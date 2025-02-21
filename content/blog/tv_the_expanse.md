@@ -40,6 +40,16 @@ How could you do that to another person?
 
 Amos: I think you and I had very different childhoods.
 
+## S4
+
+On 2019-12-28 I tooted:
+Ha! The Expanse Season 4 is amazing. And wraps up with Klaes Ashford doing 2
+super powerful (floating baby! OMG!) artistic readings of the lyrics of Captain Kidd
+that I know from the Kansas City pirate shanty band The Jolly Rogers, Googling of which
+led me to this new to me podcast
+[feed where he interviews the band](https://www.underthecrossbones.com/utc-188-the-jolly-rogers/).
+Squeal!
+
 ## S5 E10
 
 Amos: Making a choice to hold your ground to save your family. As far as last stands go,
@@ -55,12 +65,3 @@ Amos: There's worse things to be.
 
 [Toot thread](https://fosstodon.org/users/ovid/statuses/110853937880255238) w/ @Ovid about
 the books and show.
-
-## 2019-12-28
-
-Ha! The Expanse Season 4 is amazing. And wraps up with Klaes Ashford doing 2
-super powerful (floating baby! OMG!) artistic readings of the lyrics of Captain Kidd
-that I know from the Kansas City pirate shanty band The Jolly Rogers, Googling of which
-led me to this new to me podcast
-[feed where he interviews the band](https://www.underthecrossbones.com/utc-188-the-jolly-rogers/).
-Squeal!

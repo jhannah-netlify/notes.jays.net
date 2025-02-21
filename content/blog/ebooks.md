@@ -160,6 +160,7 @@ eReaders I own:
 * Todd Tyrtle
   [prefers](https://zirk.us/@toddtyrtle/114031648338280317)
   [Hardcover.app](https://hardcover.app/@toddtyrtle).
+* [Me on Letterboxd](https://letterboxd.com/dferret/) (movies)
 * Stephen King: Needful Things per [Schalk](https://hachyderm.io/@schalkneethling/114025637594436755).
 
 Attempts to buy EPUBs:

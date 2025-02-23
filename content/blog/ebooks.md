@@ -1,9 +1,45 @@
 ---
 title: eBooks
 description: How I book
-date: 2025-02-17
+date: 2025-02-23
 # tags: "work"
 ---
+
+## Buying books in 2025
+
+If an author sells DRM-free books, great! Sold!!
+
+If they don't... ugh. Example: I wanted to start reading The Expanse books where
+the Amazon TV show left off. I want to read them on my Kobo Libra Colour e-reader.
+So the first book after the show ends is Persepolis Rising.
+I want to support the authors directly as much as possible,
+so we'll start at [the author homepage](https://www.jamessacorey.com/books/persepolis-rising/):
+
+* The author's publisher doesn't sell eBooks directly, apparently, but gives us
+several options. Trying to avoid the mega sellers, Ebooks.com looks like the smallest
+operation? So we'll buy from there. So I
+[sent them $12](https://www.ebooks.com/en-us/book/95726865/persepolis-rising/james-s-a-corey/).
+* Oh. Bummer. Ebooks.com is an Adobe Digital Editions operation apparently. Huh. Luckily
+we already have all the software for coping with this installed on our macOS. Double-click
+the `.acsm` file of the book we just downloaded, and the book opens in Adobe Digital Editions.
+* In calibre, "Add books," `~/Documents/Digital Editions/Persepolis Rising.epub`.
+This Just Works(tm) magically, instantly for us nowadays. I think because I have previously
+installed [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) plugin for calibre.
+* In calibre, "Convert books" to `.kepub` format thanks to all the
+[Kobo-handling extensions](https://github.com/jgoguen/calibre-kobo-driver/blob/main/README.md)
+we installed previously. (Why? Because my Kobo reader is happier with `.kepub` than `.epub`.
+Might as well, calibre keeps all our formats in our calibre library. We're storing multiple
+formats of each book, but eBooks are tiny by modern storage standards, no big deal.)
+* Connect my Kobo, "Send to device" in calibre. Specifically sending the KEPUB.
+
+Hey, it worked! Nice! No idea if this is better for authors than if I had just bought it in the
+Kobo store. But now I know I have a DRM-free backup whenever my Kobo
+bricks and/or the Kobo ecosystem becomes hostile to authors / readers.
+
+Unsurprisingly, the Kobo store (kobo.com) thinks I don't own this book, continues to offer to
+sell it to me for another $12.
+
+## Backstory angst
 
 Apparently, from 2011-2025 I purchased 291 books+ from the Kindle store.
 

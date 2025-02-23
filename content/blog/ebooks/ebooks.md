@@ -2,6 +2,7 @@
 title: eBooks
 description: How I book
 date: 2025-02-23
+image: ereaders.jpg
 # tags: "work"
 ---
 
@@ -38,6 +39,8 @@ bricks and/or the Kobo ecosystem becomes hostile to authors / readers.
 
 Unsurprisingly, the Kobo store (kobo.com) thinks I don't own this book, continues to offer to
 sell it to me for another $12.
+
+<img src="ereaders.jpg" alt="My various Kindles and my new Kobo Libra Colour">
 
 ## Backstory angst
 

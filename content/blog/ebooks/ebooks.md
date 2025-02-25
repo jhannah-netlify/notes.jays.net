@@ -8,7 +8,7 @@ image: ereaders.jpg
 
 ## Buying books in 2025
 
-If an author sells DRM-free books, great! Sold!!
+If an author sells [DRM-free books](#drm-free-bookstores), great! Sold!!
 
 If they don't... ugh. Example: I wanted to start reading The Expanse books where
 the Amazon TV show left off. I want to read them on my Kobo Libra Colour e-reader.
@@ -41,6 +41,15 @@ Unsurprisingly, the Kobo store (kobo.com) thinks I don't own this book, continue
 sell it to me for another $12.
 
 <img src="ereaders.jpg" alt="My various Kindles and my new Kobo Libra Colour">
+
+## DRM-free bookstores
+
+* [Tilted Windmill Press](https://www.tiltedwindmillpress.com/):
+  [author](https://io.mwl.io/@mwl)
+* [Hannah Steenbock](https://shop.hannah-steenbock.de):
+  [author](https://writing.exchange/@Firlefanz) - "Your book will contain a hidden watermark, but no DRM."
+* [Smashwords.com](https://www.smashwords.com/) - almost 1M books
+* [Kobo](https://kobo.com) "leaves it up to the publisher/indie whether to tick the DRM box or not"
 
 ## Backstory angst
 
@@ -207,6 +216,36 @@ Attempts to buy EPUBs:
 * I used the Contact form on
   [North Omaha History Bookstore](https://northomahahistory.com/north-omaha-history-bookstore/)
   to see if Adam wants to sell me EPUB files of his books.
+
+## No-money eBooks
+
+If an author/partner is still alive, and not sitting on $10M+, I want to pay
+them for their work unless they insist on not taking money.
+Once an author+partner is dead, I'm ambivalent about paying
+their descendants. Most no-money books, in my experience so far, are long dead authors
+whose works aren't fun reads. I do enjoy occasional Shakespeare, Plato, Poe, Whitman etc.
+
+* [Project Gutenberg](https://www.gutenberg.org/)
+  * Further refined: [standardebooks.org](https://standardebooks.org/)
+
+[SpeakEasy wrote](https://mastodon.sdf.org/@idlehand/114044906391862082):
+* OpenLibrary.org
+* GoogleBooks.com
+* ManyBooks.net
+* PDFDrive.com
+* Bookboon.com
+* Free-Ebooks.net
+* Smashwords.com (also DRM-free)
+* DigiLibraries.com
+* GetFreeEbooks.com
+* Obooko.com
+* BaenFreeLibrary.com
+* InternetArchive.org
+* HathiTrust.org
+* ReadPrint.com
+* Bookrix.com
+* Librophile.com
+* OnlineBooksPage.edu
 
 ## Audiobooks
 

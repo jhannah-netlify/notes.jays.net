@@ -48,6 +48,8 @@ sell it to me for another $12.
   [author](https://io.mwl.io/@mwl)
 * [Hannah Steenbock](https://shop.hannah-steenbock.de):
   [author](https://writing.exchange/@Firlefanz) - "Your book will contain a hidden watermark, but no DRM."
+* [Superior Magpie Press](https://www.superiormagpiepress.com/):
+  [author](https://historians.social/@elysegrasso/114065704342336988) - "I left the 'Do you want DRM' box unchecked on both Kindle and Draft2Digital."
 * [Smashwords.com](https://www.smashwords.com/) - almost 1M books
 * [Kobo](https://kobo.com) "leaves it up to the publisher/indie whether to tick the DRM box or not"
 

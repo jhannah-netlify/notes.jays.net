@@ -25,6 +25,7 @@ thing.
 * Only 6 chickens were eating, the 7th was nesting. There was already 1 egg in the middle
 nest box. I left the non-eating chicken and the egg alone.
 * The green water was still full, so I didn't do any water stuff. Looked pretty clean.
+* 7 chickens seem healthy and happy.
 
 [ ] Friday evening: collect eggs 
 

@@ -27,6 +27,10 @@ nest box. I left the non-eating chicken and the egg alone.
 * The green water was still full, so I didn't do any water stuff. Looked pretty clean.
 * 7 chickens seem healthy and happy.
 
-[ ] Friday evening: collect eggs 
+✅ Friday evening: collect eggs 
 
-[ ] Saturday morning: feed remaining half of spinach, cup of black oil sunflower seeds, cup of mealworms, fill water, hang full feeder, and put near empty feeder in gray bin on side of house. (For breakfast, there will be a green bin hanging from the chicken run entrance door that you can use.)
+✅ Saturday morning: feed remaining half of spinach, cup of black oil sunflower seeds, cup of mealworms, fill water, hang full feeder, and put near empty feeder in gray bin on side of house.
+
+* Witnessed one of the chickens repeatedly picking on a specific other one.
+4 "attacks." Then things seemed to calm down. Jay said his alpha "Heny"(?) tends
+to do that if they haven't been able to run free for a few days.

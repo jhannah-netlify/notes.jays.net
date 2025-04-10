@@ -1,18 +1,21 @@
 ---
-title: My resume
+title: Résumé / CV
 description: Sometimes I need a job. Hire me when I do?
-date: 2024-08-26
+date: 2025-04-10
 tags: "work"
 ---
 
-Aug 2024 update: Woot! Started a new gig! Thanks, everyone, for all the help!
+**Apr 2025 update:** Wrapped up an awesome 6-month bioinformatics Python ->
+Terraform -> AWS gig. Open to new telecommute Python / Golang / Perl
+software stacks, database thrashing / analytics, or DevOps / cloud
+infrastructure work.
 
-**When I'm on the hunt:** Seeking challenging technical leadership opportunity
+**aka:** Seeking challenging technical leadership opportunity
 managing large scale data systems. Diagram, TDD, and CI/CD addict. Love
 untangling epic git disasters. Perl / Python / Golang / DBs / APIs / cloud.
 
-A year ago, in a fit of hubris and optimism, I decided to add a "Dream Job" section
-to my resume:
+A couple years ago, in a fit of hubris and optimism, I decided to add a
+"Dream Job" section:
 
 **Dream Job:** Using my backend / database / programming skills to help with
 massively scaled providers of emergency / low-income housing and food. The
@@ -21,4 +24,6 @@ examples of that mission I'm aware of. I'm very interested in logistics. The
 highest calling I can imagine is working on empowering thousands / millions of
 deliveries of food / clothing / shelter.
 
-[resume.md](https://github.com/jhannah/jays.net/blob/main/resume.md)
+* Résumé: [Markdown](https://github.com/jhannah/jays.net/blob/main/resume.md),
+  [PDF](http://jays.net/resume.pdf)
+* [LinkedIn](https://www.linkedin.com/in/jhannah/)

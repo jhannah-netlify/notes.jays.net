@@ -59,7 +59,7 @@ may differ slightly from pure nitrogen infusion systems.
 
 ---
 
-Video demo: [Nitro Cold Brew from thin air! | NitroPress DS](https://m.youtube.com/watch?v=DxWr9GZV_gc&t=3m4s) -- dude compares original Nitropress (using ~100% nitrogen single-use canisters) vs Nitropress DS (air (78% nitrogen)).
+Video demo: [Nitro Cold Brew from thin air! | NitroPress DS](https://m.youtube.com/watch?v=DxWr9GZV_gc&t=3m4s) -- dude compares original Nitropress (using ~100% nitrogen single-use canisters) vs Nitropress DS (air (~78% nitrogen)).
 
 *[ Unless you're living at extreme altitude, your air is not "thin." --Jay ]*
 

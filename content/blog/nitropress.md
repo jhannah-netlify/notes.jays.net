@@ -8,7 +8,7 @@ tags:
 ## Wait, what now?
 
 My friend said "I've got this great gadget in my kitchen. I just push a button and drinks
-(e.g. coffee cold brew) are injected with nitrogen. Just like Guiness.
+(e.g. coffee cold brew) are injected with nitrogen. Just like Guinness.
 No gas canisters required!"
 
 I'm sure it is delicious, but since I'm a nitrox certified scuba diver,

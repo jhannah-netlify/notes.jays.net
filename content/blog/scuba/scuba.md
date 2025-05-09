@@ -50,5 +50,5 @@ image: asia.jpg
 
 Before open water certification:
 
-* **0** (?) Shark Dive Xtreme. Quick safety class then they throw you in. No fins. Manly Sea Life Sanctuary. Manly, Australia.
-* **-1** (?) "Resort certified" for scuba on Heron Island, Great Barrier Reef, Australia.
+* **0** (2007) Shark Dive Xtreme. Quick safety class then they throw you in. No fins. Manly Sea Life Sanctuary. Manly, Australia.
+* **-1** (2007) "Resort certified" for scuba on Heron Island, Great Barrier Reef, Australia.

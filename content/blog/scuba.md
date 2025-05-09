@@ -14,7 +14,7 @@ tags:
 * **110-128** (2022-06-11 through 16) [Avalon live-aboard](https://www.lostislandvoyages.com/Avalon),
   Nassau -> Exuma Cays, Bahamas.
 * **104-109** (2020-08-06 through 8) [U-352](https://en.wikipedia.org/wiki/German_submarine_U-352#Dive_site)
-  and others, Moorehead City, North Carolina USA.
+  and others, Morehead City, North Carolina USA.
 * **98-103** (2020-05-19 through Sep 18) Rock quarry, Atlantic, Iowa USA.
 * **97** (2020-03-10) Rainbow River, Dunnellon, Florida USA.
 * **94-96** (2019-06-11) Rock quarry, Atlantic, Iowa USA.
@@ -33,9 +33,14 @@ tags:
 * **25** (2014-08-29) [HMAS Perth D29](https://en.wikipedia.org/wiki/HMAS_Perth_(D29)#Battle_of_Sunda_Strait), Sunda Strait, Indonesia.
 * **21-24** (2014-08-26 through 28) [USS Houston CA-30](https://usshoustondive.com/divers/jay_hannah/), Sunda Strait, Indonesia.
 * **20** (2014-08-20) Pulau Payar Marine Park, Malaysia.
-* **17-19** (2014-07-19) Sand quarries, Sandy Channel, Nebraska USA.
+* **17-19** (2014-07-19) Sand quarries, Sandy Channel State Recreation Area, Nebraska USA.
 * **13-16** (2014-07-03 through 12) Rock quarry, Atlantic, Iowa USA.
 * **11-12** (2014-06-18 through 19) Airplane Wing, Clearwater (~Tampa), Florida USA.
 * **9-10** (2014-01-20) Lake Mead, Las Vegas, Nevada USA.
 * **5-8** (2013-08-16 through 19) Vortex Springs, Ponce De Leon, Florida USA.
 * **1-4** (2013-07-20 through 21) Rock quarry, Atlantic, Iowa USA.
+
+Before open water certification:
+
+* **0** (?) Shark Dive Xtreme. Quick safety class then they throw you in. No fins. Manly Sea Life Sanctuary. Manly, Australia.
+* **-1** (?) "Resort certified" for scuba on Heron Island, Great Barrier Reef, Australia.

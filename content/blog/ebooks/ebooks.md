@@ -195,7 +195,8 @@ eReaders I own:
 * [Me on BookWyrm](https://bookwyrm.social/user/deafferret). Federate all the things! Slick!
   * To Read: [Apocalypse Moi](https://bookwyrm.social/book/1890499/s/apocalypse-moi). Neat, it let me
   add an image, description, and link to his store.
-  * Doesn't track daily "% read" stat. Bummer.
+  * I can't track my daily "% read" stat w/o also tooting out a comment?
+  And then that toot doesn't even say my "% read" stat? Bummer.
 * [Me on StoryGraph](https://app.thestorygraph.com/profile/deafferret)
   * I apparently can't write a blurb there (e.g. who recommended) until after I flag the book as owned?
   * To-Read: [Apocalypse Moi](https://www.tiltedwindmillpress.com/product/apocalypse-moi/), whose ISBN StoryGraph refuses to load?

@@ -36,6 +36,8 @@ web reference docs, [Kagi](https://kagi.com/) searches, and asking ChatGPT 4o.
 Very recently (May 2025), I've also been playing with [Cursor](cursor.com)
 for small hobby projects. It seems excellent at "writing things for me" and
 "explaining" what it's doing, how it works, and why to do those things.
+I've paid $0 for Cursor so far. The free tier is 125 whatevers/month, which
+I haven't hit yet.
 
 e.g. It's been years since I've attempted any NLP (Natural Language Processing),
 so I had ChatGPT 4o sketch out some code for me in whatever language / libraries it

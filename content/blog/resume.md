@@ -37,12 +37,12 @@ Wouldn't it be nice if the hiring landscape was driven by open standards data in
 warring walled gardens that keep getting worse / more expensive? That would be
 *so much better* for candidates **and** companies looking to hire?
 
-My resume in JSON, which can be transformed into any format
-(thanks [resumed](https://github.com/rbardini/resumed),
-[JSON Resume](https://jsonresume.org/)!), is the dream?
+My resume in JSON, which can be transformed into any format, is the dream?
 
 [JSON](http://jays.net/resume/resume.json)
 -> [HTML](http://jays.net/resume/resume.html)
+(thanks [resumed](https://github.com/rbardini/resumed),
+[JSON Resume](https://jsonresume.org/)!)
 
 For now, I also have a parallel source of truth:
 

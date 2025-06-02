@@ -1,9 +1,16 @@
 ---
 title: Résumé / CV
 description: Sometimes I need a job. Hire me when I do?
-date: 2025-05-18
+date: 2025-06-02
 tags: "work"
 ---
+
+* Résumé:
+  [PDF](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.pdf),
+  [DOCX](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.docx),
+  [HTML](http://jays.net/resume/resume.html),
+  [Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
+* [LinkedIn](https://www.linkedin.com/in/jhannah/)
 
 **Apr 2025 update:** Wrapped up an awesome 6-month bioinformatics Python ->
 Terraform -> AWS gig. Open to new telecommute Python / Golang / Perl
@@ -24,13 +31,6 @@ examples of that mission I'm aware of. I'm very interested in logistics. The
 highest calling I can imagine is working on empowering thousands / millions of
 deliveries of food / clothing / shelter.
 
-* Résumé:
-  [PDF](http://jays.net/resume/resume.pdf),
-  [DOCX](http://jays.net/resume/resume.docx),
-  [HTML](http://jays.net/resume/resume.html),
-  [Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
-* [LinkedIn](https://www.linkedin.com/in/jhannah/)
-
 ## Nerd versions
 
 Wouldn't it be nice if the hiring landscape was driven by open standards data instead of
@@ -39,13 +39,13 @@ warring walled gardens that keep getting worse / more expensive? That would be
 
 My resume in JSON, which can be transformed into any format, is the dream?
 
-[JSON](http://jays.net/resume/resume.json)
+[JSON](https://github.com/jhannah/jays.net/blob/main/resume/resume.json)
 -> [HTML](http://jays.net/resume/resume.html)
 (thanks [resumed](https://github.com/rbardini/resumed),
 [JSON Resume](https://jsonresume.org/)!)
 
 For now, I also have a parallel source of truth:
 
-[Markdown](http://jays.net/resume/resume.md)
--> [PDF](http://jays.net/resume/resume.pdf),
-[DOCX](http://jays.net/resume/resume.docx)
+[Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
+-> [PDF](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.pdf),
+[DOCX](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.docx)

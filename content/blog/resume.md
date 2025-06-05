@@ -16,10 +16,7 @@ tags: "work"
 Terraform -> AWS gig. Open to new telecommute Python / Golang / Perl
 software stacks, database thrashing / analytics, or DevOps / cloud
 infrastructure work.
-
-**aka:** Seeking challenging technical leadership opportunity
-managing large scale data systems. Diagram, TDD, and CI/CD addict. Love
-untangling epic git disasters. Perl / Python / Golang / DBs / APIs / cloud.
+Diagram, TDD, and CI/CD addict. Love untangling epic git disasters.
 
 A couple years ago, in a fit of hubris and optimism, I decided to add a
 "Dream Job" section:

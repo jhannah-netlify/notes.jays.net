@@ -43,7 +43,8 @@ You can follow that human-driven account here:
 
 From that account, nowadays, as long as the `brid.gy` bridge keeps working,
 I'm likely to Boost the `brid.gy` toot of those new articles instead of manually
-creating a fresh toot.
+creating a fresh toot. If that doesn't work for you, for whatever reason,
+please let me know.
 
 Why am I still involved in any of this?
 Well, it seems advantages and disadvantages are afoot:

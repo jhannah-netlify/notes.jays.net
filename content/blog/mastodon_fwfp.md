@@ -37,7 +37,7 @@ you follow it.)
 
 ## I continue to manually post to Mastodon
 
-Most days I sweep the "[All our stores](https://flatwaterfreepress.org/all-our-stories/)" page and manually posts any new articles into Mastodon.
+Most days I sweep the "[All our stores](https://flatwaterfreepress.org/all-our-stories/)" page and manually post any new articles into Mastodon.
 You can follow that human-driven account here:
 [@flatwaterfreepress@mastodon.social](https://mastodon.social/@flatwaterfreepress)
 
@@ -49,31 +49,31 @@ Why am I still involved in any of this?
 Well, it seems advantages and disadvantages are afoot:
 
 * `@flatwaterfreep.bsky.social@bsky.brid.gy` (automatic via Bluesky)
-  * real-time feed from Bluesky (critical for breaking news)
-  * some articles are tooted multiple times
-  * FWFP sometimes toots things other than new articles
-  * will go silent whenever `brid.gy` fails
-  * toots don't have their own pages in which you can see threads of replies (it's rare that people reply to posts. I have yet to see a thread of multiple replies.)
-  * your local server may have blocked `bsky.brid.gy` because they don't want to host bot data in their server cache
+  * real-time feed from Bluesky (critical for breaking news).
+  * some articles are tooted multiple times.
+  * FWFP sometimes toots things other than new articles.
+  * will go silent whenever `brid.gy` fails.
+  * toots don't have their own pages in which you can see threads of replies (it's rare that people reply to posts. I have yet to see a thread of multiple replies).
+  * your local server may have blocked `bsky.brid.gy` because they don't want to host bot data in their server cache.
 * [`@flatwaterfreepress@mastodon.social`](https://mastodon.social/@flatwaterfreepress) (me, manually)
-  * is only updated once ~daily
-  * toots articles that were never posted on Bluesky
-  * single toot per article
+  * is only updated once ~daily.
+  * toots articles that were never posted on Bluesky.
+  * single toot per article.
   * I may or may not toot / boost things that aren't new articles. I figure if you wanted **all** of those you would have followed the bridge account?
-  * toots have normal threads where people can reply / discuss articles amongst themselves as much as they like
+  * toots have normal threads where people can reply / discuss articles amongst themselves as much as they like.
   * "All our stories" is sometimes delayed until an article is pulled from the FWFP homepage, so some articles apparently won't appear until days after publication. Unless they're re-tooted from the bridge.
-  * will go silent whenever I have a stroke, or am out of the country (infrequent)
-  * your local server may have blocked `mastodon.social` because your local admin thinks that server does a terrible job moderating that community
+  * will go silent whenever I have a stroke, or am out of the country (infrequent).
+  * your local server may have blocked `mastodon.social` because your local admin thinks that server does a terrible job moderating that community.
 
 When could I retire? When...
+* FWFP starts posting to Mastodon themselves.
 * FWFP starts posting all their articles into Bluesky.
   e.g.: I'm not sure why they, so far, aren't posting their
   [Documenters](https://flatwaterfreepress.org/documenters/) articles.
-* When the vast majority of people are following the `brid.gy` account and are happy
+* the vast majority of people are following the `brid.gy` account and are happy
   with how it works (e.g.: no reply threads is fine).
-* When we're comfortable `brid.gy` is stable and going to stay online (for free),
+* we're comfortable `brid.gy` is stable and going to stay online (for free),
   "indefinitely."
-* When FWFP starts posting to Mastodon directly.
 * ?
 
 I'm extremely open to feedback about this page, these strategies, etc.

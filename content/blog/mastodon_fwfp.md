@@ -27,8 +27,8 @@ on Bluesky will show up in your Mastodon home feed.
 
 So in your Mastodon client, please search for, and then follow
 `@flatwaterfreep.bsky.social@bsky.brid.gy`. (We can't web link you there since
-the bridge accounts aren't like regular accounts that have globally accessible 
-landing pages.)
+the bridge accounts aren't like regular accounts that have a globally accessible
+landing page.)
 
 (Trust me. It looks weird (not like normal accounts), but it works. Follow that
 account and then wait a couple days, you'll see new toots coming through 

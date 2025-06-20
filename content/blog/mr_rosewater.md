@@ -7,7 +7,8 @@ date: 2019-09-19
 
 Another dead author is poking around in my compassion / guilt complex.
 
-"God Bless You, Mr. Rosewater" by Kurt Vonnegut is a powerful tale of kindness,
+[God Bless You, Mr. Rosewater](https://www.goodreads.com/book/show/33290408-god-bless-you-mr-rosewater)
+by Kurt Vonnegut is a powerful tale of kindness,
 social justice, wealth inequality, alcoholism, mental illness, greed, and evil.
 
 I love this book. You should read it.
@@ -140,6 +141,6 @@ I was remiss in not mentioning my favorite Vonnegut quote is in this book:
 It’s round and wet and crowded. At the outside, babies, you’ve got about a hundred
 years here. There’s only one rule that I know of, babies —<br/>
 ‘God damn it, you’ve got to be kind.”<br/>
--- Kurt Vonnegut, God Bless You, Mr. Rosewater
+-- Kurt Vonnegut, [God Bless You, Mr. Rosewater](https://www.goodreads.com/book/show/33290408-god-bless-you-mr-rosewater)
 
 That last line is also my favorite tattoo on the planet. It's on my friend.

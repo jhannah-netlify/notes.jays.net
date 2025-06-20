@@ -129,3 +129,15 @@ I wish you enough hello's to
 get you through the
 final good-bye.
 ```
+
+## 2025 Addendum
+
+I was remiss in not mentioning my favorite Vonnegut quote is in this book:
+
+“Hello, babies. Welcome to Earth. It’s hot in the summer and cold in the winter.
+It’s round and wet and crowded. At the outside, babies, you’ve got about a hundred
+years here. There’s only one rule that I know of, babies —<br/>
+‘God damn it, you’ve got to be kind.”<br/>
+― Kurt Vonnegut, God Bless You, Mr. Rosewater
+
+That last line is also my favorite tattoo on the planet. It's on my friend.

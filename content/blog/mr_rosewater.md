@@ -112,23 +112,25 @@ struggle with it, as I am.
 Oh, and here's a poem I ran into recently that is worth your time:
 
 ```
-I wish you enough sun to keep
-your attitude bright.
-I wish you enough rain to
-appreciate the sun more.
+I wish you enough sun
+  to keep your attitude bright.
+I wish you enough rain
+  to appreciate the sun more.
 I wish you enough happiness
-to keep your spirit alive.
+  to keep your spirit alive.
 I wish you enough pain
-so that the smallest joys in life
-appear much bigger.
-I wish you enough gain to satisfy
-your wanting.
-I wish you enough loss to
-appreciate all that you possess.
-I wish you enough hello's to
-get you through the
-final good-bye.
+  so that the smallest joys in life
+  appear much bigger.
+I wish you enough gain
+  to satisfy your wanting.
+I wish you enough loss
+  to appreciate all that you possess.
+I wish you enough hello's
+  to get you through
+  the final good-bye.
 ```
+
+-- Bob Perks, [I Wish You Enough](https://www.goodreads.com/book/show/6929008-i-wish-you-enough)
 
 ## 2025 Addendum
 
@@ -138,6 +140,6 @@ I was remiss in not mentioning my favorite Vonnegut quote is in this book:
 It’s round and wet and crowded. At the outside, babies, you’ve got about a hundred
 years here. There’s only one rule that I know of, babies —<br/>
 ‘God damn it, you’ve got to be kind.”<br/>
-― Kurt Vonnegut, God Bless You, Mr. Rosewater
+-- Kurt Vonnegut, God Bless You, Mr. Rosewater
 
 That last line is also my favorite tattoo on the planet. It's on my friend.

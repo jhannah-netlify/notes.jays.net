@@ -35,7 +35,7 @@ $ vi Makefile.PL
 Making these changes (I just changed the front `-I`, `-L` of these long lines):
 
 ```diff
-diff Makefile.PL.orig Makefile.PL
+$ diff Makefile.PL.orig Makefile.PL
 164,165c164,165
 < my $INC_magick = '-I/usr/local/include/ImageMagick-7 -DMAGICKCORE_HDRI_ENABLE=1 -DMAGICKCORE_QUANTUM_DEPTH=16 -I/usr/include/libxml2 -I"' . $Config{'usrinc'} . '/ImageMagick-7"';
 < my $LIBS_magick = '-L/usr/local/lib -lMagickCore-7.Q16HDRI -lm -L' . $Config{'archlib'} . '/CORE';

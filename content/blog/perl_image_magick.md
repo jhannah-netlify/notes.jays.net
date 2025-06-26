@@ -32,7 +32,7 @@ $ cd /Users/jhannah/.cpanm/work/1750952897.33635/Image-Magick-7.1.1
 $ vi Makefile.PL
 ```
 
-Making these changes (I just changed the front `-I`s of these long lines):
+Making these changes (I just changed the front `-I`, `-L` of these long lines):
 
 ```diff
 diff Makefile.PL.orig Makefile.PL

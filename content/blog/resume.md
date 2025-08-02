@@ -51,3 +51,4 @@ For now, I also have a parallel source of truth:
 [Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
 -> [PDF](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.pdf),
 [DOCX](https://github.com/jhannah/jays.net/raw/refs/heads/main/resume/resume.docx)
+(thanks [Pandoc](https://pandoc.org/)!)

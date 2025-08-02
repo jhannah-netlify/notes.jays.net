@@ -19,8 +19,12 @@ All provisioned via Terraform.
 Orchestrated via AWS Managed Workflows for Apache Airflow (MWAA).
 DBT feeding Redshift, Power BI data cubes.
 
+One-liner résumé: ~~Seeking~~ telecommuting Python / Golang / Perl software stacks,
+database thrashing / analytics, or DevOps / cloud infrastructure work.
+Diagram, TDD, and CI/CD addict. Love untangling epic git disasters.
+
 A couple years ago, in a fit of hubris and optimism, I decided to add a
-"Dream Job" section to my résumé:
+"Dream Job" section:
 
 **Dream Job:** Using my backend / database / programming skills to help with
 massively scaled providers of emergency / low-income housing and food. The

@@ -1,7 +1,7 @@
 ---
 title: Résumé / CV
 description: Sometimes I need a job. Hire me when I do?
-date: 2025-06-02
+date: 2025-07-09
 tags: "work"
 ---
 

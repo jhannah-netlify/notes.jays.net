@@ -12,14 +12,15 @@ tags: "work"
   [Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
 * [LinkedIn](https://www.linkedin.com/in/jhannah/)
 
-**Apr 2025 update:** Wrapped up an awesome 6-month bioinformatics Python ->
-Terraform -> AWS gig. Open to new telecommute Python / Golang / Perl
-software stacks, database thrashing / analytics, or DevOps / cloud
-infrastructure work.
-Diagram, TDD, and CI/CD addict. Love untangling epic git disasters.
+**Jul 2025 update:** Started a new job building a data lakehouse in AWS.
+S3 CSV / Parquet files loaded via (Python) Lambda Glue Jobs, Crawlers to query in Athena. 
+CloudWatch Metrics, Alarms. EventBridge Rules, Targets.
+All provisioned via Terraform.
+Orchestrated via AWS Managed Workflows for Apache Airflow (MWAA).
+DBT feeding Redshift, Power BI data cubes.
 
 A couple years ago, in a fit of hubris and optimism, I decided to add a
-"Dream Job" section:
+"Dream Job" section to my résumé:
 
 **Dream Job:** Using my backend / database / programming skills to help with
 massively scaled providers of emergency / low-income housing and food. The

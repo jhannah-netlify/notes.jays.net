@@ -1,7 +1,7 @@
 ---
 title: Scuba diving log
 description: Where I've successfully failed to drown
-date: 2025-05-08
+date: 2025-07-12
 image: asia.jpg
 # tags:
 ---
@@ -15,6 +15,7 @@ image: asia.jpg
 
 **Dive numbers** (dates) locations
 
+* **154-155** (2025-07-12) Rock quarry, Atlantic, Iowa USA.
 * **150-153** (2024-12-22 through 26) Pacific Coast Dive Center, Playa Flamingo, Costa Rica.
 * **134-149** (2024-03-27 through 31) [The Junk live-aboard](https://thejunk.com/):
   [Richelieu Rock](https://www.youtube.com/watch?v=NJg0zsLDKaA) 🤯 and others. Phuket, Thailand.

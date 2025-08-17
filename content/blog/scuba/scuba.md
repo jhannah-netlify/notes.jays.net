@@ -1,20 +1,21 @@
 ---
 title: Scuba diving log
 description: Where I've successfully failed to drown
-date: 2025-07-12
+date: 2025-08-17
 image: asia.jpg
 # tags:
 ---
 
 <p><nobr>
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1ZaPNEtNn269_xnvebtSK-MsmIVSlVRU&usp=sharing">
+<img src="./north_america.jpg" alt="North American dives"/><br/>
 <img src="./asia.jpg" alt="Asian dives"/>
-<img src="./north_america.jpg" alt="North American dives"/>
 </a>
 </nobr></p>
 
 **Dive numbers** (dates) locations
 
+* **156-164** (2025-08-10 through 14) Grand Cayman, East End, Cayman Islands.
 * **154-155** (2025-07-12) Rock quarry, Atlantic, Iowa USA.
 * **150-153** (2024-12-22 through 26) Pacific Coast Dive Center, Playa Flamingo, Costa Rica.
 * **134-149** (2024-03-27 through 31) [The Junk live-aboard](https://thejunk.com/):

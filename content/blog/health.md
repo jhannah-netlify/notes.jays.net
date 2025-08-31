@@ -6,7 +6,7 @@ date: 2025-08-31
 # tags:
 ---
 
-## 2025-08
+## 2025-08 (bacterial sinus infection?)
 
 ### Aug 6
 

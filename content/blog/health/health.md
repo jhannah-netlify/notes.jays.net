@@ -58,7 +58,7 @@ Notes:
 
 ### Sat Aug 30 (day 5)
 
-2am: oh no. So much tooth pain! Impossible to sleep. Suddenly I've gone from "viral infection?"
+2am: oh no. So much tooth pain! Impossible to sleep. Suddenly I've gone from "sinus infection?"
 to "holy shit I'm in a dental emergency?"
 
 6am: Reached out to my normal dentist in emergency mode. He calls me back an hour
@@ -76,7 +76,7 @@ Says in 1-2 tablets it should knock out any bacterial thing I've got going on.
 
 ### Sun Aug 31 (day 6)
 
-3am: I think those tablets indeed, my salvation. Crazy to me
+3am: I think those tablets are indeed, my salvation. Crazy to me
 that the first advice was to wait until day 10 when it's a miracle drug in my case?
 Slept a bunch yesterday, netti-potted, ibuprofen for pain, but generally feeling like
 we've whipped this problem and I'm well on my way back to normal.
@@ -85,6 +85,8 @@ we've whipped this problem and I'm well on my way back to normal.
 
 4pm: All my other symptoms are gone. Now it's only lower right tooth pain,
 "managed" with maximum doctor-allowed Ibuprofen: 3,200 mg / 24 hours.
+
+covid-19 test: negative.
 
 8pm: amoxicillin-clavulanate 875-125 mg tablet #4
 

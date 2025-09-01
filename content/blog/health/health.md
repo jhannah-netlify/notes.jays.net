@@ -15,12 +15,12 @@ Normal 6-month dental cleaning, w/ x-rays. No problems, x-rays look good.
 ### Aug 10-14
 
 [Scuba diving](../scuba/) in the Cayman Islands I got a few headaches at depth. 
-No unprecedented. 10 years ago my ENT doctor told me for deep diving:
+Not unprecedented. 10 years ago my ENT doctor told me for deep diving:
 
 1. Double my 20' safety stops (3 -> 6 minutes)
 2. Use Oxymetazoline HCI 0.05% over-the-counter nasal spray before first deep dive.
 
-And that worked fine for ~10 years. Not so much on this trip, I'm a bit bummed out.
+And that worked fine for ~10 years. Not so much on this trip. Bummer.
 
 I switched regulators, skipped a few deep dives, various things seemed to work, then didn't?
 Quite mysterious. Do I have a sinus infection but I can't tell?
@@ -28,7 +28,7 @@ Zero symptoms above water.
 
 ### Tue Aug 26 - Thu Aug 28 (day 1-3)
 
-Whoah. Weird. Headache. Ear pressure. Sinus pressure.
+Back home. Whoah. Weird. Headache. Ear pressure. Sinus pressure.
 All symptoms on right side of head.
 Some mild tooth pain.
 Everything fine for ~6 hour blocks sometimes, then I got hit by a truck of sinus-style pain.

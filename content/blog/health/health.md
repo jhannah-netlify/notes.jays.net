@@ -100,9 +100,12 @@ for an hour or so?
 
 4am: Feeling OK right now, got 3(?) hours of interrupted sleep since 11pm.
 
-8am: amoxicillin-clavulanate 875-125 mg tablet #5
+5am: 2 Ibuprofen = 400 mg (400/3200 total for today)
 
-8pm: amoxicillin-clavulanate 875-125 mg tablet #6
+7:30 am: amoxicillin-clavulanate 875-125 mg tablet #5<br/>
+2 Ibuprofen = 400 mg (800/3200 total for today)
+
+7:30 pm: amoxicillin-clavulanate 875-125 mg tablet #6
 
 
 ## Epilogue

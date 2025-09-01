@@ -1,7 +1,7 @@
 ---
 title: Health
 description: '"I don''t want to go on the cart. I feel fine. I think I''ll go for a walk. I feel happy!"'
-date: 2025-08-31
+date: 2025-09-01
 # image: asia.jpg
 # tags:
 ---
@@ -70,10 +70,34 @@ Dentist recommends starting my amox tablet prescription *immediately*, because t
 the same prescription he would have called in for me this morning.
 Says in 1-2 tablets it should knock out any bacterial thing I've got going on.
 
+9am: amoxicillin-clavulanate 875-125 mg tablet #1
+
+9pm: amoxicillin-clavulanate 875-125 mg tablet #2
+
 ### Sun Aug 31 (day 6)
 
-3am: I think those tablets (I've taken 2 so far, tablet #3 in 6 more hours) are,
-indeed, my salvation. Crazy to me
+3am: I think those tablets indeed, my salvation. Crazy to me
 that the first advice was to wait until day 10 when it's a miracle drug in my case?
 Slept a bunch yesterday, netti-potted, ibuprofen for pain, but generally feeling like
 we've whipped this problem and I'm well on my way back to normal.
+
+9am: amoxicillin-clavulanate 875-125 mg tablet #3
+
+4pm: All my other symptoms are gone. Now it's only lower right tooth pain,
+"managed" with maximum doctor-allowed Ibuprofen: 3,200 mg / 24 hours.
+
+8pm: amoxicillin-clavulanate 875-125 mg tablet #4
+
+11pm: Very desperate against chronic pain, mental / emotional health completely
+shot (pain + lack of / poor sleep).
+Trying ice packs for the first time. The pain of the ice pack seems to replace
+the tooth pain, and when the ice pain fades I have some tooth pain relief...
+for an hour or so?
+
+### Mon Sep 1 (day 7)
+
+4am: Feeling OK right now, got 3(?) hours of interrupted sleep since 11pm.
+
+8am: amoxicillin-clavulanate 875-125 mg tablet #5
+
+8pm: amoxicillin-clavulanate 875-125 mg tablet #6

@@ -6,8 +6,6 @@ image: dog_doctor.jpg
 # tags:
 ---
 
-<img src="./dog_doctor.jpg" alt="Dog doctor"/>
-
 ## 2025-08 (bacterial sinus infection?)
 
 ### Aug 6
@@ -103,3 +101,8 @@ for an hour or so?
 8am: amoxicillin-clavulanate 875-125 mg tablet #5
 
 8pm: amoxicillin-clavulanate 875-125 mg tablet #6
+
+
+## Epilogue
+Doctor says everything is going to be OK. Chase squirrels, lots of naps, snacks.
+<img src="./dog_doctor.jpg" alt="Dog doctor"/>

@@ -98,16 +98,20 @@ for an hour or so?
 
 ### Mon Sep 1 (day 7)
 
-4am: Feeling OK right now, got 3(?) hours of interrupted sleep since 11pm.
+* 0400: Feeling OK right now, got 3(?) hours of interrupted sleep since 11pm.
+* 0500: 2 Ibuprofen = 400 mg (400/3200 total for today)
+* 0730: amoxicillin-clavulanate 875-125 mg tablet #5
+    * 2 Ibuprofen = 400 mg (800/3200 total for today)
+* 1130: 2 Ibuprofen = 400 mg (1200/3200 total for today)
+    * You're in pain. 4 hours was too long. Try 3.
 
-5am: 2 Ibuprofen = 400 mg (400/3200 total for today)
+---
 
-7:30 am: amoxicillin-clavulanate 875-125 mg tablet #5<br/>
-2 Ibuprofen = 400 mg (800/3200 total for today)
-
-11:30 am: 2 Ibuprofen = 400 mg (1200/3200 total for today)
-
-7:30 pm: amoxicillin-clavulanate 875-125 mg tablet #6
+* 1430: 2 Ibuprofen = 400 mg (1600/3200 total for today)
+* 1730: 2 Ibuprofen = 400 mg (2000/3200 total for today)
+* 1930: amoxicillin-clavulanate 875-125 mg tablet #6
+* 2030: 2 Ibuprofen = 400 mg (2400/3200 total for today)
+* 2330: 2 Ibuprofen = 400 mg (2800/3200 total for today)
 
 
 ## Epilogue

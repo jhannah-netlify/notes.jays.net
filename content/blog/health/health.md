@@ -2,9 +2,11 @@
 title: Health
 description: '"I don''t want to go on the cart. I feel fine. I think I''ll go for a walk. I feel happy!"'
 date: 2025-09-01
-# image: asia.jpg
+image: dog_doctor.jpg
 # tags:
 ---
+
+<img src="./dog_doctor.jpg" alt="Dog doctor"/>
 
 ## 2025-08 (bacterial sinus infection?)
 

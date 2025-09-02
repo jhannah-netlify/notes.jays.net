@@ -120,10 +120,18 @@ of caution"), otherwise he'll see me in 5 months.
 Tylenol works better? Slept 5 hours almost solid?
 * 0545: 2 Tylenol = 1300 mg (1300/4000 total for today)
 
+Jordan Nielsen:
+> Sorry to hear that Jay- I’m not a doctor, but you might want to check up with an allergist about sargassum and jellyfish. Decomposing sargassum in the water releases sulfides and often contains jellyfish larvae. You could have gotten hit with it if you swam through a concentration.
+> [Sargassum Inundation Events (SIEs): Impacts on Human Health](https://www.epa.gov/habs/sargassum-inundation-events-sies-impacts-human-health)
+
+🤯 The entire eastern edge of Cayman Islands is covered in sargassum. The resort tractors it off the beaches twice a day every day. And I dove / snorkeled in it daily.
+No one has ever mentioned any possible problem to me...
+
+* 0800: amoxicillin-clavulanate 875-125 mg tablet #7
+
 ---
 
 * 0500: 2 Ibuprofen = 400 mg (400/3200 total for today)
-* 0800: amoxicillin-clavulanate 875-125 mg tablet #7
 * 2000: amoxicillin-clavulanate 875-125 mg tablet #8
 
 

@@ -128,6 +128,7 @@ Jordan Nielsen:
 No one has ever mentioned any possible problem to me...
 
 * 0800: amoxicillin-clavulanate 875-125 mg tablet #7
+* 1215: 2 Tylenol = 1000 mg (2300/4000 total for today)
 
 ---
 

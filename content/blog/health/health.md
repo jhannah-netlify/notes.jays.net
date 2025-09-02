@@ -117,7 +117,7 @@ of caution"), otherwise he'll see me in 5 months.
 ### Tue Sep 2 (day 8)
 
 * 0300: Feeling OK right now! Oh, wow, those were big Tylenol pills... they last a lot longer?
-Slept 5 hours almost solid?
+Tylenol works better? Slept 5 hours almost solid?
 
 ---
 

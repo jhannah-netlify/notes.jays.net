@@ -118,13 +118,13 @@ of caution"), otherwise he'll see me in 5 months.
 
 * 0300: Feeling OK right now! Oh, wow, those were big Tylenol pills... they last a lot longer?
 Tylenol works better? Slept 5 hours almost solid?
+* 0545: 2 Tylenol = 1300 mg (1300/4000 total for today)
 
 ---
 
 * 0500: 2 Ibuprofen = 400 mg (400/3200 total for today)
 * 0800: amoxicillin-clavulanate 875-125 mg tablet #7
 * 2000: amoxicillin-clavulanate 875-125 mg tablet #8
-* 2200: 2 Tylenol = 1300 mg (1300/4000 total for today)
 
 
 ## Epilogue

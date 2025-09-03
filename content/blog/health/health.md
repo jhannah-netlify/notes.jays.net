@@ -1,7 +1,7 @@
 ---
 title: Health
 description: '"I don''t want to go on the cart. I feel fine. I think I''ll go for a walk. I feel happy!"'
-date: 2025-09-01
+date: 2025-09-03
 image: dog_doctor.jpg
 # tags:
 ---
@@ -133,7 +133,24 @@ No one has ever mentioned any possible problem to me...
 * 2000: amoxicillin-clavulanate 875-125 mg tablet #8
 * 2200: 2 Tylenol = 1000 mg (3300/4000 total for today)
 
+Well, shit. Once again I was feeling **great** (normal. remember normal? Pepperidge Farm remembers)
+so was getting all cocky in the late afternoon / evening like I had whipped this thing.
+Until about 10pm when the
+tooth pain came back. A lot less bad, but still. Sad boy. Humbling. Used the huge ice pack for a
+deep face freeze, slept good until 3am.
+
+General note: Eating hurts. Not because biting or food on the right side hurts, but because trying
+to open my mouth wide enough to bite things, my jaw aches. Then I floss and brush with zero pain.
+Neck soreness on the right side. I ice that too, which helps.
+
+### Wed Sep 3 (day 9)
+
+* 0300: 2 Ibuprofen = 400 mg (400/3200 total for today)
+
 ---
+
+* 0800: amoxicillin-clavulanate 875-125 mg tablet #9
+* 2000: amoxicillin-clavulanate 875-125 mg tablet #10
 
 
 

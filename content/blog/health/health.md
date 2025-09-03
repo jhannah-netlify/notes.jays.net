@@ -150,6 +150,7 @@ Neck soreness on the right side. I ice that too, which helps.
 amoxicillin-clavulanate 875-125 mg tablet #9<br/>
 Feeling good, barely a twinge, took Tylenol proactively ("you gotta stay ahead of the pain").
 Just a little congestion, not uncommon for me when I wake up.
+* 1230: 2 Ibuprofen = 400 mg (800/3200 total for today)
 
 ---
 

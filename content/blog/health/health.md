@@ -131,6 +131,7 @@ No one has ever mentioned any possible problem to me...
 * 1215: 2 Tylenol = 1000 mg (2300/4000 total for today)
 * 1430: 2 Ibuprofen = 400 mg (400/3200 total for today)
 * 2000: amoxicillin-clavulanate 875-125 mg tablet #8
+* 2200: 2 Tylenol = 1000 mg (3300/4000 total for today)
 
 ---
 

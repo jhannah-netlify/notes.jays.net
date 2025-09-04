@@ -160,6 +160,7 @@ Just a little congestion, not uncommon for me when I wake up.
 * 0700: amoxicillin-clavulanate 875-125 mg tablet #11<br/>
 Mild headache (always right side)<br/>
 2 Tylenol = 1000 mg (1000/4000 total for today)
+* 1230: 2 Ibuprofen = 400 mg (400/3200 total for today)
 
 ---
 

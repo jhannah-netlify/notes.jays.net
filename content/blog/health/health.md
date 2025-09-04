@@ -152,11 +152,23 @@ Feeling good, barely a twinge, took Tylenol proactively ("you gotta stay ahead o
 Just a little congestion, not uncommon for me when I wake up.
 * 1230: 2 Ibuprofen = 400 mg (800/3200 total for today)
 * 1700: 2 Ibuprofen = 400 mg (1200/3200 total for today)
+* 2200: amoxicillin-clavulanate 875-125 mg tablet #10
+* 2330: 2 Tylenol = 1000 mg (2000/4000 total for today)<br/>
+
+### Thu Sep 4 (day 10)
+
+* 0700: amoxicillin-clavulanate 875-125 mg tablet #11<br/>
+Mild headache (always right side)<br/>
+2 Tylenol = 1000 mg (1000/4000 total for today)
 
 ---
 
-* 2030: amoxicillin-clavulanate 875-125 mg tablet #10
+* 1900: amoxicillin-clavulanate 875-125 mg tablet #12
 
+### Fri Sep 5 (day 11)
+
+* amoxicillin-clavulanate 875-125 mg tablet #13
+* amoxicillin-clavulanate 875-125 mg tablet #14 (prescription finished)
 
 
 ## Epilogue

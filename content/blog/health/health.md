@@ -161,12 +161,16 @@ Just a little congestion, not uncommon for me when I wake up.
 Mild headache (always right side)<br/>
 2 Tylenol = 1000 mg (1000/4000 total for today)
 * 1230: 2 Ibuprofen = 400 mg (400/3200 total for today)
-
----
-
-* 1900: amoxicillin-clavulanate 875-125 mg tablet #12
+* 2145: amoxicillin-clavulanate 875-125 mg tablet #12<br/>
+2 Ibuprofen = 400 mg (800/3200 total for today)
 
 ### Fri Sep 5 (day 11)
+
+Hey!! umm... I think I'm declaring success? Yesterday very few pain meds. I'm not
+100% yet, but close, and ... if I'm whittling down to zero pain meds today / next
+couple of days, then the tablets worked?
+Eating should be back to normal... soon?
+All better? Fin? 🇫🇷
 
 * amoxicillin-clavulanate 875-125 mg tablet #13
 * amoxicillin-clavulanate 875-125 mg tablet #14 (prescription finished)

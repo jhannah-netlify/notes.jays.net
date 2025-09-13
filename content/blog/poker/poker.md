@@ -12,7 +12,7 @@ to track my "career". Can I quit my day job yet?
 
 <img src="./career.png" alt="career stats summary"/>
 
-## 2025-09-13
+## 2025-09-12
 
 Short stack villain all in pre-flop. Call w/ JK off.
 

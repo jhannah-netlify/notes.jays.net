@@ -8,7 +8,7 @@ image: hand1.jpg
 
 Nickel / dime games with my friends. On Android I started using
 [Pokerbase](https://play.google.com/store/apps/details?id=io.devizer.pokerbase&hl=en_US&pli=1)
-to track my "career". Can I quit my day job yet?
+to track my "career." Can I quit my day job yet?
 
 <img src="./career.png" alt="career stats summary"/>
 
@@ -18,10 +18,10 @@ Short stack villain all in pre-flop. Call w/ JK off.
 
 ||blind|vision|
 |---|-|-|
-|Pre-flop|60% win 2% tie|24% win 1% tie|
-|Flop||8% win 2% tie|
-|Turn||5% win 9% tie|
-|River||💥🥇|
+|Pre-flop|59% win 2% tie|24% win 1% tie|
+|Flop|78% win 2% tie|8% win 2% tie|
+|Turn|77% win 3% tie|5% win 9% tie|
+|River|97% win 0% tie|💥🥇|
 
 <img src="./hand1.jpg" alt="a juicy hand"/>
 

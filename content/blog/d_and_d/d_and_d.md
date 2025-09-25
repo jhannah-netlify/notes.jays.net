@@ -2,7 +2,7 @@
 title: Dungeons & Dragons
 description: Role-playing games recaps
 date: 2025-09-24
-# image: hand1.jpg
+image: d_and_d.jpg
 # tags:
 ---
 
@@ -76,6 +76,9 @@ vanquished and the party gathered the remains of the various Dursts and laid
 them to rest. Except for the nanny. Whose body is still stuffed inside a trunk
 in the attic.  You said your final goodbyes to Rosevald and Thornbolt Durst and
 emerged from the house, seeing that the dense fog had receded.
+
+<img src="./d_and_d.jpg" alt="What Barovians Are Like">
+Image via <a href="https://www.dndbeyond.com/posts/977-strahds-barovia-a-guide-to-d-ds-most-famous-horror">D&D Beyond</a> (spoilers)
 
 ## CH. 2 - THE VILLAGE OF BAROVIA
 

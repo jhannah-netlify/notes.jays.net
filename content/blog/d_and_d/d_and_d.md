@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-09-24
+date: 2025-09-20
 image: d_and_d.jpg
 # tags:
 ---

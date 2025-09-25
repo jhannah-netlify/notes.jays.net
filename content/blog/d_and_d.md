@@ -35,7 +35,7 @@ an olive skinned man with long curly black hair and an excessive amount of
 jewelry. He wore vibrant yellow robes with intricate crimson filigree and
 carried a carved elderwood cane, studded with several gemstones on the head. He
 introduced himself as Grigori (That was his name from the beginning. If you
-remember otherwise, you are mistaken 😅 ) and asked for your assistance. He
+remember otherwise, you are mistaken 😅) and asked for your assistance. He
 said that he was a merchant and that two of his caravans had been sent to the
 valley of Barovia to attempt to open trade and neither had returned. It had
 been several months at that point and he was worried. You all agreed to
@@ -110,7 +110,7 @@ Before meeting him there, you briefly stopped into Bildrath's Mercantile where
 a small balding man with thick glasses offered you a measly 13g for all of the
 loot you had acquired in the Durst Manor. His prices seemed incredibly inflated
 due to his shop being the only one in the village. His hulking assistant,
-Parriwhimple made a brief appearnce to see you all off, making it very clear
+Parriwhimple made a brief appearance to see you all off, making it very clear
 that Blidrath was not someone to be provoked.
 
 Arriving at the burgomeister's mansion, you found Ismark waiting over the body

@@ -42,8 +42,9 @@ and in any related action for recovery of possession of the premises.
 Notes Jay tried to take:
 
 * Nebraska has sub-standard tenants rights for all other renters. 
-* Nebraska Legal Aid
-* OHA suing: Sep 16th 2025 at first hearing OHA did not bring any lawyers specific to convictions. Suing state and not a legal SME. They have to sue the SME not the state.
+* [Legal Aid of Nebraska](https://www.legalaidofnebraska.org/)
+* [Omaha Housing Authority](https://ohauthority.org/) (OHA) suing:
+  Sep 16th 2025 at first hearing OHA did not bring any lawyers specific to convictions. Suing state and not a legal SME. They have to sue the SME not the state.
   * [The Redress Movement - Omaha](https://redressmovement.org/omaha/): Clarice Dombeck says OHA lawsuit is not going well.
 
 Misc

@@ -45,10 +45,16 @@ Notes Jay tried to take:
 * [Legal Aid of Nebraska](https://www.legalaidofnebraska.org/)
 * [Omaha Housing Authority](https://ohauthority.org/) (OHA) suing:
   Sep 16th 2025 at first hearing OHA did not bring any lawyers specific to convictions. Suing state and not a legal SME. They have to sue the SME not the state.
-  * [The Redress Movement - Omaha](https://redressmovement.org/omaha/): Clarice Dombeck says OHA lawsuit is not going well.
+  * [The Redress Movement - Omaha](https://redressmovement.org/omaha/): Clarice Dombeck says OHA lawsuit is not going well for OHA.
 
 Misc
 
 * Nebraska Judicial Branch: [JUSTICE Search](https://www.nebraska.gov/justicecc/ccname.cgi) - $15 per search
 * National Low Income Housing Coalition: [Nebraska](https://nlihc.org/housing-needs-by-state/nebraska)
 * Omaha Foundation: [Housing Affordability in the Omaha and Council Bluffs Area](https://omahafoundation.org/wp-content/uploads/2021/05/Housing-Affordability-Assessment-of-Needs-Priorities.pdf)
+* [Threshold CoC](https://www.thresholdcoc.org/) (Continuum of Care): runs 211? Printable flyers listing
+  services. "Coordinated Entry System (CES) and Access Points connect our neighbors facing housing
+  instability with available resources across Douglas, Sarpy, and Pottawattamie counties."
+* [Together](https://togetheromaha.org/): Food, Housing, Advocacy. In 2020 was working with Open/Nebraska on
+  eviction justice.
+

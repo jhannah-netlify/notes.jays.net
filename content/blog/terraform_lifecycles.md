@@ -27,7 +27,7 @@ Oh... So our problem is that simply replacing `startup.sh` out in AWS doesn't re
 environment. So our Airflow Workers are still their old selves, not their new Python phat selves
 so they can run `dbt`. Oh dear.
 
-If, in AWS Console, we shut does our Airflow environment, and restart it, then our new `startup.sh` IS used
+If, in AWS Console, we shut down our Airflow environment, and restart it, then our new `startup.sh` IS used
 to build new Workers. That's good. (It takes ~an hour, which isn't great, but there's no getting around that,
 that's just AWS being AWS.)
 

@@ -29,6 +29,12 @@ court** or district court of the county in which the premises is located.
 **The court shall appoint counsel** to represent the resident in the hearing
 and in any related action for recovery of possession of the premises.
 
+Other:
+
+* OHA is required by law to publish a budget, but hasn't in 2 years?
+* For $100/year you can have up to 10 accounts accessing public records:
+  [State of Nebraska Judicial Branch](https://nebraskajudicial.gov/e-services/case-information-eservices)
+
 ## Omaha City Council
 
 * [Agenda Sep 23 2025](https://cityclerk.cityofomaha.org/wp-content/uploads/images/2025-09-23a.pdf)

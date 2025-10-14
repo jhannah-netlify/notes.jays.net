@@ -200,7 +200,9 @@ investigated the house, you were able to see through the window into a one room
 cottage, neither filthy nor clean, where the man you had just seen was lying
 asleep in the bed. On the far wall you noticed a small pair of overalls—a
 child’s overalls—hanging by the back door. You attempted several times to wake
-the man, all to no avail. You left without investigating further.  After this,
+the man, all to no avail. You left without investigating further.
+
+After this,
 you went to see Mad Mary in her secluded manor, just up the road from the
 Burgomaster’s mansion. Mary greeted you enthusiastically and welcomed your
 assistance in finding her daughter. She allowed you into her house and led you
@@ -223,6 +225,7 @@ of the river was the mangled, partially decomposed body of a young man. Tied up
 just 10 feet away was a small rowboat. You searched the body and discovered a
 note written by Kolyan Indirovich asking for aid—from whom, you do not know. It
 appears that this young man was about to set out down the river to the West.
+
 Deciding to avoid crossing the bridge, you instead opted to use the small
 rowboat to travel downstream. You traveled several hours this way, passing into
 the dark forest with its towering conifers. As nighttime approached, you came
@@ -234,7 +237,9 @@ sensed the sounds of his howling brethren change about an hour after darkness
 fell and knew they were coming for the party. He and Musu roused Sabine and
 attempted to wake Willem, to no avail. The rest of the party hoisted Willem
 into a nearby tree, high enough to be safe from the wolves, and lashed him
-there.  As you finished securing Willem, six wolves emerged from the darkness
+there.
+
+As you finished securing Willem, six wolves emerged from the darkness
 and attacked. Indigo attempted to talk them down, but they did not respond to
 his overtures. After a quick fight, four wolves were down and the other two
 retreated as a dark shadow coalesced in the clearing by the campfire. Strahd

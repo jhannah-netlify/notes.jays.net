@@ -161,7 +161,7 @@ young man right now. You left the chapel, promising father Donavitch that you
 would find a way to help his son. Ismark, however, indicated that this was not
 likely.
 
-## CH. 2 – THE VILLAGE OF BAROVIA – PART 2
+## CH. 2 - THE VILLAGE OF BAROVIA - PART 2
 
 You all emerged from the small chapel around noon feeling quite dour. Sabine,
 Indigo and Musu took a few deep breaths and each recovered in their

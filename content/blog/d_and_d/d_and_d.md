@@ -179,14 +179,14 @@ drink in exchange for what they knew.
 
 You found out from them that Grigori is a known associate of Strahd and the he
 was probably promised some kind of reward for bringing the party to Barovia.
-You also learn that the three women are have been cast out of the Vistani
-community, though you do no know why. (I don’t remember if they told you
+You also learn that the three women have been cast out of the Vistani
+community, though you do not know why. (I don’t remember if they told you
 anything else. Anyone remember?)
 
 As the party waited just out of sight of the tavern, Granny wheeled her cart
-past and you noticed now that it was adorned with a small windmill insignia.
+past and you now noticed that it was adorned with a small windmill insignia.
 You talked with Granny for a little bit and ascertained that she and her two
-sisters live in a windmill to the west of the village—the same windmill granted
+sisters live in a windmill to the west of the village - the same windmill granted
 by the deed in your party’s possession. Granny seemed very distressed when
 presented with this information, thinking that you were going to make her and
 her sisters leave their home, but you reassured her that that would not happen.
@@ -198,8 +198,8 @@ man came out looking almost frantic. Granny gave him his dream pastries,
 seemingly collecting no payment, and went off down the street. When you
 investigated the house, you were able to see through the window into a one room
 cottage, neither filthy nor clean, where the man you had just seen was lying
-asleep in the bed. On the far wall you noticed a small pair of overalls—a
-child’s overalls—hanging by the back door. You attempted several times to wake
+asleep in the bed. On the far wall you noticed a small pair of overalls - a
+child’s overalls - hanging by the back door. You attempted several times to wake
 the man, all to no avail. You left without investigating further.
 
 After this,
@@ -223,7 +223,7 @@ valley. Indigo smelled a horrible stench as you neared the bridge that crossed
 over and he went to investigate. About 50 feet from the bridge on the near side
 of the river was the mangled, partially decomposed body of a young man. Tied up
 just 10 feet away was a small rowboat. You searched the body and discovered a
-note written by Kolyan Indirovich asking for aid—from whom, you do not know. It
+note written by Kolyan Indirovich asking for aid - from whom, you do not know. It
 appears that this young man was about to set out down the river to the West.
 
 Deciding to avoid crossing the bridge, you instead opted to use the small

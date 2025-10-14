@@ -18,7 +18,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 
 We entered the scene in a quaint little tavern on the outskirts of a quaint
 little village. Our heroes had settled here for the evening after some time
-adventuring together. Indigo, Willam, and Moosoo have recently been joined by
+adventuring together. Indigo, Willam, and Musu have recently been joined by
 Sabine—a tall, serious paladin of Tyr who never takes her armor off and who
 claims to have been raised by a cult in a walled monastery—and have welcomed
 her into their little cadre. Indigo describes himself as a "dirty hippie" with
@@ -27,7 +27,7 @@ farm. He is a staunch defender of nature and has given hints that this may have
 caused him some trouble in the past. Willam has seen many things in his time.
 He served as a wartime medic for his homeland in his younger days, but his side
 was defeated and he returned home to find that his family had been slaughtered,
-his home burnt. He seeks now only to heal people in need where he can. Moosoo
+his home burnt. He seeks now only to heal people in need where he can. Musu
 is a warrior. More on that later.
 
 As our heroes relaxed and enjoyed their evening mead, they were approached by
@@ -161,4 +161,91 @@ young man right now. You left the chapel, promising father Donavitch that you
 would find a way to help his son. Ismark, however, indicated that this was not
 likely.
 
+## CH. 2 – THE VILLAGE OF BAROVIA – PART 2
+
+You all emerged from the small chapel around noon feeling quite dour. Sabine,
+Indigo and Musu took a few deep breaths and each recovered in their
+turn. Willem began to hyperventilate and as he tried to catch his breath, he
+suddenly found himself eating a dream pastry. He immediately began to feel
+better and joined the rest of the party, who were all eyeing him suspiciously.
+
+You decided that you needed to gather more information from the Vistani at the
+tavern and Musu volunteered to go in and act as the infiltrator, as he
+was...away...the last time you visited. He quickly and inadvertently attracted
+the attention of the three Vistana women, who were all looking over at him
+while exchanging excited whispers. After finding out that you were looking for
+information on Grigori, she “invited” you to buy her and the other girls a
+drink in exchange for what they knew.
+
+You found out from them that Grigori is a known associate of Strahd and the he
+was probably promised some kind of reward for bringing the party to Barovia.
+You also learn that the three women are have been cast out of the Vistani
+community, though you do no know why. (I don’t remember if they told you
+anything else. Anyone remember?)
+
+As the party waited just out of sight of the tavern, Granny wheeled her cart
+past and you noticed now that it was adorned with a small windmill insignia.
+You talked with Granny for a little bit and ascertained that she and her two
+sisters live in a windmill to the west of the village—the same windmill granted
+by the deed in your party’s possession. Granny seemed very distressed when
+presented with this information, thinking that you were going to make her and
+her sisters leave their home, but you reassured her that that would not happen.
+Before leaving, she slipped Willem an extra dream pie (There was a reason, I
+don’t remember it, but I know it happened).
+
+After leaving you, Granny went to the house you saw her visit yesterday and the
+man came out looking almost frantic. Granny gave him his dream pastries,
+seemingly collecting no payment, and went off down the street. When you
+investigated the house, you were able to see through the window into a one room
+cottage, neither filthy nor clean, where the man you had just seen was lying
+asleep in the bed. On the far wall you noticed a small pair of overalls—a
+child’s overalls—hanging by the back door. You attempted several times to wake
+the man, all to no avail. You left without investigating further.  After this,
+you went to see Mad Mary in her secluded manor, just up the road from the
+Burgomaster’s mansion. Mary greeted you enthusiastically and welcomed your
+assistance in finding her daughter. She allowed you into her house and led you
+up the stairs and down a narrow hallway to a locked door at the very end. Her
+daughter, Gertruda’s, bedroom was kept in pristine condition for the most part.
+As you all searched the room, you found that there were markings on the stone
+sill just outside her garden window that looked similar to some of the claw
+marks you saw at Ismark’s mansion. You also discovered a small drop of blood on
+the carpet right at the head of the bed that Mary dismissed as having come from
+a nose bleed. As the group pushed her on this, Mary became more and more
+distressed until she finally forced you all out.
+
+Emerging onto the street once more, you all decided there was nothing more to
+be done here and so you opted to move out of town in search of the Vistani camp
+to the West of the village. You had walked about an hour towards the ever
+growing line of trees when you came to the river that you had followed into the
+valley. Indigo smelled a horrible stench as you neared the bridge that crossed
+over and he went to investigate. About 50 feet from the bridge on the near side
+of the river was the mangled, partially decomposed body of a young man. Tied up
+just 10 feet away was a small rowboat. You searched the body and discovered a
+note written by Kolyan Indirovich asking for aid—from whom, you do not know. It
+appears that this young man was about to set out down the river to the West.
+Deciding to avoid crossing the bridge, you instead opted to use the small
+rowboat to travel downstream. You traveled several hours this way, passing into
+the dark forest with its towering conifers. As nighttime approached, you came
+across a place where the river seemed to converge with a path along the hill to
+the south. You all decided to find camp here.
+
+Musu and Indigo took the first watch while Sabine and Willem slept. Indigo
+sensed the sounds of his howling brethren change about an hour after darkness
+fell and knew they were coming for the party. He and Musu roused Sabine and
+attempted to wake Willem, to no avail. The rest of the party hoisted Willem
+into a nearby tree, high enough to be safe from the wolves, and lashed him
+there.  As you finished securing Willem, six wolves emerged from the darkness
+and attacked. Indigo attempted to talk them down, but they did not respond to
+his overtures. After a quick fight, four wolves were down and the other two
+retreated as a dark shadow coalesced in the clearing by the campfire. Strahd
+von Zarovich greeted the party, welcoming them to Barovia. He apologized for
+his wolves and told the party they would not be a problem tonight.
+
+The party noticed a figure stooping behind Strahd in the darkness and
+recognized it as Duro, the poor wretch from the chapel cellar. His face and
+shirt were covered in dark blood and when questioned, he hid behind his master
+who stated that he couldn’t be blamed for what he was driven in his hunger to
+do. After extending to the party an invitation to visit him in his castle,
+Ravenloft, he bid the party farewell and they melted into a swarm of bats (I
+know I said just one, but this makes more sense) and flew away.
 

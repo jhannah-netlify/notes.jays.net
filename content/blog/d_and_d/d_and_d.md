@@ -254,3 +254,36 @@ do. After extending to the party an invitation to visit him in his castle,
 Ravenloft, he bid the party farewell and they melted into a swarm of bats (I
 know I said just one, but this makes more sense) and flew away.
 
+## Player characters
+
+### Musu: Level 3 Human Fighter (Champion)
+
+* Alignment: **Lawful Neutral**. I obey laws, traditions, or my own strict code
+to promote order and society above all else.
+* Soldier Background
+  * Feature: Military Rank
+  * Traits: Fought as a gladiator for years. Seeks to dominate similar rival.
+  * Ideal: Only combat proves worth.
+  * Bond: Serves with childhood rival.
+  * Flaw: Traumatized by battle magic.
+* Human traits: 36 years old, medium size (6' 1", 178 lbs.)
+* Fighter Class Features:
+  * Fighting Style: Defense
+  * Second Wind
+  * Maneuver Save DC 13
+  * Action Surge
+
+Musu was born in a small fishing village and has pleasant memories of childhood
+until the slavers came. They killed his father, chained him, his mother, and his
+one older sister. Musu was sold into conscripted military service and eventually
+rose through the ranks under promises that his mother and sister were being
+supported as long as he continued to serve and win battles.
+
+Eventually, Musu discovered the lies: according to a superior his mother was dead
+and his sister was missing. Musu killed that commander and was sent to the gladiator
+pits. He fought for years, eventually gaining his freedom through combat and
+the timely death of specific pit bosses during a raid + slave revolt.
+
+Musu searched for his mother (deceased?) and sister for years, but information
+is hard to come by. His search continues, funded by miscellaneous adventuring jobs
+that promise to pay well.

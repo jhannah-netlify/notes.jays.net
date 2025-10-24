@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-10-16
+date: 2025-10-24
 image: d_and_d.jpg
 # tags:
 ---
@@ -253,6 +253,113 @@ who stated that he couldn’t be blamed for what he was driven in his hunger to
 do. After extending to the party an invitation to visit him in his castle,
 Ravenloft, he bid the party farewell and they melted into a swarm of bats (I
 know I said just one, but this makes more sense) and flew away.
+
+## CH. 3 - The Old Svalich Road
+
+The party resumed their normal watch after the Departure of Strahd and his
+minions. Willem woke up about halfway through the night and completed the
+second watch with Sabine while Indigo and Musu tossed and turned, each
+experiencing nightmares the whole night through.
+
+Upon waking, the party noticed activity on the eastward path, back towards the
+village. You all packed up camp and attempted to sneak over to investigate the
+other occupants of the road. You were quickly spotted, however, by Grigori, the
+weathered but good natured Vistana who had first commissioned you to come into
+Barovia under apparently false pretenses. You confronted him about this and he
+was very up front about his trick. He revealed that he was asked to perform
+this service for Strahd in exchange for being granted passage out of Barovia.
+The party did not take this well, but Grigori happily paid the remainder of his
+original offer which helped to quell the concerns of the more…fiscally minded
+party members.
+
+Grigori said he was going to the Vistani encampment and invited the players to
+accompany him, which you all agreed to. As you made your way through the
+forest, you all noticed you were being tailed by an unkindness or ravens (yes,
+that is what it’s called). Indigo attempted to ask them what they were doing,
+but they seemed rather tight-beaked.
+
+After a bit you came to a crossroads where a small gallows and a graveyard had
+been erected. Grigori indicated to you that the right path would lead to Tser
+pool where the Vistani were camped. As you walked on, Indigo turned back and
+noticed a body hanging from the gallows where none had existed before. As the
+rope twisted the body turned to reveal Indigo’s own face staring back at him.
+He turned to the party to tell them, but when everyone looked back, there was
+nothing there.
+
+You all made your way down into the forest and eventually came to a clearing
+where the river settled into an eddying pool about 100 feet wide. At the edge
+of the pool, right by the road, was a lively camp of Vistani. When they spotted
+Grigori, there was a flurry to welcome him back. It was revealed to you all
+that when a Vistana leaves the group it is as if they have died, so Grigori’s
+return was cause for much celebration.
+
+You were invited to sit down to eat and drink by a Vistana woman named Helvia
+and her friend Milosh. The two were also taking care of a very drunk gentleman
+named Laszlo. They told you of the Vistani and how long ago, when Strahd first
+came to this land, the Vistani who helped him when he was sorely in need. He
+now honors this debt by allowing the Vistani to live in—and sometimes even
+depart from—Barovia in peace. Because of this unspoken agreement, the Vistani
+will not act openly against Strahd. You also learned of the three Vistani, or
+rather Mortu, women who lived in the village of Barovia. They were cast out
+from the Vistani several years ago because of the part they played in the
+assault of a younger Vistana girl.
+
+You were also directed to Madame Eva, the wise old Vistana woman who called
+this camp home. She supposedly has an uncommon gift, even among the Vistani,
+for reading the threads of fate. When you entered her tent, she greeted each of
+you by name. She was a darker skinned old woman with two milky white eyes and
+long white hair braided with dozens of black feathers. She offered to read your
+fortunes and brought out a deck of cards. The reading, she said, would aid in
+your struggle against Strahd, should you choose that path. The clues she gave
+were as follows:
+
+> This card tells of history. Knowledge of the ancients will help you better
+> understand your enemy.  
+> I see a nest of ravens. There you will find the prize.
+
+> This card tells of a powerful force for good and protection, a holy symbol of great hope.  
+> The treasure lies in a dragon’s house, in hands once clean and now corrupted.  
+> This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.  
+> What you seek lies in a pile of treasure, beyond a set of amber doors.
+
+> This card sheds light on one who will help you greatly in the battle against darkness.  
+> A Vistana wanders this land alone, searching for her mentor. She does not
+> stay in one place for long. Seek her out at Saint Markovia’s abbey, near the
+> mists.
+
+> Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him.  
+> He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
+
+She also gave each of you your own reading, giving you advice for how to reach your true goals.
+
+The group stayed the evening at the Vistani camp and were not disturbed. Willem
+spent the night in the ecstatic haze of his dream world, unable to be roused.
+The rest of the party slept soundly and awoke feeling rested.
+
+Heading out from the pool in the morning, the party followed the course of the
+river until their path met back up with the southern leg of the road. You all
+crossed the bridge spanning Tser Falls and then wound your way down the
+hillside to the base of the waterfall where you found a smaller pool, filled
+with mist and the roar of millions of gallons of falling water. Indigo decided
+to turn into a spider and crawl along the walls into the small cavern behind
+the waterfall. There he found the long abandoned remains of a camp with several
+smudged notes. Sabine was able to make out a couple of words that looked like
+“fanes” and “consecra”.
+
+After returning to the road, the party trekked for a couple more hours before
+arriving at another crossroads. The left path led West through a large wrought
+iron gate, that very closely resembled the gates at the entrance to the Village
+of Barovia, before heading into another towering, dark forest. The right path
+went North and then hooked to the East, winding slowly up a great hill capped
+by the same castle you observed towering over Father Donovan’s chapel.
+
+At the head of this second path was a black carriage and two large black draft
+horses. Indigo went to speak to the horses who seemed only able to respond with
+“We do as we are told.” Eventually you are able to convince one horse to go
+back to the castle, and then you simply removed the harness from the other
+horse. Indigo transformed into a draft horse and after getting hooked up, the
+rest of the party loaded into the carriage and headed towards the gate to the
+West.
 
 ## Player characters
 

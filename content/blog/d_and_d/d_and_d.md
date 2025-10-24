@@ -313,22 +313,33 @@ fortunes and brought out a deck of cards. The reading, she said, would aid in
 your struggle against Strahd, should you choose that path. The clues she gave
 were as follows:
 
-> This card tells of history. Knowledge of the ancients will help you better
-> understand your enemy.  
-> I see a nest of ravens. There you will find the prize.
+Rogue, Master of Coins
 
-> This card tells of a powerful force for good and protection, a holy symbol of great hope.  
-> The treasure lies in a dragon’s house, in hands once clean and now corrupted.  
-> This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.  
-> What you seek lies in a pile of treasure, beyond a set of amber doors.
+* This card tells of history. Knowledge of the ancients will help you better
+  understand your enemy.
+* I see a nest of ravens. There you will find the prize.
 
-> This card sheds light on one who will help you greatly in the battle against darkness.  
-> A Vistana wanders this land alone, searching for her mentor. She does not
-> stay in one place for long. Seek her out at Saint Markovia’s abbey, near the
-> mists.
+The Avenger, 1 of Swords
 
-> Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him.  
-> He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
+* This card tells of a powerful force for good and protection, a holy symbol of great hope.
+* The treasure lies in a dragon’s house, in hands once clean and now corrupted.
+
+The Bishop, 8 of Glyphs
+
+* This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
+* What you seek lies in a pile of treasure, beyond a set of amber doors.
+
+The Mists, Queen of Spades
+
+* This card sheds light on one who will help you greatly in the battle against darkness.
+* A Vistana wanders this land alone, searching for her mentor. She does not
+  stay in one place for long. Seek her out at Saint Markovia’s abbey, near the
+  mists.
+
+The Innocent, Queen of Hearts
+
+* Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him.
+* He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
 
 She also gave each of you your own reading, giving you advice for how to reach your true goals.
 

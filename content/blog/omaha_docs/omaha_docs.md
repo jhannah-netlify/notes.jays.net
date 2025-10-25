@@ -33,4 +33,11 @@ of that YouTube video down and clip it for her:
 
 <audio controls src="end of A Time For Burning (1966).m4a"></audio>
 
+Mom wanted to buy that song, so I tried like hell to find it for her.
+[In 2013](https://thelifemosaic.com/a-closer-look-7-a-time-for-burning/)
+others were trying to find that song too and failed:
+> I found the original song for the film written by Tom Paxton, arranged by B.G. Kornfeld,
+> and sung by Ronnie Gilbert to be uplifting and I wish there was more information so I
+> could find a copy to purchase.
+
 [Discussion thread on Mastodon](https://flyovercountry.social/@deafferret/115377565314142653)

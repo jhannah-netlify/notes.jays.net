@@ -6,7 +6,7 @@ image: e80ca14de34570e5.jpg
 # tags: "podcast"
 ---
 
-The filmmaker and Q&A at the sold out premier of "[My Omaha](https://www.myomahafilm.com/)" last night:
+The filmmaker and Q&A at the sold out premier of "[My Omaha](https://www.myomahafilm.com/)" Oct 14 2025:
 
 <!-- <img src="./e22e8b9639b351fc.jpg" alt="filmmaker"/> -->
 <img src="./e80ca14de34570e5.jpg" alt="crowd"/>

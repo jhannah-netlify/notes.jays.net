@@ -6,7 +6,7 @@ date: 2025-10-25
 # tags:
 ---
 
-[writing-prompt-s](https://www.tumblr.com/writing-prompt-s/169917878680?source=share)
+[ writing-prompt-s ]
 
 Temples are built for gods. Knowing this a farmer builds a small temple to see
 what kind of god turns up.
@@ -175,7 +175,7 @@ Sora carefully lifted the skull onto the cloth. “You are the god of Arepo.”
 
 ---
 
-[stu-pot](https://www.tumblr.com/stu-pot/170921580726?source=share)
+[stu-pot](https://www.tumblr.com/stu-pot/170921580726/ciiriianan-sadoeuphemist-writing-prompt-s?source=share)
 
 Generations passed. The village recovered from its tragedies—homes rebuilt,
 gardens re-planted, wounds healed. The old man who once lived on the hill and

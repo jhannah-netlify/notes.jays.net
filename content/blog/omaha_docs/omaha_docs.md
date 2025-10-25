@@ -28,7 +28,7 @@ Pastor fired.
 
 Oof.
 
-Mom was especially struck by the final song in the film. So I used https://ytmp3.cx/ to rip the audio
+Mom was especially struck by the final song in the film. So I used [YTMP3](https://ytmp3.cx/) to rip the audio
 of that YouTube video down and clip it for her:
 
 <audio controls src="end of A Time For Burning (1966).m4a"></audio>

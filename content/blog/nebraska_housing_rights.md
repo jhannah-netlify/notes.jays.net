@@ -53,9 +53,19 @@ Notes Jay tried to take:
   Sep 16th 2025 at first hearing OHA did not bring any lawyers specific to convictions. Suing state and not a legal SME. They have to sue the SME not the state.
   * [The Redress Movement - Omaha](https://redressmovement.org/omaha/): Clarice Dombeck says OHA lawsuit is not going well for OHA.
 
-Misc
+## Legal case search
 
-* Nebraska Judicial Branch: [JUSTICE Search](https://www.nebraska.gov/justicecc/ccname.cgi) - $15 per search
+* [State of Nebraska Judicial Branch](https://nebraskajudicial.gov/e-services/case-information-eservices) -
+  For $100/year you can have up to 10 accounts accessing public records
+  * [JUSTICE Search](https://www.nebraska.gov/justicecc/ccname.cgi) - $15 per search.
+* [PACER](https://pacer.uscourts.gov/) - federal search.
+  [How to use PACER](https://pacer.uscourts.gov/help/pacer).
+  * [RECAP](https://free.law/recap) - "tens of millions" of previously paid for/searched PACER docs,
+    legal opinions, and  scanned PDFs.
+    * [CourtListener](https://www.courtlistener.com/recap/) - alternate, advanced RECAP search.
+
+## Organizations
+
 * National Low Income Housing Coalition: [Nebraska](https://nlihc.org/housing-needs-by-state/nebraska)
 * Omaha Foundation: [Housing Affordability in the Omaha and Council Bluffs Area](https://omahafoundation.org/wp-content/uploads/2021/05/Housing-Affordability-Assessment-of-Needs-Priorities.pdf)
 * [Threshold CoC](https://www.thresholdcoc.org/) (Continuum of Care): runs 211? Printable flyers listing

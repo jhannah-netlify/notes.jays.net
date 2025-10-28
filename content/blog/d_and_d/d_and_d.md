@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-10-24
+date: 2025-10-28
 image: d_and_d.jpg
 # tags:
 ---
@@ -371,6 +371,81 @@ back to the castle, and then you simply removed the harness from the other
 horse. Indigo transformed into a draft horse and after getting hooked up, the
 rest of the party loaded into the carriage and headed towards the gate to the
 West.
+
+## CH. 4 - The Road to Vallaki
+
+After commandeering the carriage that Strahd left to bring the party up to Castle
+Ravenloft, you all headed through the large wrought iron gate. As you passed between
+the two headless statues standing guard on either side of the gate, you felt an icy chill
+creep into the back of each of your minds.
+
+Beyond the gate, you see two burned out farmhouses on either side of the road, one
+with a small field left to go fallow, and an old broken-down wagon covered in weeds. In
+the field were several scarecrows stuffed with a mix of straw and what looked like black
+feathers. As Indigo approached them, he noticed one lurch forward and called out for
+help. Indigo transformed first into a rhino and then into a unicorn… er… horse.
+
+A fight broke out and after a mad flurry of straw and feathers, you had reduced the
+scarecrows to scraps. As you were dusting yourselves off, the rest of the party notices
+Willem finishing one of his dream pies. Indigo retrieved some feathers and offered them
+to one of the ravens, who accepted and nodded respectfully. The party then searched
+the area finding mostly weather damaged household items, but you did locate a small,
+sealed chest in the wagon containing a few silver pieces, a deck of cards, a pair of dice,
+and a ragdoll.
+
+You all decided to burn the carriage - 300 yards from where you stole it - and head into
+the forest to the west. As the road grew dark and a mist settled into the forest floor, you
+came across several different people. There was a small Vistani caravan who greeted
+you and offered you wine and a man named Dmitri and his little girl Anastasia. Dmitri
+told you of the “troubles” in Vallaki between the burgomaster, Baron Vargas Vallakovich,
+and a powerful woman named Lady Wachter. He and Anastasia had left for Barovia
+where he had family living. Indigo gifted the little girl the ragdoll he had found, and the
+party continued on.
+
+As you neared the end of this branch of the Svalich Wood and the trees started to thin,
+you heard several strange noises on both sides of the road. Strange giggles from up in
+the trees and the sounds of several different things moving nearby. A group of men
+emerged from the trees, all with longbows trained on you. They questioned you about
+your motives and on realizing you were not agents of Strahd, they relaxed and began
+talking with you.
+
+You learned that one among them was the young man, Luvash, who had assaulted the
+Vistana girl, Olivetta, and had been expelled from the ranks of the Vistani. He said he
+was making amends for his crimes and the other scouts vouched for him, saying he was
+a good man. They told you they were vampire hunters and had been plotting against
+Strahd, looking for clues about the Fanes of Barovia.
+
+The Fanes, they said, were ancient spirits that embodied the very heart of this valley
+long before it was ever called Barovia. The Seeker of the Forest was a spirit who sought
+the future and was ever looking forward. The Weaver of the Swamp preserved what had
+come to pass, weaving all things into the threads of fate. And the Huntress of the
+Mountain dwelt always on the dark underside of the weave, providing rest to the weary
+departed.
+
+As you were talking, one of the scouts suddenly cried out from up in the tree. You all
+looked up to see a figure holding the limp body of the scouting and gorging itself on his
+blood. A fight erupted and the party jumped into action to chase down the monster.
+Sabine cast a spell on her sword which illuminated the entire area and you all see that
+the creature was Doru, the young man who had been locked in the basement of the
+chapel in Barovia.
+
+Sabine searched the other side of the road for the source of the giggling you had all
+heard and discovered a young girl crouched on a branch about 10 feet off the ground,
+her front covered in blood as well. She ran up to the tree, scaled the 10 feet to the lower
+branch and engaged the girl she guessed to be the missing Gertruda.
+
+Meanwhile, Indigo, Musu, Willem and all of the scouts - well, four of the scouts
+anyway - pursued Doru. Indigo transformed first into a massive spider and later into a
+hulking bear to pursue Doru up into the trees. Willem shot out flashes of radiant energy
+to keep the vampires from healing. Musu threw his javelin and then got his axe back out
+and ran to help Sabine. And the scouts fought, and died (mostly), valiantly. The
+vampires both realized they were outmatched early on and tried to flee, but ultimately
+the party was able to chase them through the trees, bring them down to the ground, and
+beat the absolute shit out of them. Doru ended up in a crumpled heap after a 90 foot fall
+from the treetops (just now realizing I probably should have had everyone on the ground
+make dex saves to avoid the 30 foot section of tree crashing to the ground), and
+Gertruda met her end as a bloody pile of gore after Indigo ripped her to shreds.
+
 
 ## Player characters
 

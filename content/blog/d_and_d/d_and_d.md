@@ -446,6 +446,104 @@ from the treetops (just now realizing I probably should have had everyone on the
 make dex saves to avoid the 30 foot section of tree crashing to the ground), and
 Gertruda met her end as a bloody pile of gore after Indigo ripped her to shreds.
 
+## CH 5. - The “Old” Windmill
+
+After the carnage from the fight with two vampire spawn subsided, the party
+regrouped and welcomed a new face into the fold. Allysia, the lone surviving
+scout among the group you all witnessed get slaughtered, is a half-elf monk
+born in Vallaki but ostracized early in her life for her mixed heritage. Since
+then she has grown up in the wilds of Barovia making friends, or at least
+contacts, among the less civilized inhabitants of the valley.
+
+The party decided to burn the bodies of the two vampires and stay the night
+under the cover of the trees. In the morning, the party began their westward
+trek once more. Emerging from the forest, they found themselves descending into
+a valley within the valley. The road wound around rolling hills toward a
+tattered looking windmill in the distance at the foot of the wooded foothills
+beneath Mount Baratok.
+
+The windmill stood on a small hill at the very bottom of the valley. You came
+first to a rickety picket fence gate with a small sign that was hanging by only
+one chain. The words had been scratched out, but Indigo though he could make
+out the word “Old”. One of the ravens perched on the fence nearby warned you to
+leave and go to Vallaki, but the party did not listen.
+
+Approaching the windmill, you all saw 4 stones standing vertically in a circle
+about 30 yards to the southwest of the windmill. Upon investigation, you could
+see that they were all very old and covered in moss and each one had a distinct
+symbol carved into the top.
+
+Approaching the windmill, you could hear a faint rumbling, grinding noise
+coming from the open window on the second story. Indigo and Allysia decided to
+investigate, using the scaffolding encircling the windmill up to the second
+floor. They saw an older woman working a grinding stone and several bags of a
+white powdery substance.
+
+Allysia attempted to ride Indigo, in the shape of a massive spider, up to the
+third floor window, but unfortunately it was too gross, and she fell and landed
+with a crash on the scaffolding. The old woman was alerted and came to the door
+to see who was there.
+
+When the door opened, you were all greeted by a woman calling herself Bella and
+invited into the cramped first floor of the windmill. You noticed a stone oven
+on one wall with several dozen pies baking inside, lots of bags and containers
+of various ingredients, a small rack of chicken cages, and a large barrel of
+viscous black liquid sitting next to the kitchen table in the center of the
+room. Indigo, using detect magic, could sense divination magic coming from the
+barrel.
+
+Bella told you about her and her sisters’ pie baking venture—how she and her
+sister Ofalia baked the pies and Morgantha (Granny) sold them in Barovia—and
+she also mentioned some troubles with an orphanage in Vallaki that had been
+weighing on them. She asked your assistance in checking on the orphanage and,
+if possible, bringing some of the orphans back to the windmill to be taken care
+of. She said she worried that if Morgantha got back and they still hadn’t heard
+from their friend, Vasili, that she would go herself, which would be far too
+dangerous a journey for an old woman like her.
+
+The party asked to see the rest of the windmill and Bella took you all up to
+the second floor where the grinding wheel was located. You saw a box full of
+bones on the ground and when asked about it, Bella said they grind the animal
+bones they have leftover and scatter the powder in the garden to help the soil
+health. Allysia attempted to sneak up the stairs to the third floor, but Bella
+noticed her and beckoned her back downstairs, worried that the characters would
+see her “Granny Panties”.
+
+The party all said goodbye to Bella—after taking several of the pies she
+offered—and went outside. After Allysia shared what she saw with Musu, saying
+that she didn’t recognize some of the bones, he charged back to the house and
+demanded to see the bones himself. Bella took him back upstairs where he
+examined the box, but he was unable to identify any of the bones as human. He
+apologized and left with the rest of the group.
+
+Indigo, ever suspicious, transformed into a tiny spider and crawled once more
+up to the third floor window to see what he could find. He looked in on,
+presumably, the sisters’ bedroom. Against the far wall, he spotted two small
+crates, each containing a child locked behind a set of bars.
+
+He guided the party down the road, out of view of the windmill, before telling
+you all what he saw. It was decided to take a short rest and then return to
+free the children and deal with Bella and her sister. Indigo opted to scale the
+windmill once more to look in on the children while the rest of the party
+charged the front door. Upon realizing she was under attack, Bella’s façade
+melted away, revealing a bent old crone with a hooked nose, long tangled hair,
+woven with animal bones and feathers, and a string of small skulls draped
+around her waist.
+
+Indigo saw through the third floor window that the crates with the children had
+been moved somewhere. He saw Bella rush up the stairs to call for her sister,
+before seeing him (giant spider) outside the window and running back
+downstairs. A moment later, a second old crone emerged from the trapdoor in the
+attic. She swiped at Indigo through the window and then she also fled down the
+stairs.
+
+Unable to enter the third floor window, Indigo went back to the second floor,
+turned back into a human and entered to join the fray. Bella took several hits
+and was knocked prone by Sabine’s thunderous smite, but as the party closed in
+on her, she vanished. Several attempts were made to attack the spot where she
+had been, but none successfully hit. Ofalia engaged the party at the top of the
+stairs and was quickly flanked by Indigo from behind, and the rest of the party
+in front of her. She retreated behind the grinding stone on the second floor.
 
 ## Player characters
 

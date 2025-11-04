@@ -460,6 +460,7 @@ to promote order and society above all else.
   * Bond: Serves with childhood rival.
   * Flaw: Traumatized by battle magic.
 * Human traits: 36 years old, medium size (6' 1", 178 lbs.)
+  Reminiscent of years of military service, Musu is clean shaven (no beard, head hair) when he has time for grooming. A large scar arcing the left side of his head mars his left eyebrow, ear, and scalp (flail injury many years ago). His eyes are a light grey with a tingle of blue.
 * Fighter Class Features:
   * Fighting Style: Defense
   * Second Wind

@@ -530,9 +530,11 @@ up to the third floor window to see what he could find. He looked in on,
 presumably, the sisters’ bedroom. Against the far wall, he spotted two small
 crates, each containing a child locked behind a set of bars.
 
-He guided the party down the road, out of view of the windmill, before telling
-you all what he saw. It was decided to take a short rest and then return to
-free the children and deal with Bella and her sister. Indigo opted to scale the
+He guided the party down the road, out of view of the windmill, before
+suggesting the group take a short rest. After resting, indigo shared what he had
+seen. Musu immediately went stomping back towards the windmill to free the
+children and deal with Bella and her sister, followed hurriedly by the rest of
+the party. Indigo opted to scale the
 windmill once more to look in on the children while the rest of the party
 charged the front door. Upon realizing she was under attack, Bella’s façade
 melted away, revealing a bent old crone with a hooked nose, long tangled hair,

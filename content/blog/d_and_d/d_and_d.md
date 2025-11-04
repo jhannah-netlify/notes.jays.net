@@ -14,7 +14,15 @@ If I spell anything wrong, misstate a detail of the adventure, or anything
 else, let me know. This is intended as a tool to be referenced later when we
 have forgotten all of this and I want it to be as accurate as possible.
 
-## CH. 1 - DEATH HOUSE
+* [CH. 1 - Death House](#ch-1-death-house)
+* [CH. 2 - The Village of Barovia](#ch-2-the-village-of-barovia)
+* [CH. 2 - The Village of Barovia - Part 2](#ch-2-the-village-of-barovia-part-2)
+* [CH. 3 - The Old Svalich Road](#ch-3-the-old-svalich-road)
+* [CH. 4 - The Road to Vallaki](#ch-4-the-road-to-vallaki)
+* [CH. 5 - The “Old” Windmill](#ch-5-the-old-windmill)
+* [Player characters](#player-characters)
+
+## CH. 1 - Death House
 
 We entered the scene in a quaint little tavern on the outskirts of a quaint
 little village. Our heroes had settled here for the evening after some time
@@ -80,7 +88,7 @@ emerged from the house, seeing that the dense fog had receded.
 <img src="./d_and_d.jpg" alt="What Barovians Are Like">
 Image via <a href="https://www.dndbeyond.com/posts/977-strahds-barovia-a-guide-to-d-ds-most-famous-horror">D&D Beyond</a> (spoilers)
 
-## CH. 2 - THE VILLAGE OF BAROVIA
+## CH. 2 - The Village of Barovia
 
 With the fog cleared away the party was able to see that the village was
 nestled at the head of a valley created by Mount Baratok to the North and Mount
@@ -161,7 +169,7 @@ young man right now. You left the chapel, promising father Donavitch that you
 would find a way to help his son. Ismark, however, indicated that this was not
 likely.
 
-## CH. 2 - THE VILLAGE OF BAROVIA - PART 2
+## CH. 2 - The Village of Barovia - Part 2
 
 You all emerged from the small chapel around noon feeling quite dour. Sabine,
 Indigo and Musu took a few deep breaths and each recovered in their
@@ -446,7 +454,7 @@ from the treetops (just now realizing I probably should have had everyone on the
 make dex saves to avoid the 30 foot section of tree crashing to the ground), and
 Gertruda met her end as a bloody pile of gore after Indigo ripped her to shreds.
 
-## CH 5. - The “Old” Windmill
+## CH. 5 - The “Old” Windmill
 
 After the carnage from the fight with two vampire spawn subsided, the party
 regrouped and welcomed a new face into the fold. Allysia, the lone surviving

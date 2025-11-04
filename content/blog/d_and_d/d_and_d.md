@@ -21,6 +21,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Road to Vallaki](#the-road-to-vallaki)
 * [The “Old” Windmill](#the-old-windmill)
 * [Player characters](#player-characters)
+  * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
 ## Death House
 

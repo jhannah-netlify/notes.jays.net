@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-10-28
+date: 2025-12-05
 image: d_and_d.jpg
 # tags:
 ---
@@ -20,6 +20,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Old Svalich Road](#the-old-svalich-road)
 * [The Road to Vallaki](#the-road-to-vallaki)
 * [The “Old” Windmill](#the-old-windmill)
+* [The Three Sisters](#the-three-sisters)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -555,6 +556,85 @@ on her, she vanished. Several attempts were made to attack the spot where she
 had been, but none successfully hit. Ofalia engaged the party at the top of the
 stairs and was quickly flanked by Indigo from behind, and the rest of the party
 in front of her. She retreated behind the grinding stone on the second floor.
+
+## The Three Sisters
+
+The remaining battle was a flurry of cramped fighting, trickery, and confusion.
+Shortly after the disappearance of Bella, a younger girl came running down from
+the third floor, crying for help. Indigo stopped her, preventing her from
+running through his moonbeam, and ushered her downstairs after repositioning
+his spell. Sabine and Willem were on the first floor trying to locate Bella
+when the girl ran downstairs and hid behind the table. Willem cast detect
+magic, but his attention was focused out the front door. He watched a small
+spec of light at the forest edge, about 30 feet up in the trees, for several
+seconds before turning back to the chaos inside.
+
+Musu and Allysia ran past the girl and engaged Ofalia in combat. After taking
+some damage, Ofalia managed to slip past all three of her pursuers and ascended
+the stairs to her bedroom. Willem, turning to run upstairs, glanced towards the
+table and saw the young girl, wreathed in a blue haze of what was clearly
+transmutation magic. He cried out a warning as the girl walked forward and
+placed her hands on the barrel of thick, black goop, calling forth a hairless,
+long eared creature that walked with the help of two massive arms.
+
+Indigo repositioned his moonbeam to the first floor, forcing Bella out of her guise as
+a little girl, and joined Sabine and Willem in fighting her. At the same time,
+Musu and Allysia chased Ofalia up and up, catching her, only for her to slip
+away again into the attic. Not wanting the children to come to any harm, they
+pursued her as fast as they could. But when cornered
+in the attic it became clear that her sole priority was to escape at any cost.
+She vanished, just as Musu was beginning to attack.
+
+Bella, sensing that she, too, was outmatched by the trio downstairs, also
+vanished. The party spent several minutes freeing the children and searching
+the house for any sign that the hags were still around, but found nothing. As
+Indigo was passing the second floor window, he noticed three figures in the
+distance, one pushing a small cart, meet on the road, stop, and then disappear
+behind a hill about a half mile away.
+
+It was decided that the windmill and all of the hag’s property should be
+destroyed—save for some costume jewelry that Indigo found and the 8
+chickens that the hags had in cages in the kitchen. While everyone else was
+distracted, Willem gave in to his temptation yet again and pilfered 3 pies
+directly from the oven where they had just finished cooking. Sabine then threw
+a large amount of flour into the air, vacated the room, and then threw a torch
+inside. There was a large fireball and the party could see that the wooden
+supports inside had begun to burn.
+
+As the party was leaving the windmill, Willem noticed the small speck of
+magical aura at the forest edge moving up and away before being swallowed by
+the fog to the west.
+
+The party learned that the boy (7) was named Freek and the girl (5) was named
+Myrtle. Freek hardly spoke except to say his name and to mumble things to
+Myrtle that she seemed to understand. Myrtle was not able to tell the party
+much, other than that she and Freek were from Barovia and had been given to the
+hags by their parents. The party suspected that Freek was the child of the man
+in town who had been desperate for more pies from Granny.
+
+The 8 chickens were reluctant to accompany the party and it seems that they
+bore no ill will toward the hags, but eventually Indigo was able to convince
+them to join, if only until they could find better accommodations.
+
+The party spent much of the rest of the day on the road towards Vallaki, which
+wound northward up into the foothills of mount Baratok before turning westwards
+and plunging into yet another thick forest. About an hour into the forest, the
+party heard the sound of approaching hoof falls and decided to hide, just off
+the road. From the trees, you watched as a skeletal rider and horse slowed and
+came to a stop right on the road where you all had just been. It looked
+directly toward you briefly before turning back to the road and proceeding
+onwards.
+
+A little farther down the road, you encountered a Vistana named Arrigal. He was
+quite a bit less immediately amicable than the Vistani that you have already
+encountered, but he nonetheless offered to accompany you to the gates of
+Vallaki. Though he said he would not be able to enter the city with you.
+Vallaki’s policy on Vistani was less than welcoming. Because of that point, he
+asked you to do him a small favor. To visit the toy shop of the “famous”
+Blinsky, and retrieve a doll for his niece. He directed you to meet him at his
+encampment just south of the walls of Vallaki once you had secured the doll. As
+the walls of the city came into view, he bid you farewell and made his way to
+the south through the forest.
 
 ## Player characters
 

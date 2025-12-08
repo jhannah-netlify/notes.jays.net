@@ -21,6 +21,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Road to Vallaki](#the-road-to-vallaki)
 * [The “Old” Windmill](#the-old-windmill)
 * [The Three Sisters](#the-three-sisters)
+* [The Gates of Vallaki](#the-gates-of-vallaki)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -635,6 +636,87 @@ Blinsky, and retrieve a doll for his niece. He directed you to meet him at his
 encampment just south of the walls of Vallaki once you had secured the doll. As
 the walls of the city came into view, he bid you farewell and made his way to
 the south through the forest.
+
+## The Gates of Vallaki
+
+The party approached the wrought iron gate, set into the 10 foot tall wall made
+of large wooden piles, driven side by side into the ground, each sharpened to a
+point at the top. Behind the wall, several guards could be seen patrolling the
+ramparts with several more standing behind the gates. Additionally, there
+seemed to be more than a dozen wolf heads on pikes displayed across the top of
+the wall. At your approach, you were greeted with a barrage of questions about
+who you were, where you were from, what your business was in Vallaki, and most
+importantly, how you felt about “The Devil.”
+
+After reassuring the guards that you intended to make no trouble for the city,
+you were admitted through the gate. You were received by a large group of
+guards who insisted you all remove your armor and weapons so that you could be
+searched for contraband or anything dangerous. Sabine refused at first,
+protesting that a lady would never “disrobe” in public like that. However,
+eventually she consented to be led into one of the guard houses by two female
+guards to be searched more privately.
+
+After cataloging all of your gear, the party was questioned more thoroughly by
+the guards regarding the children that were accompanying them. During this
+exchange, the party noticed that all of the guards, despite being rather
+unfriendly, were smiling almost unceasingly. When questioned, the guards simply
+stated that everyone in Vallaki was happy because “Vallaki is the safest city
+in all of Barovia!”
+
+Once they were satisfied that you meant no harm, the guards pointed you in the
+direction of the Arasek Stockyard where they said you could keep your chickens.
+You made your way into a clearing off the main road that contained a few empty
+pens and a brightly colored, dilapidated carnival wagon off to one side. On one
+side of the yard lay the entrance to the coffin maker’s shop, and on the other
+lay a general store from which an older gentleman came out to greet you.
+
+He agreed to purchase your chickens for 3g, and the chickens agreed to stay
+here for the time being, provided the party come back to check on them in a few
+days to ensure they were happy. Making your way out of the stockyard, Indigo
+spotted two guards walking back to their post who had taken an interest in his
+pipe weed during the search. He befriended them and asked if they would care to
+share a smoke. They gladly accepted and said they would meet him at the Blue
+Water Inn after their shift.
+
+The party continued on into the main square, where they had been told they
+would need to gather in three days time for the Festival of the Blazing Sun.
+The square was still decorated with streamers and posters advertising for the
+Wolf’s Head Festival which had been a few days ago, and after talking to some
+people, you discovered that the Baron threw weekly festivals as a way of
+raising the spirits of the people of Vallaki. In the middle of the square was a
+large raised platform upon which sat about a half dozen stocks, one of which
+was occupied by a smiling middle aged man. Behind him, towered a solitary
+gallows.
+
+The party approached the man and was able to gather that he had been locked
+there because he wasn’t happy enough. But he insisted that that was in the past
+and he was now incredibly happy, because the Baron would take care of all
+Vallakians. Indigo gave the man some water and a goodberry before he was shooed
+away by some guards.
+
+Eventually the party made their way to the Blue Water Inn where they found a
+table and met Danika, the barmaid. She fetched them some drinks and food, and
+was in the middle of negotiating for lodging when a jovial voice called from
+the kitchen not to charge for the room. She sighed, but seemed unwilling to
+challenge the voice, who the party learned belonged to Urwin, Danika’s husband
+and owner of the Blue Water Inn. Two young boys ran around the room, hanging
+off the banisters and trying to spy on patrons. These were Danika and Urwin’s
+children.
+
+After a little bit, the two guards came in looking for Indigo, and while the
+rest of the party enjoyed their drinks and the warmth of the fire, Indigo
+attempted to get whatever information he could out of the guards. From them, he
+was able to glean that everybody in Vallaki was happy—presumably by
+compulsion—and that the Baron threw weekly festivals where all citizens were
+expected to attend. He learned that law and order are very important to the
+Baron and any malfeasance would be dealt with strictly. He had initially
+thought they may have been charmed, but after interrogating them, it seemed
+that this was no magical compulsion. He also found out that Vallaki was a place
+where outsiders may be tolerated but they were rarely trust. At least, by most.
+
+After Indigo returned, the party decided to go to bed, and they all
+collectively hauled Willem (who had already passed out) up the stairs to the
+bedroom. Freek and Myrtle took the room next door for themselves.
 
 ## Player characters
 

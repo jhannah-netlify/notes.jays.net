@@ -1,7 +1,7 @@
 ---
 title: Health
 description: '"I don''t want to go on the cart. I feel fine. I think I''ll go for a walk. I feel happy!"'
-date: 2025-09-03
+date: 2025-12-19
 image: dog_doctor.jpg
 # tags:
 ---
@@ -175,6 +175,17 @@ All better? Fin? 🇫🇷
 * amoxicillin-clavulanate 875-125 mg tablet #13
 * amoxicillin-clavulanate 875-125 mg tablet #14 (prescription finished)
 
+### Thu Dec 18
+
+Uh-oh. Bit into a slice of pizza on my right side and thought I cracked a tooth!
+That's never happened to me before. Carefully swallowed, checked. Huh. no pain,
+really, just a mild pressure sensation right where the above sinus infection(?)
+got me... Can floss and brush and push on all teeth without pain.
+
+Next morning I can still feel a hint of the sensation. Still flossing, brushing,
+no pain. Fluke red pepper flake wedged between molars temporarily? 
+It'll be an interesting story to tell at my next regular cleaning
+appointment in Feb.
 
 ## Epilogue
 Doctor says everything is going to be OK. Chase squirrels, lots of naps, snacks.

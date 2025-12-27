@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-12-05
+date: 2025-12-26
 image: d_and_d.jpg
 # tags:
 ---
@@ -22,6 +22,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The “Old” Windmill](#the-old-windmill)
 * [The Three Sisters](#the-three-sisters)
 * [The Gates of Vallaki](#the-gates-of-vallaki)
+* [Vallaki - "The Safest City in All of Barovia"](#vallaki-the-safest-city-in-all-of-barovia)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -717,6 +718,121 @@ where outsiders may be tolerated but they were rarely trust. At least, by most.
 After Indigo returned, the party decided to go to bed, and they all
 collectively hauled Willem (who had already passed out) up the stairs to the
 bedroom. Freek and Myrtle took the room next door for themselves.
+
+## Vallaki – “The Safest City in All of Barovia”
+
+The party spent an uneventful night at the Blue Water Inn, with Sabine watching
+over the two kids in the other room. In the morning, before heading downstairs,
+she informed the rest of the party that when she had been searched separately
+the previous day, the two female guards had told her that she bears a striking
+resemblance to Tatyana, a girl famous in Barovian folklore.
+
+It is said that Tatyana was a peasant girl living in the valley when Strahd von
+Zarovich first arrived to conquer. He fell in love with her, but she hated him
+for his brutality and instead fell in love with his brother Sergei. In his
+jealousy, Strahd killed his brother—an act which was said to have sealed his
+fate as a Vampire lord—and pursued Tatyana. Stricken with grief and fear of her
+lover’s killer, Tatyana threw herself from the cliffs on which castle Ravenloft
+rests. Barovian folklore holds, however, that no souls may depart the valley
+while it remains the domain of the Devil Strahd, and so occasionally the souls
+of long past residents of Barovia will reemerge. When Strahd learns of a new
+reincarnation of Tatyana, he will stop at nothing to make her his.
+
+The two guards recommended that Sabine keep this a secret and remain covered up
+whenever possible. They also told her to seek out Father Lucian at St. Andral’s
+Church, implying that he could provide her with some measure of protection.
+
+When the party went down for breakfast, they were joined by Urwin Martikov who
+brought everyone a huge plate of eggs. He talked to you a little about the town
+and his position in it. He and his family seem happy here in Vallaki, but
+theirs are some of the only smiles in the city that seem genuine. He mentions
+that his father runs the winery to the west.
+
+As the party was leaving, they met Ernst Larnak, a somewhat weasely looking
+little man, who invited them to the house of his mistress, Lady Fiona Wachter.
+The party decided to honor the request and went to meet with her right away.
+She lives in a stately manor house on the east side of town with several
+servants and her three children. While there, the party learned that Lady
+Wachter is not a fan of the Baron and that she is organizing some kind of
+resistance to him, although she was not forthcoming with the details of this.
+
+The party learned that Lady Wachter had an encounter with Strahd when she was
+younger that left her doubting the malevolence which has been ascribed to him
+by the Vallakovich’s. She thinks the true evil in the valley is the Baron and
+the constant state of paranoia which he has forced upon the citizens. She also
+mentioned that on her way back from her meeting with Strahd, she visited Madam
+Eva who read her fortune which stated that the coming of an outsider to Vallaki
+would mark a new era. They would bring great ruin—“a purge like no other”—but
+when all was done, the sun would once again shine on the people of Vallaki.
+
+While at the Wachter Manor, the party also meets Fiona’s youngest daughter,
+Stella, who has been afflicted with a condition that makes her act like a cat.
+Indigo attempted communication in cat speak, but this did not yield any
+productive results.
+
+After trying, and mostly failing, to gain access to other parts of the manor,
+the party left and headed to Blinsky’s Toys. You were met by a large, jovial
+man in full court jester regalia and his small pet monkey, Piccolo, whom he had
+dressed in a pink tutu. The party bought several toys including one of the
+Tatyana dolls that bore a striking resemblance to Sabine, a Strahd
+ventriloquist dummy, and a small figurine that Musu swears looks just like he
+did when he was younger. This last doll had been a special order from the
+captain of the guard, Izelka Strazni.
+
+After leaving Blinsky’s, the party conned their way into the Baron’s mansion by
+claiming they were the Mertzt family. After being kept waiting nearly a half
+hour, the Baron finally admitted you to his library. He spoke to you for
+several minutes during which it became increasingly clear that he was not
+entirely sane. He insisted on the city always being happy in order to keep “the
+devil” away. He touted the weekly festivals as a huge success and one of the
+main reasons for Strahd’s absence in Vallaki for the past hundred years. He
+also keeps two large mastiffs with him at all times. As you are leaving the
+house, you noticed that the room across from the library is labeled “Izelka.”
+
+The party then made their way to St. Andral’s where they briefly spoke with
+Father Lucian. When asked about “amber doors” he said there was a temple far to
+the southwest that he thought had something to do with amber, but he had never
+been there. You learned from him that the Abbot in Krezk was supposedly a
+powerful healer, but Lucian said that he had not heard from him in years. You
+also asked about a nest of ravens and he pointed you towards a nest he had seen
+at the edge of the woods the prior day. You investigated, but only found the
+eggs of several other birds. Around this time, Wilem attempted to sneak a dream
+pie, but discovered his three remaining pies were no longer in his bag.
+Disheartened, he fell into a depressive state which gives him disadvantage on
+all ability checks.
+
+Upon returning to the city, Indigo noticed that there seemed to be lots of
+ravens circling the center of the town. He transformed into a monkey and began
+running across the roofs to investigate, discovering that the central point of
+focus seemed to be the Blue Water Inn. The players made their way back to the
+Inn where Indigo spotted Rictavio, the old circus master, sneaking around the
+back of the stables. The party followed him and, after a quick confrontation,
+talked to him for a bit. You learned among other things that Rictavio is
+traveling through Barovia searching for circus performers to join his show. You
+each “auditioned” but nobody impressed him enough to get an offer.
+
+After Rictavio left, you all noticed there were lots of ravens occupying the
+loft area of this stable. Indigo spoke with one raven and was able to discern
+that there was a small box in the loft that the ravens stashed things. He also
+noticed one raven that would not talk to him and that flew out the window when
+pressed.
+
+Allysia decided to try and sneak up into the loft to investigate the box, but
+when she opened the lid, she was immediately attacked by several dozen birds.
+The party was able to calm them down and Indigo facilitated an exchange, in
+which the party was able to acquire several potions, a decent amount of
+platinum, and a mysterious leather bag that appears to be empty, and the ravens
+gained a much more diverse collection of shinies.
+
+After wrapping up your trade session, you decided to look for Izelka. You were
+told by a few passing guards that she could be anywhere but that you might
+check the reformation center. You stopped by the reformation center and
+convinced the guards to let you in. The main entryway was essentially a big
+courtroom with several rows of benches two tables and what looked like a mix
+between a throne and a bench at the head of the room. The guards searched
+around for several minutes, but eventually came back and told you that Izelka
+was not there at the moment. As you were leaving, you heard the faint cries of
+someone upstairs who was clearly in a lot of pain.
 
 ## Player characters
 

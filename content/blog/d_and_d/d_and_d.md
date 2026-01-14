@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2025-12-26
+date: 2026-01-13
 image: d_and_d.jpg
 # tags:
 ---
@@ -23,6 +23,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Three Sisters](#the-three-sisters)
 * [The Gates of Vallaki](#the-gates-of-vallaki)
 * [Vallaki - "The Safest City in All of Barovia"](#vallaki-the-safest-city-in-all-of-barovia)
+* [Cast Out of Eden](#cast-out-of-eden)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -833,6 +834,108 @@ between a throne and a bench at the head of the room. The guards searched
 around for several minutes, but eventually came back and told you that Izelka
 was not there at the moment. As you were leaving, you heard the faint cries of
 someone upstairs who was clearly in a lot of pain.
+
+## Cast Out of Eden
+
+The party turned as you heard the cry and saw a robed figure emerge from the
+western door of the courtroom. The tall hooded man introduced himself as
+Ilimir, one of the three reformers that runs the reformation center. He
+apologized for Izelka’s absence, noting that she rarely comes to the
+reformation center except to bring in new detractors for reeducation. He also
+offered to give a tour of the center.
+
+He led the party through a large holding and processing room with a large cell
+and three gaurds, then into the central hall with a large staircase in the
+center leading to the second story. There were several rooms that looked to be
+serving as barracks, a large mess hall, and an entrance to the large turret at
+the back of the building which served as a training facility. There was another
+heavy iron door on the east wall of this room that was barred and locked.
+
+The second story contained a large room of much smaller, individual cells.
+Several more guards patrolled this room and the second floor landing. Allysia,
+sensing that one of the prisoners was in distress, tried to stealthily drop her
+knife for him to grab. But when he saw it he began to scream for the guards,
+not wanting to be punished for having contraband. Allysia managed to play it
+off as an accident, but the party was ushered out of the room.
+
+At the opposite end of the landing was another door that appeared to be locked
+and as the party came out of the room with the small cells, they heard muffled
+cries of terror coming from behind the door. Ilimir said that someone was being
+“reeducated” inside and unfortunately he would not be able to show that room at
+the moment.
+
+As he was leading you all back downstairs, you heard a commotion in the
+courtroom and hurried in to find several guards escorting a tall, dark-haired
+woman into the courtroom, closely followed by the baron and his two mastiffs.
+The woman was accused of horse thievery and of being Vistani, as evidenced by
+the bandana that had been found on her person. The baron pronounced the woman
+guilty and sentenced her to death. He then left the courtroom and the guards
+began leading the woman out, towards the gallows at the center of town.
+
+The party leapt into action and attacked the guards flanking the young woman
+who was able to slip away in the chaos. The attack attracted the attention of
+many of the guards nearby and soon the party was quickly overwhelmed.
+Additionally, it attracted the attention of the elusive Izelka, who came
+running from the direction of the town square when she heard the fight start.
+The party took out a good number of guards but there were several close calls
+including Allysia getting knocked out temporarily. But, eventually you managed
+to rally and make your retreat through the western gates, stealing 2 horses and
+fleeing into the woods.
+
+After escaping, the party searched the woods for a while, but was unable to
+locate the Vistana woman. Eventually you decided to head toward the Vistani
+encampment you had heard about to the south of the city.
+
+After making your way through the woods for about half an hour, you came to a
+large hill with some small houses surrounding the middle and a large tent
+encircled by Vistani tents at the top. You were stopped and briefly questioned
+by a guard posted at the westernmost house, who appears to be at least part
+elf. When he learned who you were looking for, he took you to the tent where
+Arrigal and his brother were talking with several other Vistani.
+
+He explained that his niece, Arrabelle—the one for whom he had requisitioned
+the toy—had disappeared earlier in the day while out with the young boy,
+Alexei, who was seated in the tent looking distraught. Alexei mentioned that
+she talked about going to Lake Zarovich sometimes, but said she knew how
+dangerous it was for them to go near the city. Nonetheless, they all describe
+Arrabelle as a very headstrong girl.
+
+Arrigal said that many in the camp were already searching the woods but he
+would appreciate any help you could give. As you were all talking, a commotion
+could be heard outside and one of the guards ran in to tell Luvash that there
+might be trouble. You all peaked out to see an angry mob emerging from the
+woods to the north with torches and pitchforks—among them, a good number of
+angry looking guards.
+
+Arrigal quickly asked why they were there and after explaining what happened,
+he called you fools and directed you to leave out the south side of the tent.
+After a few fortuitous stealth checks, you were all able to sneak back to the
+cover of the trees where you turned back to the north. You made your way back
+towards the road just west of Vallaki in order to circle around the city and go
+north to the lake.
+
+After successfully crossing the road, the party was waylaid by a very
+unfortunate group of bandits who did not quite understand what they were
+getting themselves into. Only one walked away, and that was only after being
+robbed—twice—by Allysia. By the time you were done searching the bodies, the
+sun had begun to set and you decided to camp for the night in the woods.
+
+During the night, Allysia, Musu, and Indigo all had unsettling nightmares where
+they were trapped in their own body with a demon sitting on their chest.
+Willem, who had taken the first watch, watched them tossing and turning for
+about an hour, but eventually they stopped. When Willem took his turn for
+sleep, he had flashes of visions dominated by a vague visage telling him to
+“HELP THEM.”
+
+At first, he thought he was dreaming of when he was back in the military, but
+quickly he realized the scenes and the people were unfamiliar. He saw flashes
+from one battle to the next. His group of comrades in shining silver scale
+armor defeating the forces of evil in one battle after another. But each battle
+brought losses to his side as well. Until, eventually, his comrades were mostly
+gone. He saw a flash of a great enemy force looming on the hill above his
+bloodied friends. Then a flash of a large fortress, crumbling on one side, the
+statue of a dragon out front draped with the bodies of several slain defenders.
+Then once again, “HELP THEM.”
 
 ## Player characters
 

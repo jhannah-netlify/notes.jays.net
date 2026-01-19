@@ -38,6 +38,25 @@ Side-note: For 25 years I'd use Perl to do little one-off things. They'd take me
 I can write good prompts. This makes my old programmer brain sad. But my get shit
 done brain is happy the shit got done.
 
+---
+
+On Mastodon, someone asked:
+
+> Oh FFS, why is it so hard for people to understand that LLMs/genAI don't THINK?! 💀
+
+Doing my specific job, at this point, I'm not not sure a blind Turing test could
+prove I "think" about problems more than Claude Sonnet 4.5 does.
+
+Could you detect it was Claude? Absolutely.
+
+Claude isn't just a one-time word salad generator anymore. It generates deep trees
+of hypothesis and conclusions only partially based on LLM predictions. It's "logical"
+"grounding" in technical specs / docs is... I didn't think it was going to be possible
+for at least 10 more years.
+
+Or I'm a sucker / stupid / tricked. I dropped out of my Philosophy major decades ago,
+so maybe my thinking about thinking is weak. 🙂
+
 ## 2025-07-09
 
 I [cancelled](https://flyovercountry.social/@deafferret/115395018941371517)

@@ -44,8 +44,8 @@ On Mastodon, someone asked:
 
 > Oh FFS, why is it so hard for people to understand that LLMs/genAI don't THINK?! 💀
 
-Doing my specific job, at this point, I'm not not sure a blind Turing test could
-prove I "think" about problems more than Claude Sonnet 4.5 does.
+Doing my specific job, at this point, I don't know how a blind Turing test would
+/ could prove I "think" about problems more than Claude Sonnet 4.5 does.
 
 Could you detect it was Claude? Absolutely.
 

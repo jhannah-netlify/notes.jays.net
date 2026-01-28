@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-01-13
+date: 2026-01-27
 image: d_and_d.jpg
 # tags:
 ---
@@ -24,6 +24,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Gates of Vallaki](#the-gates-of-vallaki)
 * [Vallaki - "The Safest City in All of Barovia"](#vallaki-the-safest-city-in-all-of-barovia)
 * [Cast Out of Eden](#cast-out-of-eden)
+* [The Search for Arabelle](#the-search-for-arabelle)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -936,6 +937,135 @@ gone. He saw a flash of a great enemy force looming on the hill above his
 bloodied friends. Then a flash of a large fortress, crumbling on one side, the
 statue of a dragon out front draped with the bodies of several slain defenders.
 Then once again, “HELP THEM.”
+
+## The Search for Arabelle
+
+After waking from a somewhat restless sleep, the party set out toward the lake
+north of Vallaki. After a short time, the party was waylaid by Szoldar and
+Yevgeny, the two hunters you had spotted at the Blue Water Inn. They caught you
+in an ambush, but seemed to be more interested in the sport of the hunt than in
+doing any harm.  You questioned them about Arabelle and the mysterious Vistana
+you had rescued from town, but they did not know anything of either. They did
+mention, however, that the town drunk, Bluto recently went missing after having
+been chased from town by the guards for certain “infractions” against the
+baron.
+
+After leaving the two hunters behind, the party continued northward again. As
+you walked through the woods, a voice called out to you from above. A tall,
+thin figure, shaded and obscured by the branches among which he stood, looked
+down on you. He appeared to be wearing a cloak covered in black feathers and a
+beaked mask of some kind. He called you all fools for your part in the escape
+of the Vistana criminal, but said that his employer was impressed and wished to
+speak with you. He directed you to meet back at the Blue Water Inn that night
+before disappearing into the forest canopy.
+
+Meeting no further interruptions, the party eventually came to the banks of
+Lake Zarovich, nestled at the foot of Mount Baratok and surrounded by dense
+forest. On the lake not far from where you emerged from the trees was a small
+rowboat with a balding, drunk looking man. Ask the party watched, he raised up
+a large burlap sack in his arms, poised to throw it into the lake. You noticed
+the bag squirming and heard the distinct cry of a female voice coming from
+inside.
+
+As the man tossed the bag overboard, the party sprang into action. Indigo
+transformed into a crocodile (alligator?) and swam out to grab her, while the
+other members of the party attempted to capture the man. After rescuing the
+girl and hauling both her and the man back to shore, you questioned them,
+finding out that the girl was, in fact, the lost Arabelle that the Vistani had
+been searching for and that the obviously drunk man was Bluto, whom Szoldar and
+Yevgeny had asked after.
+
+Arabelle didn’t seem bothered much by the circumstances. Indigo told her of the
+gift her uncle had asked to get her and she excitedly chose the Strahd dummy,
+immediately adopting a mock voice for her new toy to crack jokes with.
+
+Bluto was extremely drunk and the party was only able to get from him that he
+was trying to make a sacrifice to the lake in order to catch more fish, despite
+telling you all that he wasn’t sure if he had ever caught a fish in the lake
+before. After sobering Bluto up a bit with a lesser restoration spell and
+getting little more information from him, the party decided to haul him back to
+the hunters so they could deal with him. Before leaving the lake, Indigo
+spotted the large glowing form of what looked like an elk on the other side of
+the lake, which Arabelle said was probably the “Mad Mage.”
+
+Walking back through the forest, the party eventually came across a trail of
+dead or dying animals. Following the trail you eventually found Szoldar and
+Yevgeny. They seemed excited to have Bluto back and thanked the party. When
+asked about the various animals they had left behind, they reassured you that
+they would be back for them. They indicated that they were “headed west” but
+gave no clue as to what exactly they were doing.
+
+On the way back to the Vistani camp, Arabelle took you through her favorite
+scenic parts of the forests surrounding Vallaki and entertained you with
+impressions of Strahd using her new toy. Upon arriving back at the camp, the
+party was hailed as heroes for returning Arabelle and a great feast was
+arranged. During the gathering, the party also talked with Kasimir—one of the
+dusk elves that lived among these Vistani—and learned that he had made an enemy
+of Strahd by killing his own sister before she could be turned into one of his
+consorts. In retribution Strahd slaughtered all of the female dusk elves in
+Barovia, leaving the men alone and unable to reproduce. He also cut off
+Kasimir’s ears as revenge (forgot to mention that).
+
+After the feast, the party headed back toward Vallaki to try and sneak in. With
+Arrigal and the other Vistani helping to provide a distraction, the party was
+able to sneak over the northwest wall, only being spotted by a single guard.
+Indigo summoned several massive snakes to chase him away which allowed the
+party to disappear into the city without being seen by anyone else.
+
+You went straight to the Blue Water Inn where you were greeted by a tall, thin
+man with a hooked nose who directed you into the back door leading to the
+kitchen where Urwin Martikov was working over a large pot of stew. From Urwin
+you learned that Sabine’s secret had been compromised and that Strahd would
+likely know before long. He suggested going to father Lucien for protection,
+implying that St. Andral’s church may have some power to protect against
+Strahd.
+
+Danika Martikov joined the party after a little while and grilled you all on
+where your loyalties lie. After satisfying herself that you were not in league
+with Strahd, she pressed Urwin to ask you all to travel to the Wizard of Wines
+Winery to figure out why they had not gotten their shipment of wine. They
+indicated that they have eyes and ears around Barovia and that there is some
+kind of trouble there, but considering Urwin’s relationship with the owner—his
+father—he didn’t want to go himself. They both indicated that if the party
+helped in this matter, it would gain their confidence and possibly their
+assistance against Strahd.
+
+At the party’s request, Urwin fetched Rictavio, the circus master, who was able
+to provide the party with disguise kits to aid in their clandestine movements
+through Vallaki. Afterwards, Urwin gave him the standard paper bag with two
+apples and a raw steak and he left.
+
+The party went straight to St. Andral’s to meet with Father Lucien. After some
+convincing—including Sabine revealing her face to the priest—he agreed to help.
+He told of the history of the church and how it was consecrated through the
+selfless acts of its namesake in sheltering the enemies of Strahd until the end
+of his life. Unfortunately, the bones of St. Andral have recently been stolen
+and without them, he says, the power of the church has faded.
+
+He indicated that Milivoj, the 19 year old grave digger hasn’t been seen for
+several days, and while he is a “good boy,” he seemed like his greatest
+suspicion lay there. He directed the party to the orphanage nextdoor where
+Milivoj helped take care of the younger orphans. He also warned that there have
+been strange rumors coming from some of the children, fueled in part by the
+death of one of the younger boys last month.
+
+Nextdoor, the party first visited the headmistress, Claudia Belasco, who was a
+very serious woman, who nonetheless seemed to care for the children under her
+charge. When asked about the letter from the hags, she sounded offended at the
+suggestion that she would just give HER children away to just anyone. She gave
+the party permission to talk with some of the children, including “that lazy
+boy, Milivoj” and then waved the party out so she could continue her work.
+
+The party walked through the crowded common area where children of all ages
+were entertaining themselves and were directed to the door in the back corner
+for Milivoj. Entering his room, you discovered a very sick young man, covered
+in sweat, and tossing and turning in a state of delirium. He did not respond to
+attempts to wake him. Upon inspection, Wilem was able to discern that he was
+affected by a magical ailment that was not contagious. He could also tell that
+it did not appear to be vampirism, nor did he think it could have been caused
+solely by the removal of the bones from the church. Searching the room, the
+party was unable to find the bones, although there was a dirt covered shovel in
+the corner of the room.
 
 ## Player characters
 

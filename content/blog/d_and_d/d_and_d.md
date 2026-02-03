@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-01-27
+date: 2026-02-02
 image: d_and_d.jpg
 # tags:
 ---
@@ -25,6 +25,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [Vallaki - "The Safest City in All of Barovia"](#vallaki-the-safest-city-in-all-of-barovia)
 * [Cast Out of Eden](#cast-out-of-eden)
 * [The Search for Arabelle](#the-search-for-arabelle)
+* [The Demon of the Orphange](#the-demon-of-the-orphange)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -1066,6 +1067,42 @@ it did not appear to be vampirism, nor did he think it could have been caused
 solely by the removal of the bones from the church. Searching the room, the
 party was unable to find the bones, although there was a dirt covered shovel in
 the corner of the room.
+
+## The Demon of the Orphange
+
+Having come up empty with Milivoj, the party decided to talk to some of the
+children in the common area. While Musu went out to the backyard, Indigo stayed
+inside to listen to the girl telling a story to the children about an evil
+witch. After the story, Indigo asked her some questions and learned that the
+children are all afraid of Felix, the new boy, and there are suspicions about
+his involvement in Cedrik’s death.
+
+Outside, Musu investigated the yard and the well, but found nothing
+particularly interesting. He had just begun talking with the two girls outside
+when Indigo and Adelaida, the young storyteller, came out and the party talked
+with all three girls.  You learned that odd things had been happening at the
+orphanage ever since Felix arrived, and you learned that the three boys who ran
+away had been roommates with Felix and Cedrik. The girls told you that lots of
+kids at the orphanage had been having nightmares. The party also noticed a
+large red rash on Adelaida’s back with an inhuman bite mark in the middle. She
+didn’t remember when or how she got it.
+
+After talking with the girls, the party decided to find Felix and ask him a few
+questions. You headed upstairs and, after not finding Felix in his dorm,
+ascended to the attic. Here you found a young boy in a musty armchair, carving
+a small figurine with a knife. You talked to him for several minutes, but his
+answers were both unsettling and unhelpful. At one point, he made a cut across
+the palm of his hand so he could watch the blood flow out.
+
+Eventually, Indigo decided to tell Felix that the party was going to kill him,
+and he didn’t like this. A great shadowy demon emerged from his form and began
+clawing away at the party. Alyssia was immediately incapacitated before he fled
+to the ceiling and spawned another malevolent shadow.
+
+The fight looked rough for a minute, but with some clever use of moonbeam and a
+VERY well timed divine smite critical, the party destroyed the demon and his
+minions. Alyssia, having been revived, rushed to care for Felix, who looked
+weak, but alive.
 
 ## Player characters
 

@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-02-02
+date: 2026-02-12
 image: d_and_d.jpg
 # tags:
 ---
@@ -26,6 +26,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [Cast Out of Eden](#cast-out-of-eden)
 * [The Search for Arabelle](#the-search-for-arabelle)
 * [The Demon of the Orphange](#the-demon-of-the-orphange)
+* [The Bones of St. Andral](#the-bones-of-st-andral)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -1103,6 +1104,77 @@ The fight looked rough for a minute, but with some clever use of moonbeam and a
 VERY well timed divine smite critical, the party destroyed the demon and his
 minions. Alyssia, having been revived, rushed to care for Felix, who looked
 weak, but alive.
+
+## The Bones of St. Andral
+
+After destroying the demon of the orphanage, the party set out to discover what had
+happened. You all questioned Felix and were able to discern that he had been
+possessed by the demon and forced to watch helplessly as it committed its evils. He
+was a witness and unwilling participant in the murder of both his parents and Cedrik. He
+also told you all that the demon had inscribed runes into the beds of all the children in
+the orphanage. Upon inspection, the party concluded that the runes were a way for the
+demon to torment the children in their dreams. Felix told you that this all began when he
+found and opened a strange silver locket.
+
+A cry came from downstairs as the party was talking with Felix and they went down to
+find that Headmistress Belasco had thrown a drawer of her desk into the middle of the
+room after it had apparently burst into flames. In the smoldering wreckage, you all saw
+many burnt pieces of paper and a charred silver locket. Allysia hit it immediately with
+her staff, breaking it apart, but on further inspection, the party decided that purging the
+demon had likely caused the destruction of the artifact.
+After settling Felix into the room of the previous caretaker, the party went to interrogate
+Milivoj, who they discovered awake on his bed. Although he was quite defensive at first,
+eventually Milivoj began to open up about what had been going on. He was raised at
+the orphanage and even though he is old enough to leave on his own, he has stayed on
+to help fill the duties of the recently deceased caretaker. He works as a gravedigger for
+the church next door in order to earn money to support his brothers and sisters at the
+orphanage.
+
+When he started to get sick a couple weeks ago, he wasn’t able to work as regularly
+and didn’t have any other way to make money. After the three boys who shared a room
+with Felix ran away, he gave in to desperation and agreed to steal the bones in
+exchange for a reward big enough to hire Yevgeny and Szoldar to find them. He sold
+them to Henrik the coffin maker for 30gp. He did not know what Henrik wanted with
+them.
+
+After satisfying yourselves that the threat at the orphanage had been dealt with and
+after donating a generous 50gp to the Headmistress (with the assumption she would
+use it for the benefit of the children), you headed out to deal with Henrik.
+On the way, however, Indigo insisted on a detour to the blacksmith’s shop to buy some
+armor. There they met a grizzled old man (whose name you never asked) who inquired
+about their allegiance to the Burgomaster. After assuring him that you were not fans of
+the Baron, he became more genial and happily fitted Indigo for a new set of scale
+armor.
+
+After this, the party continued sneaking toward the coffin shop on the other end of town.
+Halfway there, several members of the party were spotted and attracted the attention of
+a nearby guard, who ran off to get help. Taking advantage of the excitement of the day,
+the party quickly dispersed into the crowd and were able to avoid further detection.
+
+Upon entering the coffin maker’s shop, you were all met by a very gruff looking silver
+fox. I mean, older man. He was extremely evasive and even rude but Indigo, impatient
+and annoyed, took him by surprise and knocked him out cold. The party tied him up and
+did a quick but fruitless search of the workshop room you met him in.
+When he awoke a few minutes later you began interrogating him, making excellent use
+of Sabine’s zone of truth. You learned that he was in league with Strahd, though he
+knew him only as his alter ego, Vasili von Holtz, a wealthy noble. By his request, Henrik
+was holding 6 crates in his upstairs supply room, but he indicated that there were
+monsters in the crates and he wouldn’t go up. He also revealed that he had hired Milivoj
+to steal the bones on orders from Holtz. He said he did not know the purpose of either
+of those things.
+
+The party decided to ascend the stairs. Choosing the door to the right first, you found
+Henrik’s kitchen and quarters. There was a heavy layer of dust on everything up here as
+if no one had been up in months. Indigo discovered a bag in the wardrobe in the back
+room containing what sounded like bones. He took the bag and you all went to explore
+the other room and potentially deal with the “monsters.”
+
+The storage room was scattered with junk and several large boxes. Indigo approached
+the closest box and lifted the lid. The lid lifted to reveal a pale young man resting on a
+bed of dirt. The creature immediately leapt toward Indigo while five more emerged from
+the boxes scattered around the room. As this was happening, the party looked outside
+and saw the sky darkening in the east—an ominous billowing storm marching steadily
+toward the city—Castle Ravenloft framed by lightning in the distance.
 
 ## Player characters
 

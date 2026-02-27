@@ -27,6 +27,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Search for Arabelle](#the-search-for-arabelle)
 * [The Demon of the Orphange](#the-demon-of-the-orphange)
 * [The Bones of St. Andral](#the-bones-of-st-andral)
+* [The Siege on Vallaki](#the-siege-on-vallaki)
 * [Player characters](#player-characters)
   * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
 
@@ -1175,6 +1176,135 @@ bed of dirt. The creature immediately leapt toward Indigo while five more emerge
 the boxes scattered around the room. As this was happening, the party looked outside
 and saw the sky darkening in the east—an ominous billowing storm marching steadily
 toward the city—Castle Ravenloft framed by lightning in the distance.
+
+## The Siege on Vallaki
+
+*[ Written by player Haiwee ]*
+
+The strange dark clouds over the so-called safest city in Barovia loomed, ever
+threatening as the undead creatures, assumed to be vampires - began to wreak
+havoc on the town. The party began their attack against the undead assailants.
+Thankfully, some of the guards of Vallaki were able to jump in and help defend
+the townspeople, giving the party the opportunity to race towards St. Andral's
+church. Fortunately, some guards were able to gauge that the threat of the
+vampires heavily outweighed the threat of the wanted criminals, and fought the
+vampires alongside the group. Unfortunately, the guard captain, Izelka, made an
+appearance and was out for blood.
+
+Sabine, atop a lion-shapeshifted Indigo, made great haste through the sea of
+battle, barely avoiding Izelka and her elite guard. To everyone's surprise,
+down the road there was a foreboding figure awaiting them - a ghost of their
+past, banging a large metal pot.
+
+Trailing behind Indigo and Sabine, the rest of the party faced their own
+conflicts. Musu fought his way through vampires, swinging his mighty battleaxe,
+ironically ending up briefly fighting side by side with Izelka. Allysia
+successfully thwarted off a duo of vampires’ meager attempts to charm her, and
+Willem carried up the rear, shooting a particularly effective Sacred Flame to
+singe the hair off of his undead pursuer. In the chaos, he noticed a few
+raven-like humanoids jumping into the fray, causing a great deal of the
+vampires to flee.
+
+Up ahead, Sabine prepared to command the menacing pot-banger, and was able to
+stop his attack by compelling him to undress in the midst of the confrontation.
+Little did she and Indigo know, two guards flanking him had set up a trap,
+pulling a rope taut and sending the two flying prone to the ground. They were
+able to scramble back up in time and continue on to the church without any
+further hindrance.
+
+While the pot-banger hurriedly undressed, and then started to frantically
+redress himself, the other two guards displayed the full range of what the
+Vallaki's guard regimen had to offer; one by tripping over his own rope and
+falling prone, and the other by deftly gouging a hole in Musu's side.
+Thankfully, he was able to escape their clutches and make his way towards the
+church. Allysia offered a wave to a very confused and alarmed pot-banger as she
+sped past him.
+
+Finally reaching the church, Indigo and Sabine initially discovered that the
+doors were locked. A hatch slid open, revealing the face of a very worried
+Father Lucien, who immediately relaxed upon seeing the duo. He opened the door
+for them, requesting that they give him the bones at once.
+
+Indigo refused, retaining his lion form as he tried to go directly to the altar
+to return the bones himself. He didn’t make it far, as he was roughly grabbed
+and grappled in place. Sabine went sailing to the floor, prone. The face of
+Father Lucien slowly melted away before their eyes, until Strahd von Zarovich
+himself stood in his place, decorated in embellished war armor, as well as a
+pair of assless chaps. He gripped Indigo by the scruff of his chest roughly,
+remarking that it was great to see him again. Indigo took this opportunity to
+shapeshift into his bear form, escaping the clutches of Strahd and dashing to
+the altar.
+
+The vampire lord quickly thwarted the druid's plans, appearing beside him in an
+instant and attacking him fatally. Indigo was forced out of his wild shape as
+he was downed, but Sabine quickly ran to his aid and healed him to the best of
+her ability. Strahd wasted no time in snatching up St. Andral's bones,
+triumphantly declaring victory and revealing that he sees everything. He looked
+to Sabine and addressed her as Tatyana, indicating that he knew her secret. At
+that moment, everyone was surprised by Allysia bursting through the open door,
+notably still dressed in her disguise as a pregnant woman, exclaiming “THE BABY
+IS COMING!”. The outburst surprised even Strahd, who appeared to be stunned
+into silence. While he was distracted, Indigo took the opportunity to slide
+open the door to the altar and slash at the bag holding the bones, sending a
+few of them clattering to the floor. It seemed that there was a chance, after
+all.
+
+To everyone's frustration, Strahd sent the still-wailing Allysia flying through
+the doors with a flick of his wrist, sealing it shut, and was able to set all
+of the bones aflame, reducing them to ashes before their eyes. He reached for
+Sabine, declaring his intentions to have her rule over Barovia by his side, but
+she only withdrew in disgust. In an act of defiance, she drew her sword and
+held it against her neck. Strahd withdrew, advising her to not be hasty. He
+told her he could give her whatever she wants, but she defiantly said that what
+she wants is to be in a world without him in it, with the freedom to return to
+Faerun with her friends, and for the people of Barovia to live without a
+monster ruling over them.
+
+Unphased, Strahd gave Sabine a golden pendant with a remarkable resemblance to
+the sigil of an eye carved into her forehead, saying that he was returning
+something that once belonged to her. At that moment, he tore away a section of
+the roof, and summoned a large, flaming horse and rode off into the sunset.
+Reluctantly, everyone admitted it was unfortunately badass.
+
+After he left, the rest of the party was able to enter the church. They hurried
+over to Father Lucien's office, ensuring that he wasn't in critical condition
+and settling him into bed, where they noticed there were two puncture wounds in
+the side of his neck. Without many other options, they left the church and went
+back out into the city.
+
+The silence was deafening. No villagers screamed or cried, there was only
+quiet. The vampires were nowhere to be seen, and the ugly black clouds in the
+sky began to dissipate. All that was left was for the citizens to pick up the
+pieces of their once 'safe' city.
+
+The party decided to return to the Inn, stopping to help those affected by the
+siege along the way. No guards bothered to stop the group; they had much bigger
+things to worry about.
+
+When reaching the Inn, Danica appeared to be in the midst of the fallout,
+frantically handling affairs and reparations. The group went to go and see the
+ravens, where even the ramifications of Strahd's appearance seemed to reach.
+Indigo spoke with the Ravens, thanking them for their help in fighting back
+against the undead, and Allysia offered an apology for her earlier actions.
+They were met with forgiveness and regards. The raven with the top hat that
+they encountered previously flew to Indigo's shoulder, speaking plainly for the
+first time and offering him their respect.
+
+Indigo asked the raven to join the group on their adventures, to which he
+readily accepted. When asked about the golden pendant, the bird recoiled. Upon
+further inspection, the pendant appeared to have magical properties associated
+with the school of Divination. Ultimately, despite the potential implication
+that the pendant was being used to spy on the party, they decided to keep it
+just in case.
+
+Indigo asked the Raven for his name, to which he responded that he didn't have
+one. He asked Indigo to give him a name, which the druid said he would have to
+think of a suitable one.
+
+As for exactly where the party will go next, it is unclear. They still must
+resolve the issue of their haunted dreams, but clues have alluded that they may
+find more answers on their cursed situation in Tserpool, a small town marked by
+a disturbingly familiar sigil of an eye...
 
 ## Player characters
 

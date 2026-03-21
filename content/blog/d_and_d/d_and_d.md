@@ -1341,7 +1341,7 @@ Musu searched for his mother (deceased?) and sister for years (ages 27-36),
 but information is hard to come by.
 
 At age 36 Musu found his sister (Sara SAW-ra) in Vallaki!!
-In Vallaki, she is known as Izelka, captain of the guard, and was raised by The Baron.
+In Vallaki, she is known as "Izelka," Captain of the Guard, and was raised by The Baron.
 Sara (SAW-ra) has brown hair, close-cut for her military service.
 She has a scar through her left eyebrow.
 

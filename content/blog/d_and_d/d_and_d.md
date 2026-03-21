@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-02-12
+date: 2026-03-21
 image: d_and_d.jpg
 # tags:
 ---
@@ -29,7 +29,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Bones of St. Andral](#the-bones-of-st-andral)
 * [The Siege on Vallaki](#the-siege-on-vallaki)
 * [Player characters](#player-characters)
-  * [Musu](#musu-level-3-human-fighter-champion) Human Fighter (Champion)
+  * [Musu](#musu-human-fighter-psi-warrior) Human Fighter (Psi Warrior)
 
 ## Death House
 
@@ -1308,7 +1308,7 @@ a disturbingly familiar sigil of an eye...
 
 ## Player characters
 
-### Musu: Level 3 Human Fighter (Champion)
+### Musu: Human Fighter (Psi Warrior)
 
 * Alignment: **Lawful Neutral**. I obey laws, traditions, or my own strict code
 to promote order and society above all else.
@@ -1322,21 +1322,30 @@ to promote order and society above all else.
   Reminiscent of years of military service, Musu is clean shaven (no beard, head hair) when he has time for grooming. A large scar arcing the left side of his head mars his left eyebrow, ear, and scalp (flail injury many years ago). His eyes are a light grey with a tingle of blue.
 * Fighter Class Features:
   * Fighting Style: Defense
-  * Second Wind
-  * Maneuver Save DC 13
-  * Action Surge
 
 Musu was born in a small fishing village and has pleasant memories of childhood
-until the slavers came. They killed his father, chained him, his mother, and his
-one older sister. Musu was sold into conscripted military service and eventually
+until the slavers came when he was 8. They killed
+his father (Elaiden el-AY-den), chained him,
+his mother,
+and his one older sister (Sara SAW-ra 10 years old).
+Musu was sold into conscripted military service (ages 8-18), 
 rose through the ranks under promises that his mother and sister were being
 supported as long as he continued to serve and win battles.
 
 Eventually, Musu discovered the lies: according to a superior his mother was dead
 and his sister was missing. Musu killed that commander and was sent to the gladiator
-pits. He fought for years, eventually gaining his freedom through combat and
+pits. He fought for years (ages 18-26), eventually gaining his freedom through combat and
 the timely death of specific pit bosses during a raid + slave revolt.
 
-Musu searched for his mother (deceased?) and sister for years, but information
-is hard to come by. His search continues, funded by miscellaneous adventuring jobs
-that promise to pay well.
+Musu searched for his mother (deceased?) and sister for years (ages 27-36),
+but information is hard to come by.
+
+At age 36 Musu found his sister (Sara SAW-ra) in Vallaki!!
+In Vallaki, she is known as Izelka, captain of the guard, and was raised by The Baron.
+Sara (SAW-ra) has brown hair, close-cut for her military service.
+She has a scar through her left eyebrow.
+
+The Baron passed peacefully when a random tiger unrelated to the party's adventuring
+[was a bit peckish](https://www.youtube.com/watch?v=rObSWkQA7og&t=2m30s).
+Sara was briefly shaken by his passing, but no one can blame the natural
+behavior of local wildlife.

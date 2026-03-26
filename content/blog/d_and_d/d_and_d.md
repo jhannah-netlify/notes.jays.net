@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-03-21
+date: 2026-03-26
 image: d_and_d.jpg
 # tags:
 ---
@@ -28,6 +28,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Demon of the Orphange](#the-demon-of-the-orphange)
 * [The Bones of St. Andral](#the-bones-of-st-andral)
 * [The Siege on Vallaki](#the-siege-on-vallaki)
+* [Vallaki - "The Bloodiest City in All of Barovia"](#vallaki-the-bloodiest-city-in-all-of-barovia)
 * [Player characters](#player-characters)
   * [Musu](#musu-human-fighter-psi-warrior) Human Fighter (Psi Warrior)
 
@@ -1305,6 +1306,102 @@ As for exactly where the party will go next, it is unclear. They still must
 resolve the issue of their haunted dreams, but clues have alluded that they may
 find more answers on their cursed situation in Tserpool, a small town marked by
 a disturbingly familiar sigil of an eye...
+
+## Vallaki – “The Bloodiest City in All of Barovia”
+
+The next morning, the players were met by a familiar face—the mysterious Vistana
+woman, Esemerelda d’Avenir—who informed you of strange goings on at the Wachter
+Manor. She told of kidnappings in the night and hooded people being brought to her
+basement, never to be heard from again. The party agreed to investigate the most
+recent kidnapping, which you were told happened mere hours before.
+
+Upon arriving at the manor, the party found the cellar door unlocked. Descending the
+stone stairs, you found yourselves in a dimly lit root cellar with dirt floors, several cots
+on one side of the room, another flight of stone steps leading up into the house, and a
+series of footprints leading, seemingly, to the wall on the far side of the room.
+
+As you stepped foot on the ground, several skeletons emerged from beneath the dirt
+and attacked. Fighting erupted and the noise alerted the cultists sequestered in the
+adjacent room. The wall slid open to reveal a ceremonial chamber, several cultists, Lady
+Wachter, and a victim lying prostrate on the floor.
+
+The cultists immediately joined the battle, but it quickly became clear they were
+outmatched. The three cultists, as well as the small imp that Lady Wachter kept, were
+all slaughtered in short order along with the eight skeletons.
+
+The party interrogated Lady Wachter and discovered that she had been orchestrating
+ritual sacrifices for years in her basement in the hopes of bringing about the prophesied
+destruction and the coming of the sun to Vallaki. She insisted that her “victims” were all
+evil nobles who had allied themselves with the Baron and that she was simply
+performing a service for the town. She also hinted that her plan for Vallaki was already
+in motion and that the party couldn’t stop it.
+
+Upon leaving the Wachter Manor, you observed the town guards gathering everyone up
+for the (rescheduled) Festival of the Blazing Sun. You were ushered towards the town
+square, where the Baron was preparing a large wicker effigy of the sun to be burned.
+As the festival began, Lady Wachter emerged to speak to the people and urge them to
+arms against the Baron and his corrupt government. Several of her cultists seized the
+Baron, his family, and Izelka, but Victor, their son, managed to break away from the
+guards and unleashed a powerful blast of cold, obliterating two guards and injuring two
+of the cultists.
+
+Izelka was unmasked by the cultists and Musu immediately recognized her from his
+distant past. She was older with more battle scars and her face was cold as iron—much
+different from the smiling girl of his youth—but he knew beyond a shadow of a doubt
+that this was Sara [SAW-ra], his long lost older sister. He called out her name and
+rushed forward, removing his helmet. There was a touching, if quick, reunion between
+the two before Izelka (Sara) ran to try and put down the uprising, Musu following close
+behind.
+
+As the chaos escalated, a sudden stupor fell over a large portion of the mob, including
+the two cultists that had been moving through the crowd. Sara rushed one of the cultists
+and slaughtered him where he stood while Musu attacked the other, maiming him and
+sending him to the ground begging for his life.
+
+Sabine rushed to intercept Victor, commanding him to focus on her. Indigo transformed
+into a lion and rushed him, raking his claws at the young caster. He was hurt, but
+managed to disappear before he could be taken out.
+
+Allysia pushed away from two of the guards, knocking one to the ground. With the help
+of the chaos and the bloodshed caused by her compatriots she managed to scare away
+the remaining guards around the group.
+
+Willem attempted to reach the stage where the cultists had tied the Baron, but he was
+engaged by a hulking elite guard who delayed him on his way.
+
+At the far end of the square, three tall robed figures emerged and targeted Sabine with
+a barrage of magic missiles. The party recognized the center figure as Ilimir, the
+reformer who had taken them through the reformation center.
+
+Indigo decided that the best way to put an end to the chaos was to quickly put an end to
+the Baron. He charged the stage and before anyone could do anything, he ripped the
+Baron’s head clean from his body. Transforming back into a halfling, he tossed the head
+into the mass of guards and villagers and yelled for everyone to surrender or face his
+wrath.
+
+Seeing his father killed, Victor reappeared and conjured a massive ice storm centered
+on the stage, injuring not only Indigo, but the remaining cultist and his mother as well,
+but extinguishing the fire that was threatening to consume her (and the headless corpse
+of her husband).
+
+Sabine took the opportunity then to move behind Victor and take a mighty swing, caving
+in the back of his skull and sending pieces of brain and skull fragments flying.
+At this, Ilimir held up his hands and called for everyone to stop fighting. The remaining
+guards and mob, deeply shaken by the sudden escalation in violence, complied readily
+and the party assented as well. Izelka, having just seen her adopted father murdered,
+marched toward Indigo for revenge. But at Musu’s urging, she finally relented, settling
+on a deep hatred rather than bloody revenge.
+
+Lady Wachter waded out among the field of bodies and (perhaps a little too gleefully)
+began conferring with the reformers about a new system of governance. One,
+presumably, with her at its head.
+
+Musu talked with Sara and discovered that their mother may still be alive, but was taken
+long ago to Castle Ravenloft. Musu asked her to come with, but she insisted that Vallaki
+was her home now and that she needed to stay to help rebuild it.
+
+With the final release of the pent up political tension in Vallaki, the party found
+themselves free to pursue their own goals once again.
 
 ## Player characters
 

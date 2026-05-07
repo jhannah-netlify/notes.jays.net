@@ -16,18 +16,34 @@ in house). My title is "Data Engineer" but I wouldn't say I'm doing much of that
 VSCode -> GitHub Copilot -> Claude Sonnet 4.6 is extremely good at AWS monkeying + Terraform.
 The majority of the time.
 I am more valuable to my employer (faster at finishing typical tasks) with that tool than
-without it. Here's how I use it:
+without it.
 
-New branch in git. Claude has direct access to read and write all the files in my
-LOCAL git clone via VSCode. My git repo contains zero secrets. I tell Claude to run read-only
-AWS CLI commands itself so I don't have to copy/paste responses back to Claude.
-Every CLI command it wants to run pops up an "Allow" button for me to confirm manually.
+**Context:** The **AWS stack** I'm responsible for:
+GitHub Actions (CI/CD) -> Terraform -> AWS: MWAA (Apache Airflow) (Step Functions, dbt),
+Docker -> ECR -> ECS, Glue (Jobs, Connectors, Crawlers) (Apache Spark (Java)),
+Athena, S3 general purpose buckets, Redshift (PostgreSQL).
+IAM, VPCs, Secrets, CloudWatch (w/ Dashboards), EventBridge, SNS, Lambda, CloudTrail.
+Experimental: S3 table buckets (Apache Iceberg), CloudFormation.
+
+**How I use Claude:**
+My git repo contains zero secrets. New branch in git.
+Claude has direct access to read and write all the files in my LOCAL git clone (via VSCode).
+Every suggested change to every file pops up a pretty red/green diff display
+with "Approve" and "Reject" buttons.
+I tell Claude to run read-only AWS CLI commands itself so I don't have to copy/paste responses
+back to Claude. Every CLI command it wants to run pops up an "Allow" button for me to confirm
+manually.
 
 This makes troubleshooting my cascading AWS environments much faster. Claude chases
-~20 layers of AWS junk and suggests Terraform / source code changes. It's suggestions
-are usually quite good, and often hours faster than my own troubleshooting likely would have been?
-(AWS CLI command syntax is byzantine and constantly changing; and you frequently need 3-6 commands
-chained together perfectly to find a root cause.)
+~20 layers of AWS junk and suggests Terraform / source code changes.
+AWS is byzantine and constantly changing, and you frequently need 3-6 CLI commands
+chained together perfectly to find a root cause in whatever layer went sideways.
+
+I frequently "argue" with Claude until I'm satisfied with a change set.
+
+Sometimes Claude "death spirals" -- it gets stuck looping bad ideas, or circular hypotheses.
+I Abort Claude and re-guide it's approach, and/or chase the problem myself for a while.
+This is infrequent recently.
 
 I perform all git operations myself, manually. Claude has zero permission to run any CLI autonomously.
 So theoretically all it could blow up is my local git clone. Which is trivial to `git reset --hard`.
@@ -35,11 +51,6 @@ So theoretically all it could blow up is my local git clone. Which is trivial to
 When I think a task is finished, I push my branch as a Pull Request for additional not-me human review and QA.
 I take personal responsibility for every line of code in my PR. Whether I wrote it, or Claude did.
 
-**Stack:** GitHub Actions (CI/CD) -> Terraform -> AWS: MWAA (Apache Airflow) (Step Functions, dbt),
-Docker -> ECR -> ECS, Glue (Jobs, Connectors, Crawlers) (Apache Spark (Java)),
-Athena, S3 general purpose buckets, Redshift (PostgreSQL).
-IAM, VPCs, Secrets, CloudWatch (w/ Dashboards), EventBridge, SNS, Lambda, CloudTrail.
-Experimental: S3 table buckets (Apache Iceberg), CloudFormation.
 
 **OOPS:** On Jun 1 GitHub Copilot -> Claude Sonnet 4.6 is getting [9X more expensive](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing#model-multipliers-for-annual-copilot-pro-and-copilot-pro-subscribers)?
 I have no idea how much USD my employer is currently paying for my recent use of Claude Sonnet 4.6.

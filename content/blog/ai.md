@@ -1,7 +1,7 @@
 ---
 title: '"AI" for computer programming'
 description: What I'm using when.
-date: 2026-01-19
+date: 2026-05-07
 # image: asia.jpg
 # tags:
 ---
@@ -10,6 +10,39 @@ Experience: 30 years of computer programming. In 2023 my career
 veered off of large scale back-end development (DBs, APIs, etc.) and into
 "DevOps" (gluing dataflow tools together w/o building large bespoke ones
 in house). My title is "Data Engineer" but I wouldn't say I'm doing much of that.
+
+## 2026-05-07
+
+VSCode -> GitHub Copilot -> Claude Sonnet 4.6 is extremely good at AWS monkeying + Terraform.
+The majority of the time.
+I am more valuable to my employer (faster at finishing typical tasks) with that tool than
+without it. Here's how I use it:
+
+New branch in git. Claude has direct access to read and write all the files in my
+LOCAL git clone via VSCode. My git repo contains zero secrets. I tell Claude to run read-only
+AWS CLI commands itself so I don't have to copy/paste responses back to Claude.
+Every CLI command it wants to run pops up an "Allow" button for me to confirm manually.
+
+This makes troubleshooting my cascading AWS environments much faster. Claude chases
+~20 layers of AWS junk and suggests Terraform / source code changes. It's suggestions
+are usually quite good, and often hours faster than my own troubleshooting likely would have been?
+(AWS CLI command syntax is byzantine and constantly changing; and you frequently need 3-6 commands
+chained together perfectly to find a root cause.)
+
+I perform all git operations myself, manually. Claude has zero permission to run any CLI autonomously.
+So theoretically all it could blow up is my local git clone. Which is trivial to `git reset --hard`.
+
+**Stack:** GitHub Actions (CI/CD) -> Terraform -> AWS: MWAA (Apache Airflow) (Step Functions, dbt),
+Docker -> ECR -> ECS, Glue (Jobs, Connectors, Crawlers) (Apache Spark (Java)),
+Athena, S3 general purpose buckets, Redshift (PostgreSQL).
+IAM, VPCs, Secrets, CloudWatch (w/ Dashboards), EventBridge, SNS, Lambda, CloudTrail.
+Experimental: S3 table buckets (Apache Iceberg), CloudFormation.
+
+**OOPS:** On Jun 1 GitHub Copilot -> Claude Sonnet 4.6 is getting [9X more expensive](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing#model-multipliers-for-annual-copilot-pro-and-copilot-pro-subscribers)?
+I have no idea how much USD my employer is currently paying for my recent use of Claude Sonnet 4.6.
+I've been told Claude Opus is much better, but I've never tried Opus because it's 3X more expensive
+than Sonnet and Sonnet works fine for what I do?
+
 
 ## 2026-01-19
 

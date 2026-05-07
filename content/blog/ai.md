@@ -32,6 +32,9 @@ chained together perfectly to find a root cause.)
 I perform all git operations myself, manually. Claude has zero permission to run any CLI autonomously.
 So theoretically all it could blow up is my local git clone. Which is trivial to `git reset --hard`.
 
+When I think a task is finished, I push my branch as a Pull Request for additional not-me human review and QA.
+I take personal responsibility for every line of code in my PR. Whether I wrote it, or Claude did.
+
 **Stack:** GitHub Actions (CI/CD) -> Terraform -> AWS: MWAA (Apache Airflow) (Step Functions, dbt),
 Docker -> ECR -> ECS, Glue (Jobs, Connectors, Crawlers) (Apache Spark (Java)),
 Athena, S3 general purpose buckets, Redshift (PostgreSQL).

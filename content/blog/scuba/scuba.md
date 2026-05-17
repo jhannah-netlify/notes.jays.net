@@ -1,7 +1,7 @@
 ---
 title: Scuba diving log
 description: Where I've successfully failed to drown
-date: 2025-08-17
+date: 2026-05-17
 image: asia.jpg
 # tags:
 ---
@@ -15,6 +15,7 @@ image: asia.jpg
 
 **Dive numbers** (dates) locations
 
+* **165-172** (2026-05-11 through 15) [Dive Fair Helen](https://www.divefairhelen.com/), Marigot Bay, St. Lucia.
 * **156-164** (2025-08-10 through 14) Grand Cayman, East End, Cayman Islands.
 * **154-155** (2025-07-12) Rock quarry, Atlantic, Iowa USA.
 * **150-153** (2024-12-22 through 26) Pacific Coast Dive Center, Playa Flamingo, Costa Rica.

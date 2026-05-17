@@ -8,7 +8,7 @@ image: asia.jpg
 
 <p><nobr>
 <a href="https://www.google.com/maps/d/u/0/edit?mid=1ZaPNEtNn269_xnvebtSK-MsmIVSlVRU&usp=sharing">
-<img src="./north_america.jpg" alt="North American dives"/><br/>
+<img src="./north_america.jpg" alt="North American dives" width=600/><br/>
 <img src="./asia.jpg" alt="Asian dives"/>
 </a>
 </nobr></p>
@@ -29,7 +29,7 @@ image: asia.jpg
 * **98-103** (2020-05-19 through Sep 18) Rock quarry, Atlantic, Iowa USA.
 * **97** (2020-03-10) Rainbow River, Dunnellon, Florida USA.
 * **94-96** (2019-06-11) Rock quarry, Atlantic, Iowa USA.
-* **83-93** (2019-03-10 through 15) Bimini, Bahamas.
+* **83-93** (2019-03-10 through 15) [Great Hammerhead Safari](https://biggameclubbimini.com/diving-adventure/bimini-dive-safaris/) and others, Bimini, Bahamas.
 * **77-82** (2017-10-07 through 2018-06-22) Rock quarry, Atlantic, Iowa USA.
 * **70-76** (2017-09-15 through 16) Table Rock Lake, Branson, Missouri USA.
 * **69** (?) Lake Zorinsky, Omaha, Nebraska USA.

@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-03-26
+date: 2026-05-30
 image: d_and_d.jpg
 # tags:
 ---
@@ -29,6 +29,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Bones of St. Andral](#the-bones-of-st-andral)
 * [The Siege on Vallaki](#the-siege-on-vallaki)
 * [Vallaki - "The Bloodiest City in All of Barovia"](#vallaki-the-bloodiest-city-in-all-of-barovia)
+* [The Road to Krezk (sort of)](#the-road-to-krezk-sort-of)
 * [Player characters](#player-characters)
   * [Musu](#musu-human-fighter-psi-warrior) Human Fighter (Psi Warrior)
 
@@ -1402,6 +1403,115 @@ was her home now and that she needed to stay to help rebuild it.
 
 With the final release of the pent up political tension in Vallaki, the party found
 themselves free to pursue their own goals once again.
+
+## The Road to Krezk (sort of)
+
+The party set out from Vallaki and headed east toward the old windmill to, once
+again, confront the three hag sisters who have plagued your nights with bad
+dreams. Along the road to the east you encountered a group of zombie guards who
+you easily dispatched, along with a mysterious undead that helped you to
+destroy the servants of Strahd. You learned that he was a resident of
+Argynvostholt, to the southwest, before he went off into the forest.
+
+Arriving at the windmill, you were not disappointed, as all three sisters
+appeared and engaged you in battle. They appeared to be outmatched, but when it
+looked like they were defeated, they disappeared again. The party suspects
+their elusiveness may be evidence that they are traveling between planes of
+existence and may, in fact, be following the group at all times.
+
+Frustrated from your failure to capture or kill the hags, you set off straight
+west through the forest, hoping to take a shortcut to Krezk where you hoped to
+find the famed healer at the Abbey of St. Markovia. The party was sidetracked
+several times, first by a trail leading to a large tree that Indigo engaged in
+a somewhat fruitless conversation, and then by a group of scarecrows along the
+road south toward the abandoned village of Berez.
+
+After losing the scarecrows in the underbrush, the party decided to keep on
+toward Krezk. In the woods west of the river, you came across the campsite of
+the hunters Yevgeny and Szoldar who had been slaughtered and left as carrion.
+After looting their camp for the few supplies they carried you moved on and,
+after a while, came across another campsite. This one was populated by a group
+of hippies, still very much alive, who invited you over to share a meal and
+some toads, which Indigo happily partook in. The hippies told you of their
+hideaway up north and their charismatic leader, Marley, and said if you were
+ever in the area to join them.
+
+The party parted ways with the hippies when you saw a large tower on a lake and
+decided to investigate. After some dance move trial and error, you were
+eventually able to gain entry. The tower appeared to be a somewhat recently
+abandoned hideout for someone. Inside, golems operate a slow moving elevator
+system to ascend / descend the tower. A severed head placed in a chest upstairs
+told you that the owner of a Vistani wagon parked out front was killed by a
+carnival performer named Rictavio after he had tried to con the old man. Willem
+decided to stay outside to start the night, but was quickly scared back inside
+when a pack of wolves approached the tower. Willem danced his way back into the
+tower just in time, and the wolves retreated back into the woods.
+
+The next morning, you all packed up and set out west again. On the road, you
+encountered the Baroness hauling the partially eaten corpse of her recently
+deceased son toward Krezk. After interrogating her, she revealed that she was
+trying to go to the Abbot to have him bring her son back to life. The party,
+however, decided this could not happen and you burned the remaining body parts
+while she went into hysterics. When you were done, you left the grieving widow
+on the side of the road, presumably to never bother the party again.
+
+A short while later, the party encountered a grisly scene at a small farm just
+off the main road. There were five bodies scattered around the farmstead, all
+with 2 large jagged punctures in their necks. At first glance, it seemed like
+vampires, but after more careful observation, it was determined that these
+marks are inconsistent with vampire bite marks. Additionally, many of the
+bodies showed signs of being mauled by some sort of beast. Interrogating one of
+the dead individuals, you were told they were attacked by some kind of humanoid
+creatures with the features of a beast.
+
+Distracted from your original quest by Indigo’s desire to get high, you all
+trekked northward to try and find the hippie encampment, which you were
+eventually able to locate, tucked under a rocky promontory rising out of the
+forest. Marley and his family welcomed you in, fed you, told stories, and then
+in the morning, invited you to play games with them, which Indigo happily
+participated in. Allysia was very suspicious of Marley and his group of hippies
+and decided to investigate the cave at the back of their hideout. Inside, she
+found more living quarters, a very old shrine to Mother Night, and a pack of
+sleeping wolves.
+
+She eventually went and got the rest of the party to go down and investigate.
+Indigo talked to several of the wolves, who were not overtly hostile, but were
+somewhat cagey and acted like, given the opportunity, they would gladly turn
+the party into a meal. But finding nothing else out of the ordinary, you all
+decided to depart and make your way toward Krezk.
+
+When you arrived at the gates later in the day, you were met with little
+enthusiasm. The guards told you to leave and that you were not welcome. When
+you demanded to speak to the town’s leader, Dmitri Krezkov, Burgomaster of
+Krezk came out and told you the same thing. The town was very low on supplies
+with winter so close and they distrusted outsiders. They could not support any
+more people in their settlement and he would not open his doors to strangers in
+times like these.
+
+After pressing him further and offered aid, he finally relented, partially, and
+told you that if you would go to the winery to the south and bring their
+missing shipment of wine, he would allow you in to seek out the Abbot.
+
+And so the party set out south towards the winery. Just after dusk, you
+encountered another encampment about 100 feet off the road, where you were
+ambushed by an old man with a large crossbow, demanding to know who you were
+and why you were there. After tempers cooled, the rest of his family emerged
+and introduced themselves as the Martikovs – relatives of Urwin and Danika from
+the Blue Water Inn in Vallaki. The old man with the crossbow was Urwin’s
+estranged father, Davian.
+
+You learned from the Martikovs that the winery had recently been overrun by the
+forest folk and an army of stick creatures. They told you of the brief siege
+and of their eventual flight several days earlier. They have been camped here
+ever since, trying to figure out how to retake the winery. When the party
+offers to help, they seem happy, but also nervous. This winery has been in
+their family for generations and the grapevines are older than all of them.
+They caution you not to destroy them, no matter what happens.
+
+In the morning, the party set out toward the winery. Davian and his daughter
+gave you a rough layout of the building and the grounds, in case you wanted to
+sneak in. But instead, the party decided to walk right up the front path, where
+you were immediately ambushed by a small army of sticks and nettles...
 
 ## Player characters
 

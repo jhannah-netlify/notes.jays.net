@@ -1441,8 +1441,11 @@ decided to investigate. After some dance move trial and error, you were
 eventually able to gain entry. The tower appeared to be a somewhat recently
 abandoned hideout for someone. Inside, golems operate a slow moving elevator
 system to ascend / descend the tower. A severed head placed in a chest upstairs
-told you that the owner of a Vistani wagon parked out front was killed by a
-carnival performer named Rictavio after he had tried to con the old man. Willem
+told you he was killed by an old carnival performer named Rictavio after
+he had tried to con him.
+
+A Vistani wagon is parked out front of the tower. The party has seen Rictavio's
+wagon before, this wagon is not that one. Willem
 decided to stay outside to start the night, but was quickly scared back inside
 when a pack of wolves approached the tower. Willem danced his way back into the
 tower just in time, and the wolves retreated back into the woods.

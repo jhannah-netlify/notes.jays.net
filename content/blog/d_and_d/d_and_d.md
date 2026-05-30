@@ -1442,7 +1442,7 @@ eventually able to gain entry. The tower appeared to be a somewhat recently
 abandoned hideout for someone. Inside, golems operate a slow moving elevator
 system to ascend / descend the tower. A severed head placed in a chest upstairs
 told you he was killed by an old carnival performer named Rictavio after
-he had tried to con him.
+he had tried to con him (steal his wagon).
 
 A Vistani wagon is parked out front of the tower. The party has seen Rictavio's
 wagon before, this wagon is not that one. Willem

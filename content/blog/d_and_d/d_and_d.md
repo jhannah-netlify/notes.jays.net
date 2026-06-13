@@ -1535,9 +1535,10 @@ to promote order and society above all else.
 
 Musu was born in a small fishing village and has pleasant memories of childhood
 until the slavers came when he was 8. They killed
-his father (Elaiden el-AY-den), chained him,
-his mother,
-and his one older sister (Sara SAW-ra 10 years old).
+his father (Elaiden el-AY-den, 25),
+chained him,
+his mother (Kitha kith-ah, 28),
+and his one older sister (Sara SAW-ra, 10).
 Musu was sold into conscripted military service (ages 8-18), 
 rose through the ranks under promises that his mother and sister were being
 supported as long as he continued to serve and win battles.

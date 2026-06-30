@@ -1,7 +1,7 @@
 ---
 title: Dungeons & Dragons
 description: Role-playing games recaps
-date: 2026-05-30
+date: 2026-06-29
 image: d_and_d.jpg
 # tags:
 ---
@@ -30,6 +30,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [The Siege on Vallaki](#the-siege-on-vallaki)
 * [Vallaki - "The Bloodiest City in All of Barovia"](#vallaki-the-bloodiest-city-in-all-of-barovia)
 * [The Road to Krezk (sort of)](#the-road-to-krezk-sort-of)
+* [The Wizard of Wines Winery](#the-wizard-of-wines-winery)
 * [Player characters](#player-characters)
   * [Musu](#musu-human-fighter-psi-warrior) Human Fighter (Psi Warrior)
 
@@ -1515,6 +1516,109 @@ In the morning, the party set out toward the winery. Davian and his daughter
 gave you a rough layout of the building and the grounds, in case you wanted to
 sneak in. But instead, the party decided to walk right up the front path, where
 you were immediately ambushed by a small army of sticks and nettles...
+
+## The Wizard of Wines Winery
+
+The party bravely repelled several waves of living twigs and nettles,
+marshalled by two forest folk who came to intercept you on your way into the
+winery. Allysia and Veyra performed some reconnaissance on the building and
+discovered that there was at least one more of the forest folk inside. You all
+decided to retreat into the forest to rest for the day and confront the
+remaining invaders in the morning. Indigo—hoping to aid in the revitalization
+of the grapevines at the winery—spent his day casting a ritual spell to
+reinvigorate the surrounding plant life.
+
+Unfortunately, the forest folk did not want to wait patiently for their end.
+The party was surrounded by a deep fog in the middle of the night which hid two
+more forest folk along with a massive animated grapevine. Despite being caught
+off guard, the party was eventually able to subdue the grapevine and kill both
+forest folk—one of which carried a menacing, blackened staff with smoke curling
+off of it. Indigo, of course, took this staff while Wilem found a different
+staff that seemed to have the power of transmutation.
+
+In the morning, the party set back out for the winery, but found that whatever
+forest folk had remained the previous day must have either died in the attack
+last night or fled during the chaos. You all found that one of the large
+fermentation vats had been broken open and there was a mess of very sticky twig
+creatures scattered around the floor. You located an empty vial on the floor
+behind the stairs but were unable to determine what it held. In the master
+bedroom, Indigo broke into the personal effects of the Martikovs, uncovering an
+old locket, several gems, and a decent stash of coins. However, the party left
+all of these in place. An inspection of the catwalk above the fermentation vats
+noted that the lid to one of the vats was left ajar.
+
+The cellar contained a small stock of aging wine barrels as well as a small
+room filled with a mysterious mold that seemed to act as a refrigeration unit.
+The party narrowly escaped death at the hands of the mold when Indigo got too
+close and triggered an explosion of spores.
+
+After clearing the winery of any potential dangers, the party sought out the
+Martikovs to tell them of your success. Upon arriving home the Martikovs took
+stock of the damage and discovered that the forest folk had stolen something
+very important. It became clear that the winery had a closely held secret—the
+grapevines that produce the only wine in the valley are supplemented with
+magic. The Martikovs told you that long ago, the Fanes of Barovia gifted three
+powerful gems to the ancestors of the Martikovs, planting them in the soil to
+ensure bountiful harvests. These gems are the only reason the vines can still
+produce fruit in a valley that is constantly without sunlight.
+
+One of the gems has been missing for almost a decade. No one knows where it may
+have disappeared to. The second was stolen just a few months ago. The Martikovs
+indicated that they tracked the thieves to the ruins of Berez, but no one has
+been willing to go anywhere near Baba Lysaga, the evil witch who lives there.
+Now it appears that the last gem has been stolen by the invading forest folk.
+Davian tells the party that the forest folk have been acting strange for
+several weeks, having gatherings down at Yester Hill to the south. When asked
+he tells you that it is considered a holy place by the people of the forest,
+acting as both a massive burial mound, but also as the home of the Gulthias
+Tree which is said to be the oldest living thing in the valley. The forest folk
+revere it as the last remnant of the power of the Huntress, the Fane who
+shepherds the dead through the void.
+
+You have learned that the forest folk are a varied people and while some are
+benign recluses still worshipping the Fanes as their ancestors had, others
+believe that Strahd has fully supplanted the Fanes as the sole power in Barovia
+and they pledge their loyalty to him. The Martikovs believe that the ones
+gathered on Yester Hill currently are part of the latter group and warns you
+that they will be very dangerous.
+
+After spending the evening at the winery and gathering some supplies including
+a bundle of herbs (parsley, basil, oregano, mint, rosemary, terragon, marjoram,
+etc.), you all set out south. You all sensed that you were being watched as you
+made your way through the forest and eventually Indigo spotted a figure peering
+through the trees at the party. He called out, but that only caused the
+creature to dash away. Allysia attempted to pursue, but tripped on a large
+root. Veyra’s panther, however, was eventually able to catch up to the figure
+and pin it down.
+
+The figure's name: Delia. She was a member of the
+forest folk but would not readily answer any questions posed by the party.
+Eventually Indigo was able to persuade her to
+talk with him in private. She refused to tell him anything of her clan, but
+warned that the Strahd worshipping forest folk had taken over Yester Hill and
+that it has become a place of great evil. After allowing Delia to leave, the
+party returned to the road where they ran into Esmerelda who said she had heard the
+forest folk were attempting to bring a great evil into the world, and
+decided to join the party.
+
+(Esmerelda is the Vistana woman the party "rescued" in Vallaki. She was accused
+of being a horse thief and was going to be executed. The party has run into her
+once or twice more after that.)
+
+As the party neared the hill and the forest started to thin, you were
+approached by yet another figure, this one much more familiar. Strahd von
+Zarovich emerged from behind a tree blocking your path forward. He indicated
+that his “followers” were preparing a surprise for the party and he didn’t want
+you to interrupt them before it was ready. He brought with him three familiar
+faces—Doru and Gertuda (both looking like they had been sewn back together from
+badly burnt scraps of flesh), and father Lucien who the party last saw laying
+in his bed in the chapel with two puncture wounds on his neck.
+
+As the party battled the vampire spawn, the sky quickly turned violent and a
+storm began to swirl around the top of the hill. You made fairly quick work of
+Strahd’s minions, but as the last of them fell, lightning began forking towards
+the stone circle crowning Yester Hill where it looks like there is a gathering
+of many forest folk…
 
 ## Player characters
 

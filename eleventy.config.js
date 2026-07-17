@@ -183,7 +183,7 @@ async function contentImgUrlFilter(src) {
 
 	const stats = await Image(imagePath, {
 		widths: [1200], // Width for Open Graph image
-		formats: ["jpg", "png"],
+		formats: [null], // null = keep the source image's format (jpg, png, etc.)
 		outputDir: outputDir, // Output directory
 		urlPath: urlPath, // Public URL path
 		filenameFormat: function (hash, src, width, format) {
@@ -192,6 +192,7 @@ async function contentImgUrlFilter(src) {
 		// transformOnRequest: true
 	});
 	//console.error(stats);
-	//console.error(stats.jpeg[0].url);
-	return stats.jpeg[0].url; // Return the URL of the processed image
+	// stats is keyed by output format (e.g. "jpeg" or "png"); grab whichever one we got.
+	const format = Object.keys(stats)[0];
+	return stats[format][0].url; // Return the URL of the processed image
 }

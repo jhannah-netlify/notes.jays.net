@@ -12,7 +12,8 @@ Wisdom / reading recommendations from my father:
 **Me:** What was your book about ~Living in the Gap? Engaging in the pains of the
 world even though it's uncomfortable to do so?
 
-**Dad:** In "A Hidden Wholeness," Quaker author Parker Palmer writes about "living
+**Dad:** In "A Hidden Wholeness," Quaker author
+[Parker Palmer](https://en.wikipedia.org/wiki/Parker_Palmer) writes about "living
 in the tragic gap--a gap between the way things are and the way we know they
 might be. It is a gap that never has been and never will be closed. If we want
 to live nonviolent lives, we must learn to stand in the tragic gap, faithfully

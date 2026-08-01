@@ -14,5 +14,5 @@ Every 2-3 days:
 2. Check 2 mouse traps.
 3. Leaves off of 4 tubes:
    1. Chlorination tubes can be lifted and swished off in the water.
-   2. North dechlorination tube can not be lifted. Just turn and swish those.
+   2. South dechlorination tube can not be lifted. Just turn and swish those.
 4. Verify 30m aeration cycle (10 on, 20 off) is running.

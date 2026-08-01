@@ -5,6 +5,8 @@ date: 2026-07-29
 # tags: "podcast"
 ---
 
+## 2022-11-21
+
 Wisdom / reading recommendations from my father:
 
 **Me:** What was your book about ~Living in the Gap? Engaging in the pains of the
@@ -29,6 +31,8 @@ beyond optimism, yet allows for hope. 🤩😳🥴
 #Quaker #author #ParkerPalmer
 
 ## 2026-07-29
+
+*Some reflections from your Dear Ole Dad following yesterday’s phone conversation. :)*
 
 Hi, Jay.
 

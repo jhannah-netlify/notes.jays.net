@@ -6,7 +6,8 @@ date: 2026-08-01
 ---
 
 Log:
-* Jay and Jay did all this 2026-08-01
+* 2026-08-05 Jay
+* 2026-08-01 Jay and Jay
 
 Every 2-3 days:
 

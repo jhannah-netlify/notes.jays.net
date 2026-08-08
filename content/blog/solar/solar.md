@@ -1,7 +1,7 @@
 ---
 title: Solar panels
 description: On my house
-date: 2026-07-16
+date: 2026-08-07
 image: net-metering.png
 tags:
 ---
@@ -23,3 +23,4 @@ Solar system designed, installed by: [New Energy, LLC](newenergyne.com).
 They also replaced my roof because they also do roofing and it turned out I needed a new roof. 🤑
 
 <img src="./net-metering.png" alt="Graph of purchased, generated, and net kWh per month">
+

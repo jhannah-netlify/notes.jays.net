@@ -1,11 +1,12 @@
 ---
 title: Wastewater Treatment Facility
 description: How Jay is helping Jay out
-date: 2026-08-07
+date: 2026-08-10
 # tags: "podcast"
 ---
 
 Log:
+* 2026-08-10 Jay
 * 2026-08-07 Jay and Steve
 * 2026-08-05 Jay
 * 2026-08-01 Jay and Jay

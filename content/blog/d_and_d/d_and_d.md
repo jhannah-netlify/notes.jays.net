@@ -1,9 +1,10 @@
 ---
-title: Dungeons & Dragons
-description: Role-playing games recaps
+title: "Dungeons & Dragons: Adventure log"
+description: Wandering around the Curse of Strahd
 date: 2026-06-29
+draft: false
 image: d_and_d.jpg
-# tags:
+tags: d_and_d
 ---
 
 *[ Written by our DM, not Jay. ]*
@@ -1620,7 +1621,54 @@ Strahd’s minions, but as the last of them fell, lightning began forking toward
 the stone circle crowning Yester Hill where it looks like there is a gathering
 of many forest folk…
 
+## The Battle of Yester Hill
+
+Musu had a dream where the face of his mother screamed at him... Was it a dream?
+
+The party journeyed to Yester Hill. Below the Gulthias Tree is a large walled
+circle some 200 feet across. As they approached the party sees a group of cultists
+chanting around a tree on the far side, inside the wall. Approaching, a vampire
+appears and attacks Allysia, who climbs the wall to escape. Musu recognizes the
+vampire! Kitha! His long-lost mother! It can't be!? Musu scrambles up the wall and
+tackles the vampire(?) back to the ground inside the walled circle.
+
+The party charges the gate into the walled circle, fighting various cultists
+scattered about, pressing towards the chanting ritual on the far side, which is
+gaining pitch and energy. Musu has grappled Kitha and is screaming in despair
+and confusion as the rest of the party pushes forward.
+
+The tree ritual seems to be centered around a glowing gem inside the tangle of
+branches of the dead tree. The battle rages as Indigo takes bear form, sprinting
+towards the ritual, fighting all the way. The party is all pressing forward
+except Musu, out of action, distraught, grappling.
+
+A figure on top of the wall turns out to be Esmerelda, who eventually engages
+in the battle. Upon reaching the ritual, maximizing disruption, Allysia makes
+a desperate grab INSIDE the tree for the gem! But it's too late. The ritual has
+worked and the tree comes to life! Entangling all the party members within reach.
+The battle rages on.
+
+Kitha eventually breaks Musu's grasp and runs toward the ritual, Musu in hot
+pursuit, now violently trying to stop the beast that was once his mother.
+
+Many deaths and healings later, the party is victorious. The animated tree is
+destroyed and Kitha has fled over the wall and disappeared. Esmerelda, too,
+takes her leave. The party now has the gem that animated the tree.
+
+Leaving the walled circle, the party investigates and, thanks to Indigo, speaks
+to the Gulthias Tree, which has little to say. The mysterious smoking staff
+(corrupted?) appears to not be important to the tree (just another branch?).
+Indigo attunes to it. Apparently not corrupted, this tree just smokes spooky
+black smoke all the time, that's just normal.
+
+
 ## Player characters
+
+* Indigo: Halfling Druid. Raven familiar.
+* Sabine: Human Paladin of Tyr. Summons warhorse.
+* Allysia: Human Monk.
+* Veyra: ? Ranger? Summons panther.
+* Willam: Dwarf Cleric
 
 ### Musu: Human Fighter (Psi Warrior)
 

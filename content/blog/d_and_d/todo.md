@@ -2,12 +2,10 @@
 title: "Dungeons & Dragons: TODO"
 description: Role-playing games recaps
 date: 2026-08-20
-draft: false
+draft: true
 image: d_and_d.jpg
 tags: d_and_d
 ---
-
-# Party TODO List
 
 Per the adventure log in `d_and_d.md`.
 

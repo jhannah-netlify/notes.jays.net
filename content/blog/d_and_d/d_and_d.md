@@ -1,7 +1,7 @@
 ---
 title: "Dungeons & Dragons: Adventure log"
 description: Wandering around the Curse of Strahd
-date: 2026-06-29
+date: 2026-08-20
 draft: false
 image: d_and_d.jpg
 tags: d_and_d
@@ -32,6 +32,7 @@ have forgotten all of this and I want it to be as accurate as possible.
 * [Vallaki - "The Bloodiest City in All of Barovia"](#vallaki-the-bloodiest-city-in-all-of-barovia)
 * [The Road to Krezk (sort of)](#the-road-to-krezk-sort-of)
 * [The Wizard of Wines Winery](#the-wizard-of-wines-winery)
+* [The Battle of Yester Hill](#the-battle-of-yester-hill)
 * [Player characters](#player-characters)
   * [Musu](#musu-human-fighter-psi-warrior) Human Fighter (Psi Warrior)
 
@@ -1666,9 +1667,10 @@ black smoke all the time, that's just normal.
 
 * Indigo: Halfling Druid. Raven familiar.
 * Sabine: Human Paladin of Tyr. Summons warhorse.
-* Allysia: Human Monk.
-* Veyra: ? Ranger? Summons panther.
+* Allysia: Half-Elf Monk.
+* Veyra: Reborn Ranger. Summons panther.
 * Willam: Dwarf Cleric
+* Musu: Human Fighter (Psi Warrior)
 
 ### Musu: Human Fighter (Psi Warrior)
 
@@ -1707,6 +1709,9 @@ At age 36 Musu found his sister (Sara SAW-ra) in Vallaki!!
 In Vallaki, she is known as "Izelka," Captain of the Guard, and was raised by The Baron.
 Sara (SAW-ra) has brown hair, close-cut for her military service.
 She has a scar through her left eyebrow.
+
+2 weeks later Musu found his mother (Kitha kith-ah) at the Battle of Yester Hill.
+She's a vampire now. 😭
 
 The Baron passed peacefully when a random tiger unrelated to the party's adventuring
 [was a bit peckish](https://www.youtube.com/watch?v=rObSWkQA7og&t=2m30s).

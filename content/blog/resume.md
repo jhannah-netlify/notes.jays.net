@@ -1,7 +1,7 @@
 ---
 title: Résumé / CV
 description: Sometimes I need a job. Hire me when I do?
-date: 2025-07-09
+date: 2026-08-28
 tags: "work"
 ---
 
@@ -12,26 +12,20 @@ tags: "work"
   [Markdown](https://github.com/jhannah/jays.net/blob/main/resume/resume.md)
 * [LinkedIn](https://www.linkedin.com/in/jhannah/)
 
-**Jul 2025 update:** Started a new job building a data lakehouse in AWS.
-S3 CSV / Parquet files loaded via (Python) Lambda Glue Jobs, Crawlers to query in Athena. 
-CloudWatch Metrics, Alarms. EventBridge Rules, Targets.
-All provisioned via Terraform.
-Orchestrated via AWS Managed Workflows for Apache Airflow (MWAA).
-DBT feeding Redshift, Power BI data cubes.
+**Aug 2026 update:** 1+ years at CivicPlus: Operations and expansion of our AWS data warehouse for internal Finance and senior leadership dashboards and reports.
 
-One-liner résumé: ~~Seeking~~ telecommuting Python / Golang / Perl software stacks,
-database thrashing / analytics, or DevOps / cloud infrastructure work.
-Diagram, TDD, and CI/CD addict. Love untangling epic git disasters.
+One-liner résumé: ~~Seeking~~ challenging, hands-on technical leadership opportunity
+managing large-scale data systems. Diagram, TDD, and CI/CD addict. Love
+untangling epic git disasters. DevOps / Python / Golang / Perl / DBs / APIs /
+cloud. 100% telecommute.
 
 A couple years ago, in a fit of hubris and optimism, I decided to add a
 "Dream Job" section:
 
 **Dream Job:** Using my backend / database / programming skills to help with
 massively scaled providers of emergency / low-income housing and food. The
-UNHCR (High Council on Refugees) and WFP (World Food Program) are the largest
-examples of that mission I'm aware of. I'm very interested in logistics. The
-highest calling I can imagine is working on empowering thousands / millions of
-deliveries of food / clothing / shelter.
+UNHCR (High Council on Refugees) and WFP (World Food Program)
+are the largest examples of that mission I'm aware of.
 
 ## Nerd versions
 

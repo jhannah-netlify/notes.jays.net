@@ -1,0 +1,12 @@
+---
+title: "Andria and I are engaged to be married!"
+date: 2003-07-15
+blosxom_file: 20030715.txt
+templateEngineOverride: md
+---
+
+*Originally posted to jays.net (blosxom) on 2003-07-15.*
+
+Can you hear the trumpets blaring the joyous news over mountain and vale? -grin- We're starting to move into the new house this weekend. [Here's a map.](http://www.mapquest.com/maps/map.adp?email=1&mapdata=Dsd3oJqjKvNArJTTLjJSNvSN2BhbTRX5rYmzs3apniG47ofNz7idpn%2f6JgsQrvVbHCCmo2MsbmuyLieM54Jeb18SOWbiD%2byOxk11cApMLzUQ0uLxfXCMjtaFiiyi9VMYQTGNAI0WFS1wX5y1Nw1ox3kpVPf%2fBKXyuV0jMMJ0UjLlhoLLq4swbNKYJsbwKN9PQ%2fFBDrogNAE8dP7qUTmfHozSAeaKHlirrFFFelUqm7uM8%2bUkRrstTQTbBX%2fyWLwPKmya15bzfPTB3nEY68kxG9bHrPgq8rBQOxxU0IcpfMT6MgGoIYjC7EsxmdAdfGMSKlS7jJaQ5eMZtp6WqrhljSfF7tNt8gFjoNTAsUWog67F1Q4eW%2bxpo36R4Ld330kUOLThpkd0bgHe3%2brXZr4yCxqRnsbwAI53LQSBczcwfTXuAEGl66oXwab5G7kMTzzVHOJusIgGmduaeFVzJictqX5ZtmKsgj7j) We take possession July 25th.
+
+Photos of Seattle, Portland, etc. coming soonish.

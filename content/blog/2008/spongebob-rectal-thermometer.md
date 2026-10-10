@@ -7,7 +7,7 @@ templateEngineOverride: md
 
 *Originally posted to [headrattle](https://headrattle.blogspot.com/2008/03/spongebob-rectal-thermometer.html) on 2008-03-07.*
 
-[![](spongebob-rectal-thermometer-8fdf96a1.jpg)](http://www.cartoonbrew.com/wp-content/uploads/spongebobrectal1.jpg)  
+![](spongebob-rectal-thermometer-8fdf96a1.jpg)  
 I'm a big fan of Spongebob, butt... was [this](http://www.cartoonbrew.com/cartoon-culture/spongebob-rectal-thermometer) really necessary? Have all other merchandising opportunities been saturated?
 
 ## Comments

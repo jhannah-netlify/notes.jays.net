@@ -12,4 +12,4 @@ Wow. It took me about 30 seconds to add [AutoCRUD](http://search.cpan.org/perldo
   
 Yes, this wheel has been invented scores of times over the last 10 years. But boy is this one shiny.  
   
-[![](http://biodoc.ist.unomaha.edu/~jhannah/autocrud1.png)](http://biodoc.ist.unomaha.edu/~jhannah/autocrud1.png)
+![](http://biodoc.ist.unomaha.edu/~jhannah/autocrud1.png)

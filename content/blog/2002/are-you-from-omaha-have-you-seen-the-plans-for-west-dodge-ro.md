@@ -9,7 +9,7 @@ templateEngineOverride: md
 
 [Check 'em out.](http://www.nebraskatransportation.org/projects/omaha-west-dodge/index.htm)
 
-[![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view1-thumb.jpg)](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view1.jpg) [![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view3-thumb.jpg)](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view3.jpg) [![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view4-thumb.jpg)](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view4.jpg)
+![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view1.jpg) ![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view3.jpg) ![](are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view4.jpg)
 
 We just finished the run of [The Marriage of Bette and Boo](http://shelterbelt.org/season2002_bette_and_boo.shtml). I believe it's my favorite Shelterbelt show of all time.
 

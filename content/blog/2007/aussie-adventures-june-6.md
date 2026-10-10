@@ -13,7 +13,7 @@ templateEngineOverride: md
 
 |  |  |
 |----|----|
-| Met up with Harlan and Lyn Hall at the Red Oak tavern. Ate lunch and exchanges stories, observations, and comparisons. Lovely people. On Friday they're on their way to Europe for a sailing and Ireland walkabout adventure. | [<img src="aussie-adventures-june-6-CIMG1005.jpg" data-border="0" />](aussie-adventures-june-6-CIMG1005_huge.jpg) |
+| Met up with Harlan and Lyn Hall at the Red Oak tavern. Ate lunch and exchanges stories, observations, and comparisons. Lovely people. On Friday they're on their way to Europe for a sailing and Ireland walkabout adventure. | ![](aussie-adventures-june-6-CIMG1005.jpg) |
 
 <table>
 <colgroup>
@@ -24,7 +24,7 @@ templateEngineOverride: md
 <tr>
 <td>We went to the top of the Sydney Tower to see the lay of the land in all directions. Mailed postcards from the highest working post office in the southern hemisphere. Brad and I were startled by how much higher the Teipei 101 felt in the summer of 2005.
 <p>Towards dusk we took the subway to and from Circular Quay (pronounced "key"). Saw enormous bats, more "possums" some of which let Brad get right up to them. Wandered to the Sydney Opera House (quite a site at night) and back home for more sleep.</p></td>
-<td><img src="aussie-adventures-june-6-CIMG1012.jpg" /></td>
+<td><img alt="" src="aussie-adventures-june-6-CIMG1012.jpg" /></td>
 </tr>
 </tbody>
 </table>

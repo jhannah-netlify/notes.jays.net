@@ -1,0 +1,12 @@
+---
+title: "Aussie Aussie Aussie! Oy oy oy!! - June 8"
+date: 2007-06-08
+blosxom_file: 20070608.txt
+templateEngineOverride: md
+---
+
+*Originally posted to jays.net (blosxom) on 2007-06-08.*
+
+Uploaded [200+ more pics](http://jays.net/ids/index.cgi?mode=album&album=./2007-Australia)!
+
+The bridge climb was awesome. Shark diving scared the living crap out of me. Haven't been that terrified in a long, long time. Not the sharks, the scuba thing freaked me out. But I did it. Mom said she was never more than 1.5 on a 10 scale of nervous. I hit 12 a few times and almost quit 3 times. Yikes! -laugh- In 2 of the photos you can see me making a Z for Zach and an A for Andria with my hands. The Z is backwards. Doh! Bringing home a 3m underwater video of us w/ sharks too. 4 of us dove. I'm pretty obvious - no hood. The other guy with the mustache is Brad, the other guy we didn't know. Then Mom, smiling around her breather. -laugh-

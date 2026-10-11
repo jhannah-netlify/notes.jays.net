@@ -12,6 +12,7 @@ Many dynamic languages have a way to get a list of all methods for an object bui
   
 I don't think perl5 does. But Moose adds it. :)  
 
+```
     $ cat j.pl
     package X;
     use Moose;
@@ -27,6 +28,7 @@ I don't think perl5 does. But Moose adds it. :)
     $ perl j.pl
     BUILDALL, BUILDARGS, DEMOLISHALL, DESTROY, DOES, does, 
     dosomething1, dosomething2, dosomething3, dump, meta, new
+```
 
 Neato. :)  
   
@@ -37,8 +39,10 @@ More info on Moose: <http://moose.perl.org>
 **[jhthorsen](http://jhthorsen.github.com)** — June 17, 2009 at 10:05 AM
 
 Moose can't do much without the help from perl5:  
-  
-\$ perl -le'sub foo{};sub bar{};print for grep { \*{\${main::}{\$\_}}{CODE} } keys %{main::}'  
-  
-...and you would have to traverse @ISA recursively to get all_methods. But by any means: use Moose; \#!:)
+
+```  
+$ perl -le'sub foo{};sub bar{};print for grep { \*{\${main::}{\$\_}}{CODE} } keys %{main::}'  
+```
+
+...and you would have to traverse `@ISA` recursively to get `all_methods`. But by any means: `use Moose; #!` :)
 

@@ -16,4 +16,4 @@ Inspired by [The Perl Review](http://www.theperlreview.com/Issues/subscribers.ht
   
 ![](perl-template-toolkit-and-graphviz-afeace2b.png)You could throw the same crude implementation at any tree, really. I think I'll try all the `use` statements in our in-house perl code base next. :)  
   
-The source code is here: <http://github.com/jhannah/sandbox/>graphviz. Enjoy!
+The source code is [here](https://github.com/jhannah/sandbox/tree/main/graphviz). Enjoy!

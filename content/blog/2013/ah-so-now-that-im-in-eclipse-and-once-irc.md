@@ -1,6 +1,7 @@
 ---
 title: "Ah."
 date: 2013-04-02
+image: ah-so-now-that-im-in-eclipse-and-once-irc-tumblr_mkmviwxjvs1rnp57xo1_1280.png
 tags: ["eclipse", "scala"]
 original_url: https://deafferret.tumblr.com/post/46939289546/ah-so-now-that-im-in-eclipse-and-once-irc
 templateEngineOverride: md

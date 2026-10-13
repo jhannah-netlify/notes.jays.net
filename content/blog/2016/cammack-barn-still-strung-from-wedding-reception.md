@@ -1,6 +1,7 @@
 ---
 title: "Cammack barn still strung from wedding reception."
 date: 2016-05-05
+image: cammack-barn-still-strung-from-wedding-reception-tumblr_o6q91eRrsa1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/143914925403/cammack-barn-still-strung-from-wedding-reception
 templateEngineOverride: md

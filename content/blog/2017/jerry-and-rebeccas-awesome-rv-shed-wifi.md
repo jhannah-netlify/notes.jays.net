@@ -1,6 +1,7 @@
 ---
 title: "Jerry and Rebecca’s awesome RV shed!"
 date: 2017-01-17
+image: jerry-and-rebeccas-awesome-rv-shed-wifi-tumblr_ojxkeztFRK1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155994555058/jerry-and-rebeccas-awesome-rv-shed-wifi
 templateEngineOverride: md

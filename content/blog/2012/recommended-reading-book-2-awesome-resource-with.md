@@ -1,6 +1,7 @@
 ---
 title: "Recommended reading book #2."
 date: 2012-09-25
+image: recommended-reading-book-2-awesome-resource-with-tumblr_mawkorMzHl1rnp57xo1_400.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/32257781096/recommended-reading-book-2-awesome-resource-with
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "GraphViz prettyness"
 date: 2009-09-13
+image: graphviz-prettyness-821ae5f3.png
 tags: ["bio", "perl"]
 original_url: https://headrattle.blogspot.com/2009/09/graphviz-prettyness.html
 templateEngineOverride: md

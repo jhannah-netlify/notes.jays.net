@@ -1,6 +1,7 @@
 ---
 title: "Dave went idle, so we punished him."
 date: 2012-01-19
+image: dave-went-idle-so-we-punished-him-16155594493-tumblr_ly2wpdkUzS1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/16155594493/dave-went-idle-so-we-punished-him
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Minnie is on squirrel guard duty."
 date: 2017-01-12
+image: minnie-is-on-squirrel-guard-duty-tumblr_ojot10xcH21rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155778649298/minnie-is-on-squirrel-guard-duty
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Grassius debugus"
 date: 2008-09-05
+image: grassius-debugus-993fb9bf.png
 tags: ["bio", "perl"]
 original_url: https://headrattle.blogspot.com/2008/09/grassius-debugus.html
 templateEngineOverride: md

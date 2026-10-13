@@ -1,6 +1,7 @@
 ---
 title: "My new favorite salad dressing!"
 date: 2013-03-28
+image: my-new-favorite-salad-dressing-yum-totally-tumblr_mkdkvvomYc1rnp57xo1_1280.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/46507402479/my-new-favorite-salad-dressing-yum-totally
 templateEngineOverride: md

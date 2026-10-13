@@ -1,6 +1,7 @@
 ---
 title: "Dave’s Norse dining hall at sunset."
 date: 2012-01-24
+image: daves-norse-dining-hall-at-sunset-tumblr_lybz2pS8W21rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/16439009252/daves-norse-dining-hall-at-sunset
 templateEngineOverride: md

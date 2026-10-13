@@ -1,6 +1,7 @@
 ---
 title: "Yay!"
 date: 2014-09-23
+image: yay-sutures-out-all-better-d-tumblr_ncdoe9KyGF1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/98263637473/yay-sutures-out-all-better-d
 templateEngineOverride: md

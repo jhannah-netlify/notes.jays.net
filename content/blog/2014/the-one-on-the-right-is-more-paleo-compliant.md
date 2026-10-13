@@ -1,6 +1,7 @@
 ---
 title: "The one on the right is more paleo-compliant, right?"
 date: 2014-05-25
+image: the-one-on-the-right-is-more-paleo-compliant-tumblr_n65rvtkuXM1rnp57xo1_640.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/86852065773/the-one-on-the-right-is-more-paleo-compliant
 templateEngineOverride: md

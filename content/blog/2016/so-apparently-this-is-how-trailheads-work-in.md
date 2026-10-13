@@ -1,6 +1,7 @@
 ---
 title: "So apparently this is how trailheads work in Oregon."
 date: 2016-06-11
+image: so-apparently-this-is-how-trailheads-work-in-tumblr_o8n4drCVwu1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145786514718/so-apparently-this-is-how-trailheads-work-in
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Photo credit: Great Salt Lake by Charles Uibel Minnie and I left…"
 date: 2016-06-04
+image: photo-credit-great-salt-lake-by-charles-uibel-tumblr_o8a249GKRL1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145432786893/photo-credit-great-salt-lake-by-charles-uibel
 templateEngineOverride: md

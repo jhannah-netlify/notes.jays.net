@@ -1,6 +1,7 @@
 ---
 title: "Dirt biking above Nimpkish Lake on the north end of Victoria Island,…"
 date: 2016-07-03
+image: dirt-biking-above-nimpkish-lake-on-the-north-end-tumblr_oae7xzvH3i1rnp57xo7_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/147481413298/dirt-biking-above-nimpkish-lake-on-the-north-end
 templateEngineOverride: md

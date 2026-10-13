@@ -1,6 +1,7 @@
 ---
 title: "Perl, Template Toolkit, and GraphViz"
 date: 2009-05-18
+image: perl-template-toolkit-and-graphviz-307ffe9f.png
 tags: ["perl"]
 original_url: https://headrattle.blogspot.com/2009/05/perl-template-toolkit-and-graphviz.html
 templateEngineOverride: md

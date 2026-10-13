@@ -1,6 +1,7 @@
 ---
 title: "Awesome meeting Charlie Luke, whose wife’s grandfather served on the…"
 date: 2017-02-04
+image: awesome-meeting-charlie-luke-whose-wifes-tumblr_okvcrnKXd41rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156813852253/awesome-meeting-charlie-luke-whose-wifes
 templateEngineOverride: md

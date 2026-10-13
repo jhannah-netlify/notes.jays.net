@@ -1,6 +1,7 @@
 ---
 title: "Watch and/or buy it."
 date: 2012-11-16
+image: watch-andor-buy-it-tumblr_mdlqfhqqjR1rnp57xo1_1280.jpg
 tags: ["kettlebell", "paleo"]
 original_url: https://deafferret.tumblr.com/post/35865407893/watch-andor-buy-it
 templateEngineOverride: md

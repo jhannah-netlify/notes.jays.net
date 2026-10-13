@@ -1,6 +1,7 @@
 ---
 title: "Jump on in, the water’s fine"
 date: 2019-03-12
+image: jump-on-in-the-waters-fine-tumblr_poabo10Bay1r5fdee_1280.jpg
 tags: ["scuba"]
 original_url: https://deafferret.tumblr.com/post/183417409343/jump-on-in-the-waters-fine
 templateEngineOverride: md

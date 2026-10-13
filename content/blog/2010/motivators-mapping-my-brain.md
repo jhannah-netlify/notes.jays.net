@@ -1,6 +1,7 @@
 ---
 title: "Motivators: Mapping my brain"
 date: 2010-06-05
+image: motivators-mapping-my-brain-c50c2961.png
 original_url: https://headrattle.blogspot.com/2010/06/motivators-mapping-my-brain.html
 templateEngineOverride: md
 ---

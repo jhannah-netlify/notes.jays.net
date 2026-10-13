@@ -1,6 +1,7 @@
 ---
 title: "Nick’s mega castle."
 date: 2012-01-14
+image: nicks-mega-castle-its-freaking-huge-extends-tumblr_lxszzjv6GL1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15840377444/nicks-mega-castle-its-freaking-huge-extends
 templateEngineOverride: md

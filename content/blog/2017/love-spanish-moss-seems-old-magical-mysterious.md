@@ -1,6 +1,7 @@
 ---
 title: "Love Spanish moss."
 date: 2017-01-26
+image: love-spanish-moss-seems-old-magical-mysterious-tumblr_okeggrabfZ1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156407038023/love-spanish-moss-seems-old-magical-mysterious
 templateEngineOverride: md

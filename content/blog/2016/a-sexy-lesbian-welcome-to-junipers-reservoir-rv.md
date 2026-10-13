@@ -1,6 +1,7 @@
 ---
 title: "A sexy lesbian welcome to Junipers Reservoir RV Resort , where we’re…"
 date: 2016-06-05
+image: a-sexy-lesbian-welcome-to-junipers-reservoir-rv-tumblr_o8d5929zAu1rnp57xo2_r1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145517658378/a-sexy-lesbian-welcome-to-junipers-reservoir-rv
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Hey look, fancy back up to your ball hitch mirror."
 date: 2016-04-16
+image: hey-look-fancy-back-up-to-your-ball-hitch-mirror-tumblr_o5qxmgvQBw1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/142915969668/hey-look-fancy-back-up-to-your-ball-hitch-mirror
 templateEngineOverride: md

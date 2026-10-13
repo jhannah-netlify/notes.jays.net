@@ -1,6 +1,7 @@
 ---
 title: "Pipeline evolution"
 date: 2010-02-16
+image: pipeline-evolution-92e46ff0.png
 tags: ["bio", "perl"]
 original_url: https://headrattle.blogspot.com/2010/02/pipeline-evolution.html
 templateEngineOverride: md

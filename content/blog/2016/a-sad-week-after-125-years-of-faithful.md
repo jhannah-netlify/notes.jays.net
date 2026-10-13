@@ -1,6 +1,7 @@
 ---
 title: "A sad week."
 date: 2016-02-04
+image: a-sad-week-after-125-years-of-faithful-tumblr_o21uymZQ1q1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/138699171353/a-sad-week-after-125-years-of-faithful
 templateEngineOverride: md

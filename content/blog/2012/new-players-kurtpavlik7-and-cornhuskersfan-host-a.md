@@ -1,6 +1,7 @@
 ---
 title: "New players kurtpavlik7 and Cornhuskersfan host a dance party in…"
 date: 2012-02-19
+image: new-players-kurtpavlik7-and-cornhuskersfan-host-a-tumblr_lzntivTWDk1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/17904800156/new-players-kurtpavlik7-and-cornhuskersfan-host-a
 templateEngineOverride: md

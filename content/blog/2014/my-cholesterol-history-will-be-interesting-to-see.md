@@ -1,6 +1,7 @@
 ---
 title: "My cholesterol history."
 date: 2014-01-09
+image: my-cholesterol-history-will-be-interesting-to-see-tumblr_mz575m7JrZ1rnp57xo1_1280.png
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/72774048907/my-cholesterol-history-will-be-interesting-to-see
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "🇨🇦 Prepping for Canadia run!"
 date: 2017-07-05
+image: prepping-for-canadia-run-wait-what-the-tumblr_osmh0zaoTn1rnp57xo1_640.png
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/162630398148/prepping-for-canadia-run-wait-what-the
 templateEngineOverride: md

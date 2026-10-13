@@ -1,6 +1,7 @@
 ---
 title: "Day 17 of Paleo “diet.” Whoops!"
 date: 2012-10-04
+image: day-17-of-paleo-diet-whoops-just-realized-my-3-tumblr_mbdtoeTrKa1rnp57xo1_1280.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/32883515345/day-17-of-paleo-diet-whoops-just-realized-my-3
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "35mph wind gusts living in a metal box + tent with an old nervous dog…"
 date: 2016-05-13
+image: 35mph-wind-gusts-living-in-a-metal-box-tent-with-tumblr_o74qmsCbDJ1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144308477693/35mph-wind-gusts-living-in-a-metal-box-tent-with
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "YAY! CHESS!"
 date: 2008-11-12
+image: yay-chess-50606af0.png
 original_url: https://headrattle.blogspot.com/2008/11/yay-chess.html
 templateEngineOverride: md
 ---

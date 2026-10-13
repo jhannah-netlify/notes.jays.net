@@ -1,6 +1,7 @@
 ---
 title: "7 weeks, 18 pounds."
 date: 2012-11-05
+image: 7-weeks-18-pounds-huh-after-dropping-21-pounds-tumblr_md1dfyOcoI1rnp57xo1_400.png
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/35081900956/7-weeks-18-pounds-huh-after-dropping-21-pounds
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Data diving for diseases"
 date: 2008-02-19
+image: data-diving-for-diseases-0457fcec.png
 tags: ["bio"]
 original_url: https://headrattle.blogspot.com/2008/02/data-diving-for-diseases.html
 templateEngineOverride: md

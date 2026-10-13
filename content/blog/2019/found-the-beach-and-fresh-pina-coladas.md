@@ -1,6 +1,7 @@
 ---
 title: "Found the beach."
 date: 2019-03-10
+image: found-the-beach-and-fresh-pina-coladas-tumblr_po6h59wxts1r5fdee_1280.jpg
 original_url: https://deafferret.tumblr.com/post/183370014948/found-the-beach-and-fresh-pina-coladas
 templateEngineOverride: md
 ---

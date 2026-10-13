@@ -1,6 +1,7 @@
 ---
 title: "Brad has begun construction of his mighty roller coaster NE of Dave’s…"
 date: 2012-01-14
+image: brad-has-begun-construction-of-his-mighty-roller-tumblr_lxswr5DolX1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15836793888/brad-has-begun-construction-of-his-mighty-roller
 templateEngineOverride: md

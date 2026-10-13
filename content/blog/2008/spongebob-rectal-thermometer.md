@@ -1,6 +1,7 @@
 ---
 title: "Spongebob Rectal Thermometer"
 date: 2008-03-07
+image: spongebob-rectal-thermometer-8fdf96a1.jpg
 original_url: https://headrattle.blogspot.com/2008/03/spongebob-rectal-thermometer.html
 templateEngineOverride: md
 ---

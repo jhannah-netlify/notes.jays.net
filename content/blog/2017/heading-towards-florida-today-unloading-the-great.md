@@ -1,6 +1,7 @@
 ---
 title: "Heading towards Florida today."
 date: 2017-01-02
+image: heading-towards-florida-today-unloading-the-great-tumblr_oj5vhm3tKB1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155300478578/heading-towards-florida-today-unloading-the-great
 templateEngineOverride: md

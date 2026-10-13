@@ -1,6 +1,7 @@
 ---
 title: "Great minds."
 date: 2013-06-18
+image: great-minds-tumblr_molnpuj3VZ1rnp57xo1_540.png
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/53289120989/great-minds
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "“The true meaning of Alvistime is drinking."
 date: 2012-02-16
+image: the-true-meaning-of-alvistime-is-drinking-tumblr_lziqwgPpMh1rnp57xo1_r1_1280.jpg
 tags: ["minecraft", "sealab2021"]
 original_url: https://deafferret.tumblr.com/post/17749785739/the-true-meaning-of-alvistime-is-drinking
 templateEngineOverride: md

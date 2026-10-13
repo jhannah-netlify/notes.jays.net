@@ -1,6 +1,7 @@
 ---
 title: "Love Avenza Maps!"
 date: 2017-01-14
+image: love-avenza-maps-download-free-trail-maps-from-tumblr_ojrulnZxUH1rnp57xo1_1280.png
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155849608803/love-avenza-maps-download-free-trail-maps-from
 templateEngineOverride: md

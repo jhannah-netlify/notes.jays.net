@@ -1,6 +1,7 @@
 ---
 title: "Tipper and Minnie both turn 13 this year."
 date: 2016-01-11
+image: tipper-and-minnie-both-turn-13-this-year-this-is-tumblr_o0tb7kDwhS1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/137117943968/tipper-and-minnie-both-turn-13-this-year-this-is
 templateEngineOverride: md

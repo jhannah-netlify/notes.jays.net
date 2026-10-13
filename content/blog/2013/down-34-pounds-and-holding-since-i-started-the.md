@@ -1,6 +1,7 @@
 ---
 title: "Down 34 pounds and holding since I started the Paleo / Primal “diet.”…"
 date: 2013-03-28
+image: down-34-pounds-and-holding-since-i-started-the-tumblr_mkdlhbUElU1rnp57xo1_1280.png
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/46508102007/down-34-pounds-and-holding-since-i-started-the
 templateEngineOverride: md

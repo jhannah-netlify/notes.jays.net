@@ -1,6 +1,7 @@
 ---
 title: "North of the Grand Junction airport (you can see the runway in the…"
 date: 2016-05-24
+image: north-of-the-grand-junction-airport-you-can-see-tumblr_o7otfojeuU1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144859890358/north-of-the-grand-junction-airport-you-can-see
 templateEngineOverride: md

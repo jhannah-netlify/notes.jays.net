@@ -1,6 +1,7 @@
 ---
 title: "Brad’s pirate ship in front of the cavern under Nick’s castle."
 date: 2012-01-14
+image: brads-pirate-ship-in-front-of-the-cavern-under-tumblr_lxszojDegM1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15840034994/brads-pirate-ship-in-front-of-the-cavern-under
 templateEngineOverride: md

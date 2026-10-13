@@ -1,6 +1,7 @@
 ---
 title: "Glyph::dna, Kiva props"
 date: 2008-05-14
+image: glyphdna-kiva-props-Bio_Graphics_Glyph_dna.png
 tags: ["bio", "perl"]
 original_url: https://headrattle.blogspot.com/2008/05/glyphdna-kiva-props.html
 templateEngineOverride: md

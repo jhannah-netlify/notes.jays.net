@@ -1,6 +1,7 @@
 ---
 title: "We miss you, Coyle."
 date: 2004-10-29
+image: we-miss-you-coyle-Dcp_0832.jpg
 blosxom_file: 20041029.txt
 templateEngineOverride: md
 ---

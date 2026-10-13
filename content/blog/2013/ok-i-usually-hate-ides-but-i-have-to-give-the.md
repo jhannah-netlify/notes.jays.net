@@ -1,6 +1,7 @@
 ---
 title: "OK, I usually hate IDEs."
 date: 2013-04-01
+image: ok-i-usually-hate-ides-but-i-have-to-give-the-tumblr_mklm9iEcwa1rnp57xo1_1280.png
 tags: ["scala"]
 original_url: https://deafferret.tumblr.com/post/46885980434/ok-i-usually-hate-ides-but-i-have-to-give-the
 templateEngineOverride: md

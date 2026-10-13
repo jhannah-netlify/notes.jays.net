@@ -1,6 +1,7 @@
 ---
 title: "Beach day!"
 date: 2017-02-04
+image: beach-day-sanibel-island-etc-and-by-day-i-mean-tumblr_okvcrh5MFO1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156813848803/beach-day-sanibel-island-etc-and-by-day-i-mean
 templateEngineOverride: md

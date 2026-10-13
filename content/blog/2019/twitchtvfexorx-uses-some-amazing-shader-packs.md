@@ -1,6 +1,7 @@
 ---
 title: "twitch.tv/fexorx uses some amazing shader packs for modern Minecraft…"
 date: 2019-01-15
+image: twitchtvfexorx-uses-some-amazing-shader-packs-tumblr_pldp9sC8Go1rnp57xo1_1280.png
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/182032570298/twitchtvfexorx-uses-some-amazing-shader-packs
 templateEngineOverride: md

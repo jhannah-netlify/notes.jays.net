@@ -1,6 +1,7 @@
 ---
 title: "Dave’s underwater home."
 date: 2012-01-14
+image: daves-underwater-home-tumblr_lxt1s6gzQo1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15842384364/daves-underwater-home
 templateEngineOverride: md

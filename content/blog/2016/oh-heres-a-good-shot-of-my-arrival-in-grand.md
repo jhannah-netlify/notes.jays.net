@@ -1,6 +1,7 @@
 ---
 title: "Oh, here’s a good shot of my arrival in Grand Junction, Colorado."
 date: 2016-05-23
+image: oh-heres-a-good-shot-of-my-arrival-in-grand-tumblr_o7nasoQe271rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144819536438/oh-heres-a-good-shot-of-my-arrival-in-grand
 templateEngineOverride: md

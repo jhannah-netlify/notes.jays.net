@@ -1,6 +1,7 @@
 ---
 title: "Dave’s hot tub / sauna."
 date: 2012-01-14
+image: daves-hot-tub-sauna-tumblr_lxt1t1axy11rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15842409890/daves-hot-tub-sauna
 templateEngineOverride: md

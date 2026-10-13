@@ -1,6 +1,7 @@
 ---
 title: "Adventure in Serenia"
 date: 2010-06-08
+image: adventure-in-serenia-3cefaeb4.png
 original_url: https://headrattle.blogspot.com/2010/06/adventure-in-serenia.html
 templateEngineOverride: md
 ---

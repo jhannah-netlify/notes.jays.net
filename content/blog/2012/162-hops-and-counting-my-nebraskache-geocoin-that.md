@@ -1,6 +1,7 @@
 ---
 title: "162 hops and counting!"
 date: 2012-01-15
+image: 162-hops-and-counting-my-nebraskache-geocoin-that-tumblr_lxukiz1AlP1rnp57xo1_1280.jpg
 tags: ["geocaching"]
 original_url: https://deafferret.tumblr.com/post/15887990132/162-hops-and-counting-my-nebraskache-geocoin-that
 templateEngineOverride: md

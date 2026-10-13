@@ -1,6 +1,7 @@
 ---
 title: "A carbon atom and four hydrogen atoms"
 date: 2009-03-02
+image: carbon-atom-and-four-hydrogen-atoms-61d3ddea.png
 tags: ["bio"]
 original_url: https://headrattle.blogspot.com/2009/03/carbon-atom-and-four-hydrogen-atoms.html
 templateEngineOverride: md

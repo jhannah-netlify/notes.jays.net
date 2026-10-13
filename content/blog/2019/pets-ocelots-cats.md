@@ -1,6 +1,7 @@
 ---
 title: "Pets :) ocelots -> cats"
 date: 2019-01-15
+image: pets-ocelots-cats-tumblr_pldntxPvP91rnp57xo1_1280.png
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/182032037478/pets-ocelots-cats
 templateEngineOverride: md

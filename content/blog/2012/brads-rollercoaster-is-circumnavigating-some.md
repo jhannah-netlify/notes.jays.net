@@ -1,6 +1,7 @@
 ---
 title: "Brad’s rollercoaster is circumnavigating some beautiful scenery."
 date: 2012-01-15
+image: brads-rollercoaster-is-circumnavigating-some-tumblr_lxuwhmjNe91rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15901380074/brads-rollercoaster-is-circumnavigating-some
 templateEngineOverride: md

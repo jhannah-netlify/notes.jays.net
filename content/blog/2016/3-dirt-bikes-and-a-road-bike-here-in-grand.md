@@ -1,6 +1,7 @@
 ---
 title: "3 dirt bikes and a road bike here in Grand Junction, Colorado."
 date: 2016-05-23
+image: 3-dirt-bikes-and-a-road-bike-here-in-grand-tumblr_o7mt4dMcI21rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144805364808/3-dirt-bikes-and-a-road-bike-here-in-grand
 templateEngineOverride: md

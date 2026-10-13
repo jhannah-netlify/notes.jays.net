@@ -1,6 +1,7 @@
 ---
 title: "Aussie Adventures - June 6"
 date: 2007-06-06
+image: aussie-adventures-june-6-CIMG0995.jpg
 blosxom_file: 20070606.txt
 templateEngineOverride: md
 ---

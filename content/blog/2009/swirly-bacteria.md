@@ -1,6 +1,7 @@
 ---
 title: "Swirly bacteria"
 date: 2009-04-27
+image: swirly-bacteria-294048cb.png
 tags: ["bio", "perl"]
 original_url: https://headrattle.blogspot.com/2009/04/swirly-bacteria.html
 templateEngineOverride: md

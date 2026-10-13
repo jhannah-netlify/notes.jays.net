@@ -1,6 +1,7 @@
 ---
 title: "The Australian adventure has begun!"
 date: 2007-06-05
+image: the-australian-adventure-has-begun-CIMG0970.jpg
 blosxom_file: 20070605.txt
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Long weekend in NW Iowa."
 date: 2018-10-04
+image: long-weekend-in-nw-iowa-schaben-park-tumblr_pg365s6HLx1rnp57xo2_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/178733599068/long-weekend-in-nw-iowa-schaben-park
 templateEngineOverride: md

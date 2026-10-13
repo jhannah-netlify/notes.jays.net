@@ -1,6 +1,7 @@
 ---
 title: "South to Fort Myers, FL."
 date: 2017-02-04
+image: south-to-fort-myers-fl-another-great-cubicle-for-tumblr_okvbdz3AeD1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156812732258/south-to-fort-myers-fl-another-great-cubicle-for
 templateEngineOverride: md

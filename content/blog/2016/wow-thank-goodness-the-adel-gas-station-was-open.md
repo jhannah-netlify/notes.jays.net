@@ -1,6 +1,7 @@
 ---
 title: "WOW."
 date: 2016-06-05
+image: wow-thank-goodness-the-adel-gas-station-was-open-tumblr_o8d4d6gPLL1rnp57xo1_640.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145516875458/wow-thank-goodness-the-adel-gas-station-was-open
 templateEngineOverride: md

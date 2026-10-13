@@ -1,6 +1,7 @@
 ---
 title: "I had no idea Louisiana was such a logging economy."
 date: 2017-01-03
+image: i-had-no-idea-louisiana-was-such-a-logging-tumblr_ojhpylMenz1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155603631963/i-had-no-idea-louisiana-was-such-a-logging
 templateEngineOverride: md

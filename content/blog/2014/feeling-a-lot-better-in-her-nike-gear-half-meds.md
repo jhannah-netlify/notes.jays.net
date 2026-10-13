@@ -1,6 +1,7 @@
 ---
 title: "Feeling a lot better in her Nike gear, half meds."
 date: 2014-09-11
+image: feeling-a-lot-better-in-her-nike-gear-half-meds-tumblr_nbrkjs8F3m1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/97263543518/feeling-a-lot-better-in-her-nike-gear-half-meds
 templateEngineOverride: md

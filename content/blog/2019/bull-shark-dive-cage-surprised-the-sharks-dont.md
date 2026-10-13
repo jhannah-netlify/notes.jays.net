@@ -1,6 +1,7 @@
 ---
 title: "Bull shark dive cage."
 date: 2019-03-11
+image: bull-shark-dive-cage-surprised-the-sharks-dont-tumblr_po89ao3QhR1r5fdee_1280.jpg
 tags: ["scuba"]
 original_url: https://deafferret.tumblr.com/post/183391928388/bull-shark-dive-cage-surprised-the-sharks-dont
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Telecommuting / dog clinic day 2."
 date: 2014-09-11
+image: telecommuting-dog-clinic-day-2-its-so-hard-to-tumblr_nbqp8bkFkq1rnp57xo1_1280.jpg
 tags: ["fashion", "tipper"]
 original_url: https://deafferret.tumblr.com/post/97218813663/telecommuting-dog-clinic-day-2-its-so-hard-to
 templateEngineOverride: md

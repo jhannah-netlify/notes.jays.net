@@ -1,6 +1,7 @@
 ---
 title: "Law and the Long War"
 date: 2008-09-17
+image: law-and-long-war-c57f2b92.jpg
 original_url: https://headrattle.blogspot.com/2008/09/law-and-long-war.html
 templateEngineOverride: md
 ---

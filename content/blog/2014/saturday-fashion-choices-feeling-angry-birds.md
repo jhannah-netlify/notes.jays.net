@@ -1,6 +1,7 @@
 ---
 title: "Saturday fashion choices."
 date: 2014-09-13
+image: saturday-fashion-choices-feeling-angry-birds-tumblr_nbujzmDUqI1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/97389578223/saturday-fashion-choices-feeling-angry-birds
 templateEngineOverride: md

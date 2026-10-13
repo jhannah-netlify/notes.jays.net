@@ -1,6 +1,7 @@
 ---
 title: "Yay!"
 date: 2014-09-20
+image: yay-lots-of-hair-re-growth-tumblr_nc7f62irLv1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/97969075573/yay-lots-of-hair-re-growth
 templateEngineOverride: md

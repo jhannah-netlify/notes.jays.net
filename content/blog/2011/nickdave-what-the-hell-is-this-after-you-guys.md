@@ -1,6 +1,7 @@
 ---
 title: "Nick/Dave: What the hell is this??"
 date: 2011-12-16
+image: nickdave-what-the-hell-is-this-after-you-guys-tumblr_lxsxitUXBH1rnp57xo1_640.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15837638542/nickdave-what-the-hell-is-this-after-you-guys
 templateEngineOverride: md

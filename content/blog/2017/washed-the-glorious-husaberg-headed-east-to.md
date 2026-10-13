@@ -1,6 +1,7 @@
 ---
 title: "Washed the glorious Husaberg, headed east to Milton FL for a week."
 date: 2017-01-15
+image: washed-the-glorious-husaberg-headed-east-to-tumblr_ojxdjyvX7q1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155990607593/washed-the-glorious-husaberg-headed-east-to
 templateEngineOverride: md

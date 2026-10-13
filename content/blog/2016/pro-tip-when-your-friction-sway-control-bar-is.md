@@ -1,6 +1,7 @@
 ---
 title: "Pro tip: When your friction sway control bar is mounted, don’t pull…"
 date: 2016-05-10
+image: pro-tip-when-your-friction-sway-control-bar-is-tumblr_o6yy00nSCN1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144151980608/pro-tip-when-your-friction-sway-control-bar-is
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Telecommute / dog nursing, day 1."
 date: 2014-09-10
+image: telecommute-dog-nursing-day-1-tumblr_nbotnepnPZ1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/97136990118/telecommute-dog-nursing-day-1
 templateEngineOverride: md

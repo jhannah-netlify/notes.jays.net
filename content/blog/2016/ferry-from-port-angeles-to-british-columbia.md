@@ -1,6 +1,7 @@
 ---
 title: "Ferry from Port Angeles to British Columbia, Canada."
 date: 2016-06-26
+image: ferry-from-port-angeles-to-british-columbia-tumblr_oae629bvS31rnp57xo6_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/147479922493/ferry-from-port-angeles-to-british-columbia
 templateEngineOverride: md

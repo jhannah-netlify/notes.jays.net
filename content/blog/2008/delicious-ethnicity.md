@@ -1,6 +1,7 @@
 ---
 title: "Delicious ethnicity"
 date: 2008-07-21
+image: delicious-ethnicity-f0408319.png
 original_url: https://headrattle.blogspot.com/2008/07/delicious-ethnicity.html
 templateEngineOverride: md
 ---

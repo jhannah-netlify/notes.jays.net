@@ -1,6 +1,7 @@
 ---
 title: "Smart-aleck enduro racing deity Jerry Warner posted this photo from…"
 date: 2016-05-24
+image: smart-aleck-enduro-racing-deity-jerry-warner-tumblr_o7peqb1hr41rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144878296813/smart-aleck-enduro-racing-deity-jerry-warner
 templateEngineOverride: md

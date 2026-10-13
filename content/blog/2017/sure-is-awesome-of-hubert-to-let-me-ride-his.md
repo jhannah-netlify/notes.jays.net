@@ -1,6 +1,7 @@
 ---
 title: "Sure is awesome of Hubert to let me ride his trails!"
 date: 2017-01-13
+image: sure-is-awesome-of-hubert-to-let-me-ride-his-tumblr_ojpsrw4tN21rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/155803161723/sure-is-awesome-of-hubert-to-let-me-ride-his
 templateEngineOverride: md

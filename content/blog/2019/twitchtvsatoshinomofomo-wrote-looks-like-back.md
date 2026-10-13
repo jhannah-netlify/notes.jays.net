@@ -1,6 +1,7 @@
 ---
 title: "twitch.tv/satoshi_nomofomo wrote: “looks like back to the drawing…"
 date: 2019-01-15
+image: twitchtvsatoshinomofomo-wrote-looks-like-back-tumblr_pldnkjJmhD1rnp57xo1_1280.png
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/182031945513/twitchtvsatoshinomofomo-wrote-looks-like-back
 templateEngineOverride: md

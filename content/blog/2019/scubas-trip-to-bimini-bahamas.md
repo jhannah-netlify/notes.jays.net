@@ -1,6 +1,7 @@
 ---
 title: "Scubas trip to Bimini Bahamas"
 date: 2019-03-09
+image: scubas-trip-to-bimini-bahamas-tumblr_po4jypkwDB1r5fdee_1280.jpg
 tags: ["scuba"]
 original_url: https://deafferret.tumblr.com/post/183345320548/scubas-trip-to-bimini-bahamas
 templateEngineOverride: md

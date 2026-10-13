@@ -1,6 +1,7 @@
 ---
 title: "Port McNeill, Canada Day Logger Games."
 date: 2016-07-01
+image: port-mcneill-canada-day-logger-games-tumblr_oae77bsULG1rnp57xo4_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/147480835698/port-mcneill-canada-day-logger-games
 templateEngineOverride: md

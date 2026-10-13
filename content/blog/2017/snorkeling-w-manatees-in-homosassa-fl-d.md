@@ -1,6 +1,7 @@
 ---
 title: "Snorkeling w/ manatees in Homosassa, FL."
 date: 2017-01-27
+image: snorkeling-w-manatees-in-homosassa-fl-d-tumblr_okgt7lCVpo1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156464797103/snorkeling-w-manatees-in-homosassa-fl-d
 templateEngineOverride: md

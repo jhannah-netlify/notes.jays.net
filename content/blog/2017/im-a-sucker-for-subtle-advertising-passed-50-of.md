@@ -1,6 +1,7 @@
 ---
 title: "I’m a sucker for subtle advertising."
 date: 2017-02-09
+image: im-a-sucker-for-subtle-advertising-passed-50-of-tumblr_ol44akidsO1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/157019634948/im-a-sucker-for-subtle-advertising-passed-50-of
 templateEngineOverride: md

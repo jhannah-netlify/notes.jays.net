@@ -1,6 +1,7 @@
 ---
 title: "Last night in Nebraska"
 date: 2016-05-13
+image: last-night-in-nebraska-tumblr_o75bunwtmG1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/144326490633/last-night-in-nebraska
 templateEngineOverride: md

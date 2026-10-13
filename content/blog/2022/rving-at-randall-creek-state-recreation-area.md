@@ -1,6 +1,7 @@
 ---
 title: "RVing at Randall Creek State Recreation Area, South Dakota."
 date: 2022-05-14
+image: rving-at-randall-creek-state-recreation-area-24db177dcdf41e52cfe7551110ed85cc28df0ade.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/684238165853274112/rving-at-randall-creek-state-recreation-area
 templateEngineOverride: md

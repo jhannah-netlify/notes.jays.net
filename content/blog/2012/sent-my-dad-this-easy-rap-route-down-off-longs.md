@@ -1,6 +1,7 @@
 ---
 title: "Sent my dad this “easy rap” route down off Longs Peak."
 date: 2012-04-30
+image: sent-my-dad-this-easy-rap-route-down-off-longs-tumblr_m3avyeJccG1rnp57xo1_1280.jpg
 tags: ["rmnp"]
 original_url: https://deafferret.tumblr.com/post/22127160065/sent-my-dad-this-easy-rap-route-down-off-longs
 templateEngineOverride: md

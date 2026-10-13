@@ -1,6 +1,7 @@
 ---
 title: "Tipper’s lumpectomy went well, but it’s pretty gruesome to look at."
 date: 2014-09-09
+image: tippers-lumpectomy-went-well-but-its-pretty-tumblr_nbnp4tZoKL1rnp57xo1_1280.jpg
 tags: ["tipper"]
 original_url: https://deafferret.tumblr.com/post/97091200988/tippers-lumpectomy-went-well-but-its-pretty
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Hiya. After a year of jays.net stagnation I've started over again."
 date: 2001-12-22
+image: hiya-after-a-year-of-jays-net-stagnation-i-ve-started-over-a-us.jpg
 blosxom_file: 20011222.txt
 templateEngineOverride: md
 ---

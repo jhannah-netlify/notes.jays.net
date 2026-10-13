@@ -1,6 +1,7 @@
 ---
 title: "-sigh- My @PaleoPeople supply in Kansas City has dried up."
 date: 2013-03-28
+image: sigh-my-paleopeople-supply-in-kansas-city-has-tumblr_mkdyoztrKN1rnp57xo1_500.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/46526143800/sigh-my-paleopeople-supply-in-kansas-city-has
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "His favorite swimming hole."
 date: 2022-05-15
+image: his-favorite-swimming-hole-cant-get-him-to-21883bf30b312693c7a8beb7d2450f67d3afcdb6.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/684331029747679232/his-favorite-swimming-hole-cant-get-him-to
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "RV life day 1."
 date: 2016-05-02
+image: text-coming-soon-tumblr_o6kh3tXlLZ1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/143755026558/text-coming-soon
 templateEngineOverride: md

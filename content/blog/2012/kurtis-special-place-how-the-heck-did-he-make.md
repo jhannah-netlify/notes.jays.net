@@ -1,6 +1,7 @@
 ---
 title: "Kurtis’ special place."
 date: 2012-01-24
+image: kurtis-special-place-how-the-heck-did-he-make-tumblr_lyc02azgaL1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/16440440864/kurtis-special-place-how-the-heck-did-he-make
 templateEngineOverride: md

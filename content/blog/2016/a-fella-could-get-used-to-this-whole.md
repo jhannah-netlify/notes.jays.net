@@ -1,6 +1,7 @@
 ---
 title: "A fella could get used to this whole “roll around the country, work…"
 date: 2016-06-07
+image: a-fella-could-get-used-to-this-whole-tumblr_o8fkt5Yio11rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145587810243/a-fella-could-get-used-to-this-whole
 templateEngineOverride: md

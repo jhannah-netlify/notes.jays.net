@@ -1,6 +1,7 @@
 ---
 title: "twitch.tv/Skatmaker memorialized our great battle against the Wither…"
 date: 2019-01-15
+image: twitchtvskatmaker-memorialized-our-great-battle-tumblr_pldn9jpA6p1rnp57xo1_1280.png
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/182031832678/twitchtvskatmaker-memorialized-our-great-battle
 templateEngineOverride: md

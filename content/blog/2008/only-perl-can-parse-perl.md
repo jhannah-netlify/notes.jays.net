@@ -1,6 +1,7 @@
 ---
 title: "Only perl can parse Perl"
 date: 2008-02-19
+image: only-perl-can-parse-perl-aa0a8d09.png
 tags: ["perl"]
 original_url: https://headrattle.blogspot.com/2008/02/only-perl-can-parse-perl.html
 templateEngineOverride: md

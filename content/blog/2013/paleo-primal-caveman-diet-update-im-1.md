@@ -1,6 +1,7 @@
 ---
 title: "Paleo / Primal / Caveman “diet” update: I’m 1 pound above my record…"
 date: 2013-06-12
+image: paleo-primal-caveman-diet-update-im-1-tumblr_moalf5gmLy1rnp57xo1_1280.jpg
 tags: ["paleo"]
 original_url: https://deafferret.tumblr.com/post/52803340425/paleo-primal-caveman-diet-update-im-1
 templateEngineOverride: md

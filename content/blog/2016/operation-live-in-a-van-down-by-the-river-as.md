@@ -1,6 +1,7 @@
 ---
 title: "Operation Live in a Van Down by the River As some of you know, I’m…"
 date: 2016-03-21
+image: operation-live-in-a-van-down-by-the-river-as-tumblr_o4elwc2Fni1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/141444308093/operation-live-in-a-van-down-by-the-river-as
 templateEngineOverride: md

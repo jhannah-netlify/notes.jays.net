@@ -1,6 +1,7 @@
 ---
 title: "Brad’s tree house and Doom Fortress taunting."
 date: 2012-01-14
+image: brads-tree-house-and-doom-fortress-taunting-tumblr_lxt0cnAYee1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15840776259/brads-tree-house-and-doom-fortress-taunting
 templateEngineOverride: md

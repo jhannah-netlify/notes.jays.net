@@ -1,6 +1,7 @@
 ---
 title: "Begging for drugs!"
 date: 2014-09-15
+image: begging-for-drugs-tumblr_nbymhdXdhp1rnp57xo1_1280.jpg
 tags: ["addiction", "tipper"]
 original_url: https://deafferret.tumblr.com/post/97589882743/begging-for-drugs
 templateEngineOverride: md

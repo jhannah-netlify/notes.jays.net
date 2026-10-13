@@ -1,6 +1,7 @@
 ---
 title: "Whoah!"
 date: 2013-04-03
+image: whoah-scaladoc-is-pretty-bad-ass-right-out-of-tumblr_mkpmfhkFa11rnp57xo1_1280.png
 tags: ["scala"]
 original_url: https://deafferret.tumblr.com/post/47077427964/whoah-scaladoc-is-pretty-bad-ass-right-out-of
 templateEngineOverride: md

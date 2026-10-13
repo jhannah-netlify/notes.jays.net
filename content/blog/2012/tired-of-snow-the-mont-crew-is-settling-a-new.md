@@ -1,6 +1,7 @@
 ---
 title: "Tired of snow, the mont crew is settling a new homeland."
 date: 2012-02-19
+image: tired-of-snow-the-mont-crew-is-settling-a-new-tumblr_lzmp7iVrgq1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/17872250990/tired-of-snow-the-mont-crew-is-settling-a-new
 templateEngineOverride: md

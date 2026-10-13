@@ -1,6 +1,7 @@
 ---
 title: "Midwest tour"
 date: 2008-08-23
+image: midwest-tour-7179e7b3.png
 original_url: https://headrattle.blogspot.com/2008/08/midwest-tour.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Dave’s underground tree farm."
 date: 2012-01-14
+image: daves-underground-tree-farm-tumblr_lxt1vzeIvc1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15842501074/daves-underground-tree-farm
 templateEngineOverride: md

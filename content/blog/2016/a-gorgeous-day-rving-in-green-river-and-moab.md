@@ -1,6 +1,7 @@
 ---
 title: "A gorgeous day RVing in Green River and Moab, Utah."
 date: 2016-05-27
+image: a-gorgeous-day-rving-in-green-river-and-moab-tumblr_o7umb9Y6ON1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/145014929918/a-gorgeous-day-rving-in-green-river-and-moab
 templateEngineOverride: md

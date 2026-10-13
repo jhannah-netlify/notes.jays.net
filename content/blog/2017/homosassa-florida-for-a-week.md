@@ -1,6 +1,7 @@
 ---
 title: "Homosassa Florida for a week."
 date: 2017-01-26
+image: homosassa-florida-for-a-week-tumblr_okegj86nGk1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/156407086813/homosassa-florida-for-a-week
 templateEngineOverride: md

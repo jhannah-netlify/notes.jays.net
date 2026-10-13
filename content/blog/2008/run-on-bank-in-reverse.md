@@ -1,6 +1,7 @@
 ---
 title: "Run on the bank. In reverse."
 date: 2008-08-31
+image: run-on-bank-in-reverse-0ed0b648.png
 original_url: https://headrattle.blogspot.com/2008/08/run-on-bank-in-reverse.html
 templateEngineOverride: md
 ---

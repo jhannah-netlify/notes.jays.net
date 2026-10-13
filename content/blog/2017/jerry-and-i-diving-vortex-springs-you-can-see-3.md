@@ -1,6 +1,7 @@
 ---
 title: "Jerry and I diving Vortex Springs."
 date: 2017-01-20
+image: jerry-and-i-diving-vortex-springs-you-can-see-3-tumblr_ok3oxrbL8L1rnp57xo1_1280.jpg
 tags: ["rv", "scuba"]
 original_url: https://deafferret.tumblr.com/post/156141280723/jerry-and-i-diving-vortex-springs-you-can-see-3
 templateEngineOverride: md

@@ -1,6 +1,7 @@
 ---
 title: "Nick’s mob grinder."
 date: 2012-01-14
+image: nicks-mob-grinder-tumblr_lxt59cpkRC1rnp57xo1_1280.jpg
 tags: ["minecraft"]
 original_url: https://deafferret.tumblr.com/post/15846290135/nicks-mob-grinder
 templateEngineOverride: md

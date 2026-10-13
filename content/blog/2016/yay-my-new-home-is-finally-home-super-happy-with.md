@@ -1,6 +1,7 @@
 ---
 title: "Yay!"
 date: 2016-04-16
+image: yay-my-new-home-is-finally-home-super-happy-with-tumblr_o5q9anqlKE1rnp57xo7_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/142894029083/yay-my-new-home-is-finally-home-super-happy-with
 templateEngineOverride: md

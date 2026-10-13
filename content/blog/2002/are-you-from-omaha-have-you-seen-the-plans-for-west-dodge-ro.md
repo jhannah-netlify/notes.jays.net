@@ -1,6 +1,7 @@
 ---
 title: "Are you from Omaha? Have you seen the plans for West Dodge Road?"
 date: 2002-07-01
+image: are-you-from-omaha-have-you-seen-the-plans-for-west-dodge-ro-view1.jpg
 blosxom_file: 20020701.txt
 templateEngineOverride: md
 ---

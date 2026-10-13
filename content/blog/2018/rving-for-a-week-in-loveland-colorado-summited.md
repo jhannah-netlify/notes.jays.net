@@ -1,6 +1,7 @@
 ---
 title: "RVing for a week in Loveland, Colorado."
 date: 2018-09-14
+image: rving-for-a-week-in-loveland-colorado-summited-tumblr_pf1zt7UHDP1rnp57xo1_1280.jpg
 tags: ["rv"]
 original_url: https://deafferret.tumblr.com/post/178079256788/rving-for-a-week-in-loveland-colorado-summited
 templateEngineOverride: md

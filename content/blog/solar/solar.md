@@ -16,7 +16,7 @@ tags:
 * 20 panels "south-facing"
 * 12 panels "east-facing"
 
-System installed late 2025 (new roof, panels, mains, plug for outside emergency generator).
+System installed late 2025.
 Finally activated by OPPD Feb 12 2026.
 
 Solar system designed, installed by: [New Energy, LLC](newenergyne.com).

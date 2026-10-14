@@ -19,7 +19,7 @@ tags:
 System installed late 2025.
 Finally activated by OPPD Feb 12 2026.
 
-Solar system designed, installed by: [New Energy, LLC](newenergyne.com).
+Solar system designed, installed by: [New Energy, LLC](https://newenergyne.com).
 They also replaced my roof and my electrical mains, installed a whole-house generator plug
 on the outer wall, and ran a line for a future electric vehicle in our garage. 🤑
 

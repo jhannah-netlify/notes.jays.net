@@ -5,14 +5,21 @@ date: 2026-10-21
 tags: "perl"
 ---
 
-I met with Salve J. Nilsen briefly on 2026-10-21. If I'm understanding our conversation correctly:
+I met with Salve J. Nilsen briefly on 2026-10-21.
+Salve is in the process of writing up an
+[OSS Ecosystem Steward](https://github.com/CPAN-Security/security.metacpan.org/blob/sjn-steward-intro/docs/ecosystem-steward.md)
+document with all the details.
+
+In brief, the Perl Mongers relevance, if I'm understanding correctly:
 
 European laws are coming where software stacks will need to certify security maintenance, or
 businesses will be forced to stop using that software. If no organization offers to attest to
 the security of Perl / CPAN, businesses will be forced to stop using Perl.
 
-Salve's idea is to launch a "CPAN co-op" (that name is a placeholder) where a new non-profit,
-legally registered worker-owned cooperative can offer to sell attestations of security on Perl
+Salve's idea is to launch an
+[OSS Ecosystem Steward](https://github.com/CPAN-Security/security.metacpan.org/blob/sjn-steward-intro/docs/ecosystem-steward.md)
+organization: a new non-profit, legally registered, worker-owned cooperative that
+can offer to sell attestations of security on Perl
 stacks for money. That money can be donated and/or distributed amongst the partnering co-op
 organizations -- whatever mechanisms are enacted by votes of the member orgs.
 
@@ -26,7 +33,7 @@ Salve would like me to expand the `perl_mongers.xml`
 with new fields so that Perl Monger groups can add their non-profit details if they have
 them and wish to be members of the co-op.
 
-This should be an easy change, once we have a few examples to work with? Something like this?
+Our DTD/XML should be an easy change, once we have a few examples to work with? Something like this?
 
 ```xml
   <group id="0" status="active">

@@ -24,12 +24,14 @@ Can you believe [Jay was a philosophy computer geek in 1994](http://jays.net/arc
 
 My first BioPerl patch has been applied! A one byte typo correction! I'm so excited! :)
 
-> /home/repository/bioperl/bioperl-live/Bio/Search/Result/GenericResult.pm,v
->     ----------------------------
->     revision 1.27
->     date: 2006/10/10 22:41:46;  author: bosborne;  state: Exp;  lines: +4 -4
->     next_hit, not next_hits
->     ----------------------------
+```
+/home/repository/bioperl/bioperl-live/Bio/Search/Result/GenericResult.pm,v
+----------------------------
+revision 1.27
+date: 2006/10/10 22:41:46;  author: bosborne;  state: Exp;  lines: +4 -4
+next_hit, not next_hits
+----------------------------
+```
 
 I'm a simple man who takes great satisfaction in the simple things. :)
 
@@ -47,19 +49,12 @@ On December 3rd, 2004, Zach insisted that he was going to write his first story 
 
 Here it is, complete and un-edited:
 
-> <table data-border="1">
-> <colgroup>
-> <col style="width: 100%" />
-> </colgroup>
-> <tbody>
-> <tr>
-> <td>elf<br />
-> by<br />
-> zachary<br />
-> <br />
-> wonets a pon a time thare was a baby cold bady 4</td>
-> </tr>
-> </tbody>
-> </table>
+```
+elf
+by
+zachary
+
+wonets a pon a time thare was a baby cold bady 4
+```
 
 Powerful stuff. :) Think I can retire on his residuals yet?

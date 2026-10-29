@@ -20,7 +20,7 @@ Here's one of my favorite [West Wing quotes](http://en.wikiquote.org/wiki/The_We
 
 [Free wifi](http://www.wififreespot.com/ne.html) is good! I've discovered that's a good link, for both Nebraska and California. :)
 
-Can you believe [Jay was a philosophy computer geek in 1994](http://jays.net/archive/philclub/)? 12 years later, this stuff was STILL on the Iowa State University server. Make sure to click the "people" link. :)
+Can you believe [Jay was a philosophy computer geek in 1994](http://jays.net/archives/1994/philclub/)? 12 years later, this stuff was STILL on the Iowa State University server. Make sure to click the "people" link. :)
 
 My first BioPerl patch has been applied! A one byte typo correction! I'm so excited! :)
 
